@@ -1,0 +1,638 @@
+[{
+  'topic': 'Jobs and the economy',
+  'importances': {
+    'very': {
+      'Chinese': '32%',
+      'Filipino': '52%',
+      'Vietnamese': '50%',
+      'Asian Indian': '60%',
+      'Japanese': '58%',
+      'Korean': '36%',
+      'Total': '46%'
+    },
+    'not': {
+      'Chinese': '3%',
+      'Filipino': '1%',
+      'Vietnamese': '0%',
+      'Asian Indian': '0%',
+      'Japanese': '2%',
+      'Korean': '0%',
+      'Total': '1%'
+    },
+    'extremely': {
+      'Chinese': '55%',
+      'Filipino': '44%',
+      'Vietnamese': '46%',
+      'Asian Indian': '35%',
+      'Japanese': '20%',
+      'Korean': '54%',
+      'Total': '45%'
+    },
+    'idk': {
+      'Chinese': '1%',
+      'Filipino': '1%',
+      'Vietnamese': '2%',
+      'Asian Indian': '1%',
+      'Japanese': '0%',
+      'Korean': '1%',
+      'Total': '1%'
+    },
+    'somewhat': {
+      'Chinese': '10%',
+      'Filipino': '2%',
+      'Vietnamese': '2%',
+      'Asian Indian': '5%',
+      'Japanese': '20%',
+      'Korean': '9%',
+      'Total': '7%'
+    }
+  }
+}, {
+  'topic': 'Health care',
+  'importances': {
+    'very': {
+      'Chinese': '34%',
+      'Filipino': '44%',
+      'Vietnamese': '48%',
+      'Asian Indian': '53%',
+      'Japanese': '60%',
+      'Korean': '26%',
+      'Total': '43%'
+    },
+    'not': {
+      'Chinese': '2%',
+      'Filipino': '1%',
+      'Vietnamese': '1%',
+      'Asian Indian': '1%',
+      'Japanese': '2%',
+      'Korean': '0%',
+      'Total': '1%'
+    },
+    'extremely': {
+      'Chinese': '58%',
+      'Filipino': '46%',
+      'Vietnamese': '46%',
+      'Asian Indian': '37%',
+      'Japanese': '26%',
+      'Korean': '55%',
+      'Total': '47%'
+    },
+    'idk': {
+      'Chinese': '0%',
+      'Filipino': '1%',
+      'Vietnamese': '0%',
+      'Asian Indian': '0%',
+      'Japanese': '3%',
+      'Korean': '1%',
+      'Total': '1%'
+    },
+    'somewhat': {
+      'Chinese': '6%',
+      'Filipino': '7%',
+      'Vietnamese': '5%',
+      'Asian Indian': '9%',
+      'Japanese': '10%',
+      'Korean': '18%',
+      'Total': '8%'
+    }
+  }
+}, {
+  'topic': 'Passing immigration reform',
+  'importances': {
+    'very': {
+      'Chinese': '38%',
+      'Filipino': '43%',
+      'Vietnamese': '51%',
+      'Asian Indian': '33%',
+      'Japanese': '32%',
+      'Korean': '40%',
+      'Total': '40%'
+    },
+    'not': {
+      'Chinese': '12%',
+      'Filipino': '9%',
+      'Vietnamese': '4%',
+      'Asian Indian': '8%',
+      'Japanese': '7%',
+      'Korean': '3%',
+      'Total': '8%'
+    },
+    'extremely': {
+      'Chinese': '14%',
+      'Filipino': '20%',
+      'Vietnamese': '15%',
+      'Asian Indian': '21%',
+      'Japanese': '16%',
+      'Korean': '32%',
+      'Total': '19%'
+    },
+    'idk': {
+      'Chinese': '5%',
+      'Filipino': '8%',
+      'Vietnamese': '7%',
+      'Asian Indian': '4%',
+      'Japanese': '7%',
+      'Korean': '7%',
+      'Total': '6%'
+    },
+    'somewhat': {
+      'Chinese': '31%',
+      'Filipino': '20%',
+      'Vietnamese': '24%',
+      'Asian Indian': '33%',
+      'Japanese': '39%',
+      'Korean': '18%',
+      'Total': '27%'
+    }
+  }
+}, {
+  'topic': 'Growing hostility towards immigrants',
+  'importances': {
+    'very': {
+      'Chinese': '35%',
+      'Filipino': '43%',
+      'Vietnamese': '55%',
+      'Asian Indian': '38%',
+      'Japanese': '38%',
+      'Korean': '47%',
+      'Total': '42%'
+    },
+    'not': {
+      'Chinese': '16%',
+      'Filipino': '10%',
+      'Vietnamese': '10%',
+      'Asian Indian': '5%',
+      'Japanese': '7%',
+      'Korean': '5%',
+      'Total': '10%'
+    },
+    'extremely': {
+      'Chinese': '12%',
+      'Filipino': '23%',
+      'Vietnamese': '12%',
+      'Asian Indian': '27%',
+      'Japanese': '17%',
+      'Korean': '36%',
+      'Total': '20%'
+    },
+    'idk': {
+      'Chinese': '9%',
+      'Filipino': '9%',
+      'Vietnamese': '8%',
+      'Asian Indian': '7%',
+      'Japanese': '7%',
+      'Korean': '4%',
+      'Total': '8%'
+    },
+    'somewhat': {
+      'Chinese': '28%',
+      'Filipino': '15%',
+      'Vietnamese': '15%',
+      'Asian Indian': '23%',
+      'Japanese': '30%',
+      'Korean': '9%',
+      'Total': '20%'
+    }
+  }
+}, {
+  'topic': 'Gun control',
+  'importances': {
+    'very': {
+      'Chinese': '21%',
+      'Filipino': '40%',
+      'Vietnamese': '43%',
+      'Asian Indian': '40%',
+      'Japanese': '37%',
+      'Korean': '25%',
+      'Total': '34%'
+    },
+    'not': {
+      'Chinese': '11%',
+      'Filipino': '9%',
+      'Vietnamese': '6%',
+      'Asian Indian': '6%',
+      'Japanese': '13%',
+      'Korean': '13%',
+      'Total': '9%'
+    },
+    'extremely': {
+      'Chinese': '48%',
+      'Filipino': '31%',
+      'Vietnamese': '37%',
+      'Asian Indian': '36%',
+      'Japanese': '28%',
+      'Korean': '56%',
+      'Total': '40%'
+    },
+    'idk': {
+      'Chinese': '2%',
+      'Filipino': '2%',
+      'Vietnamese': '3%',
+      'Asian Indian': '2%',
+      'Japanese': '3%',
+      'Korean': '1%',
+      'Total': '2%'
+    },
+    'somewhat': {
+      'Chinese': '18%',
+      'Filipino': '19%',
+      'Vietnamese': '11%',
+      'Asian Indian': '16%',
+      'Japanese': '20%',
+      'Korean': '5%',
+      'Total': '15%'
+    }
+  }
+}, {
+  'topic': 'The environment',
+  'importances': {
+    'very': {
+      'Chinese': '43%',
+      'Filipino': '47%',
+      'Vietnamese': '70%',
+      'Asian Indian': '47%',
+      'Japanese': '44%',
+      'Korean': '34%',
+      'Total': '47%'
+    },
+    'not': {
+      'Chinese': '3%',
+      'Filipino': '5%',
+      'Vietnamese': '2%',
+      'Asian Indian': '4%',
+      'Japanese': '5%',
+      'Korean': '1%',
+      'Total': '4%'
+    },
+    'extremely': {
+      'Chinese': '42%',
+      'Filipino': '28%',
+      'Vietnamese': '20%',
+      'Asian Indian': '27%',
+      'Japanese': '26%',
+      'Korean': '57%',
+      'Total': '33%'
+    },
+    'idk': {
+      'Chinese': '1%',
+      'Filipino': '1%',
+      'Vietnamese': '2%',
+      'Asian Indian': '3%',
+      'Japanese': '5%',
+      'Korean': '0%',
+      'Total': '2%'
+    },
+    'somewhat': {
+      'Chinese': '11%',
+      'Filipino': '20%',
+      'Vietnamese': '6%',
+      'Asian Indian': '18%',
+      'Japanese': '21%',
+      'Korean': '7%',
+      'Total': '14%'
+    }
+  }
+}, {
+  'topic': 'Threat of terrorist attacks',
+  'importances': {
+    'very': {
+      'Chinese': '34%',
+      'Filipino': '43%',
+      'Vietnamese': '23%',
+      'Asian Indian': '29%',
+      'Japanese': '44%',
+      'Korean': '16%',
+      'Total': '32%'
+    },
+    'not': {
+      'Chinese': '3%',
+      'Filipino': '9%',
+      'Vietnamese': '9%',
+      'Asian Indian': '4%',
+      'Japanese': '7%',
+      'Korean': '1%',
+      'Total': '5%'
+    },
+    'extremely': {
+      'Chinese': '51%',
+      'Filipino': '40%',
+      'Vietnamese': '51%',
+      'Asian Indian': '41%',
+      'Japanese': '26%',
+      'Korean': '67%',
+      'Total': '47%'
+    },
+    'idk': {
+      'Chinese': '1%',
+      'Filipino': '2%',
+      'Vietnamese': '1%',
+      'Asian Indian': '8%',
+      'Japanese': '4%',
+      'Korean': '2%',
+      'Total': '3%'
+    },
+    'somewhat': {
+      'Chinese': '12%',
+      'Filipino': '6%',
+      'Vietnamese': '16%',
+      'Asian Indian': '18%',
+      'Japanese': '19%',
+      'Korean': '14%',
+      'Total': '13%'
+    }
+  }
+}, {
+  'topic': 'Racial profiling',
+  'importances': {
+    'very': {
+      'Chinese': '29%',
+      'Filipino': '37%',
+      'Vietnamese': '45%',
+      'Asian Indian': '39%',
+      'Japanese': '38%',
+      'Korean': '31%',
+      'Total': '36%'
+    },
+    'not': {
+      'Chinese': '19%',
+      'Filipino': '8%',
+      'Vietnamese': '15%',
+      'Asian Indian': '9%',
+      'Japanese': '8%',
+      'Korean': '10%',
+      'Total': '12%'
+    },
+    'extremely': {
+      'Chinese': '13%',
+      'Filipino': '26%',
+      'Vietnamese': '11%',
+      'Asian Indian': '25%',
+      'Japanese': '14%',
+      'Korean': '34%',
+      'Total': '20%'
+    },
+    'idk': {
+      'Chinese': '9%',
+      'Filipino': '8%',
+      'Vietnamese': '6%',
+      'Asian Indian': '11%',
+      'Japanese': '2%',
+      'Korean': '4%',
+      'Total': '8%'
+    },
+    'somewhat': {
+      'Chinese': '30%',
+      'Filipino': '23%',
+      'Vietnamese': '23%',
+      'Asian Indian': '16%',
+      'Japanese': '38%',
+      'Korean': '21%',
+      'Total': '24%'
+    }
+  }
+}, {
+  'topic': 'Taxes',
+  'importances': {
+    'very': {
+      'Chinese': '37%',
+      'Filipino': '55%',
+      'Vietnamese': '46%',
+      'Asian Indian': '42%',
+      'Japanese': '43%',
+      'Korean': '40%',
+      'Total': '44%'
+    },
+    'not': {
+      'Chinese': '6%',
+      'Filipino': '5%',
+      'Vietnamese': '11%',
+      'Asian Indian': '3%',
+      'Japanese': '5%',
+      'Korean': '1%',
+      'Total': '5%'
+    },
+    'extremely': {
+      'Chinese': '25%',
+      'Filipino': '20%',
+      'Vietnamese': '25%',
+      'Asian Indian': '27%',
+      'Japanese': '21%',
+      'Korean': '40%',
+      'Total': '26%'
+    },
+    'idk': {
+      'Chinese': '2%',
+      'Filipino': '4%',
+      'Vietnamese': '3%',
+      'Asian Indian': '1%',
+      'Japanese': '2%',
+      'Korean': '1%',
+      'Total': '2%'
+    },
+    'somewhat': {
+      'Chinese': '31%',
+      'Filipino': '15%',
+      'Vietnamese': '15%',
+      'Asian Indian': '27%',
+      'Japanese': '29%',
+      'Korean': '19%',
+      'Total': '23%'
+    }
+  }
+}, {
+  'topic': 'Growing gap between the rich and poor',
+  'importances': {
+    'very': {
+      'Chinese': '36%',
+      'Filipino': '43%',
+      'Vietnamese': '50%',
+      'Asian Indian': '35%',
+      'Japanese': '41%',
+      'Korean': '32%',
+      'Total': '39%'
+    },
+    'not': {
+      'Chinese': '8%',
+      'Filipino': '5%',
+      'Vietnamese': '9%',
+      'Asian Indian': '6%',
+      'Japanese': '5%',
+      'Korean': '3%',
+      'Total': '6%'
+    },
+    'extremely': {
+      'Chinese': '24%',
+      'Filipino': '28%',
+      'Vietnamese': '15%',
+      'Asian Indian': '26%',
+      'Japanese': '21%',
+      'Korean': '42%',
+      'Total': '26%'
+    },
+    'idk': {
+      'Chinese': '3%',
+      'Filipino': '6%',
+      'Vietnamese': '5%',
+      'Asian Indian': '2%',
+      'Japanese': '2%',
+      'Korean': '3%',
+      'Total': '4%'
+    },
+    'somewhat': {
+      'Chinese': '30%',
+      'Filipino': '18%',
+      'Vietnamese': '22%',
+      'Asian Indian': '32%',
+      'Japanese': '30%',
+      'Korean': '20%',
+      'Total': '25%'
+    }
+  }
+}, {
+  'topic': 'Education',
+  'importances': {
+    'very': {
+      'Chinese': '34%',
+      'Filipino': '55%',
+      'Vietnamese': '40%',
+      'Asian Indian': '49%',
+      'Japanese': '51%',
+      'Korean': '28%',
+      'Total': '43%'
+    },
+    'not': {
+      'Chinese': '4%',
+      'Filipino': '4%',
+      'Vietnamese': '1%',
+      'Asian Indian': '1%',
+      'Japanese': '2%',
+      'Korean': '0%',
+      'Total': '2%'
+    },
+    'extremely': {
+      'Chinese': '56%',
+      'Filipino': '37%',
+      'Vietnamese': '56%',
+      'Asian Indian': '43%',
+      'Japanese': '33%',
+      'Korean': '61%',
+      'Total': '48%'
+    },
+    'idk': {
+      'Chinese': '2%',
+      'Filipino': '1%',
+      'Vietnamese': '1%',
+      'Asian Indian': '0%',
+      'Japanese': '0%',
+      'Korean': '1%',
+      'Total': '1%'
+    },
+    'somewhat': {
+      'Chinese': '5%',
+      'Filipino': '4%',
+      'Vietnamese': '2%',
+      'Asian Indian': '7%',
+      'Japanese': '14%',
+      'Korean': '10%',
+      'Total': '6%'
+    }
+  }
+}, {
+  'topic': 'Social security',
+  'importances': {
+    'very': {
+      'Chinese': '38%',
+      'Filipino': '51%',
+      'Vietnamese': '48%',
+      'Asian Indian': '30%',
+      'Japanese': '49%',
+      'Korean': '38%',
+      'Total': '41%'
+    },
+    'not': {
+      'Chinese': '1%',
+      'Filipino': '1%',
+      'Vietnamese': '1%',
+      'Asian Indian': '3%',
+      'Japanese': '3%',
+      'Korean': '1%',
+      'Total': '2%'
+    },
+    'extremely': {
+      'Chinese': '41%',
+      'Filipino': '35%',
+      'Vietnamese': '37%',
+      'Asian Indian': '41%',
+      'Japanese': '32%',
+      'Korean': '46%',
+      'Total': '39%'
+    },
+    'idk': {
+      'Chinese': '1%',
+      'Filipino': '1%',
+      'Vietnamese': '1%',
+      'Asian Indian': '1%',
+      'Japanese': '2%',
+      'Korean': '2%',
+      'Total': '1%'
+    },
+    'somewhat': {
+      'Chinese': '18%',
+      'Filipino': '12%',
+      'Vietnamese': '14%',
+      'Asian Indian': '26%',
+      'Japanese': '14%',
+      'Korean': '13%',
+      'Total': '17%'
+    }
+  }
+}, {
+  'topic': 'Retirement security or the security of your retirement',
+  'importances': {
+    'very': {
+      'Chinese': '31%',
+      'Filipino': '46%',
+      'Vietnamese': '49%',
+      'Asian Indian': '46%',
+      'Japanese': '56%',
+      'Korean': '34%',
+      'Total': '42%'
+    },
+    'not': {
+      'Chinese': '3%',
+      'Filipino': '2%',
+      'Vietnamese': '2%',
+      'Asian Indian': '3%',
+      'Japanese': '1%',
+      'Korean': '1%',
+      'Total': '2%'
+    },
+    'extremely': {
+      'Chinese': '45%',
+      'Filipino': '42%',
+      'Vietnamese': '30%',
+      'Asian Indian': '33%',
+      'Japanese': '25%',
+      'Korean': '54%',
+      'Total': '40%'
+    },
+    'idk': {
+      'Chinese': '1%',
+      'Filipino': '1%',
+      'Vietnamese': '2%',
+      'Asian Indian': '1%',
+      'Japanese': '1%',
+      'Korean': '1%',
+      'Total': '1%'
+    },
+    'somewhat': {
+      'Chinese': '20%',
+      'Filipino': '8%',
+      'Vietnamese': '17%',
+      'Asian Indian': '17%',
+      'Japanese': '16%',
+      'Korean': '11%',
+      'Total': '15%'
+    }
+  }
+}]

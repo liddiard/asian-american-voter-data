@@ -1,0 +1,90 @@
+[{
+  'topic': 'Do you think of yourself as closer to the Republican Party or to the Democratic Party?',
+  'responses': {
+    'Closer to the Democratic Party': {
+      'Chinese': '37%',
+      'Filipino': '39%',
+      'Vietnamese': '47%',
+      'Asian Indian': '48%',
+      'Japanese': '38%',
+      'Korean': '28%',
+      'Total': '41%'
+    },
+    "Don't know": {
+      'Chinese': '14%',
+      'Filipino': '5%',
+      'Vietnamese': '0%',
+      'Asian Indian': '5%',
+      'Japanese': '3%',
+      'Korean': '0%',
+      'Total': '7%'
+    },
+    'Refused': {
+      'Chinese': '0%',
+      'Filipino': '0%',
+      'Vietnamese': '0%',
+      'Asian Indian': '1%',
+      'Japanese': '0%',
+      'Korean': '0%',
+      'Total': '0%'
+    }
+    'Closer to neither party': {
+      'Chinese': '34%',
+      'Filipino': '49%',
+      'Vietnamese': '24%',
+      'Asian Indian': '26%',
+      'Japanese': '41%',
+      'Korean': '42%',
+      'Total': '33%'
+    },
+    'Closer to the Republican Party': {
+      'Chinese': '14%',
+      'Filipino': '8%',
+      'Vietnamese': '29%',
+      'Asian Indian': '20%',
+      'Japanese': '19%',
+      'Korean': '31%',
+      'Total': '18%'
+    }
+  }
+}, {
+  'topic': 'Based on where the two parties stand on the issues, do you think your views are closer to the Republican Party or to the Democratic Party?',
+  'responses': {
+    'Closer to the Democratic Party': {
+      'Chinese': '29%',
+      'Filipino': '48%',
+      'Vietnamese': '44%',
+      'Asian Indian': '44%',
+      'Japanese': '38%',
+      'Korean': '62%',
+      'Total': '40%'
+    },
+    "Don't know": {
+      'Chinese': '5%',
+      'Filipino': '6%',
+      'Vietnamese': '6%',
+      'Asian Indian': '8%',
+      'Japanese': '26%',
+      'Korean': '1%',
+      'Total': '6%'
+    },
+    'Closer to neither party': {
+      'Chinese': '47%',
+      'Filipino': '29%',
+      'Vietnamese': '30%',
+      'Asian Indian': '25%',
+      'Japanese': '8%',
+      'Korean': '10%',
+      'Total': '33%'
+    },
+    'Closer to the Republican Party': {
+      'Chinese': '20%',
+      'Filipino': '18%',
+      'Vietnamese': '20%',
+      'Asian Indian': '23%',
+      'Japanese': '27%',
+      'Korean': '28%',
+      'Total': '21%'
+    }
+  }
+}]

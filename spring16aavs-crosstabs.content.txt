@@ -1,0 +1,5215 @@
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 1 of 115
+Q1A. There will be a general election for President and Congress this November. Are you planning to vote or not planning to vote in that election?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Planning to vote95%92%91%96%98%98%94%
+Not planning to vote2%2%2%2%1%0%2%
+Don't Know3%6%7%2%1%1%4%
+Refused0%0%0%0%0%0%0%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+How certain are you that you will vote in the upcoming presidential election? Are you...
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Absolutely certain85%82%88%89%84%87%85%
+Fairly certain11%13%10%10%12%10%11%
+Not too certain3%6%1%0%4%4%3%
+Not at all certain1%0%0%1%1%0%0%
+Don't Know1%0%1%1%0%0%0%
+Total100%100%100%100%100%100%100%
+N1882131631522182121146
+Q1C. If you do vote... will you vote early or by mail using an absentee ballot or will you vote at your precinct polling place on Election Day? 
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Early Voter14%29%11%15%14%11%17%
+Absentee14%15%26%43%14%30%21%
+Vote on Election Day67%48%62%37%60%58%57%
+Don't Know5%8%1%5%12%1%5%
+Total100%100%100%100%100%100%100%
+N1852131601472162121133
+Q2A. Generally speaking, fewer people vote in primaries and caucuses before the November general election. How about you? Did you vote ...
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Yes47%69%34%24%37%22%44%
+No54%26%64%73%63%77%54%
+Don't Know0%5%2%3%0%2%2%
+Total100%100%100%100%100%100%100%
+N899793122118128647
+Q2B. Generally speaking, fewer people vote in primaries and caucuses before the Nov general election. How about you? Do you plan to vote... 
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Yes58%49%69%85%56%43%58%
+No26%39%22%11%28%51%31%
+Don't Know16%12%10%4%16%5%11%
+Refused0%0%0%0%0%1%0%
+Total100%100%100%100%100%100%100%
+N113134823910889565
+----------------Page (0) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 2 of 115
+Q2C. Which presidential candidate did you vote for?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Hillary Clinton40%23%31%44%14%29%29%
+Bernie Sanders30%54%10%9%11%22%34%
+Donald Trump8%3%17%11%22%35%11%
+Ted Cruz0%4%8%10%2%10%4%
+Marco Rubio4%0%2%0%0%2%2%
+John Kasich2%0%0%1%1%0%1%
+Bobby Jindal0%0%1%0%0%0%0%
+Someone else16%16%30%26%51%3%20%
+Total100%100%100%100%100%100%100%
+N445232303330221
+Q2D. Which presidential candidate do you plan to vote for?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Hillary Clinton44%30%36%45%36%22%35%
+Bernie Sanders31%5%26%9%24%53%23%
+Donald Trump6%19%11%7%0%8%10%
+Ted Cruz0%9%0%2%16%0%4%
+Marco Rubio0%0%1%0%0%0%0%
+John Kasich2%0%2%2%0%0%1%
+Someone else18%38%25%36%24%17%27%
+Total100%100%100%100%100%100%100%
+N696954325332309
+Discussed politics with family and friends
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Yes75%62%67%74%72%76%69%
+02 No25%39%33%26%28%24%31%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Worked for a candidate, political party, or some other campaign organization
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Yes5%18%3%2%3%4%8%
+02 No94%82%97%96%97%96%92%
+88 Don't Know0%0%0%2%0%0%0%
+99 Refused1%0%0%0%0%0%0%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+----------------Page (1) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 3 of 115
+Contributed money to a candidate, political party, or some other campaign organization
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Yes16%23%12%16%9%23%17%
+02 No84%77%88%82%91%75%82%
+88 Don't Know0%0%0%2%0%0%0%
+99 Refused0%0%0%0%0%2%0%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Contacted your representative or a government official in the U.S.
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Yes20%10%14%17%7%24%15%
+02 No79%89%86%83%93%76%85%
+88 Don't Know1%1%1%0%0%0%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Worked with others in your community to solve a problem
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Yes37%17%25%24%14%28%25%
+02 No62%82%75%74%85%72%75%
+88 Don't Know1%1%1%2%0%0%1%
+99 Refused0%0%0%0%0%0%0%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Posted about politics on social media, like Facebook, Twitter, or WeChat
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Yes22%19%30%10%12%13%20%
+02 No76%80%70%89%88%87%79%
+88 Don't Know2%1%1%1%0%0%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Attended a protest march, demonstration, or rally
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Yes4%12%4%2%9%23%9%
+02 No95%88%97%98%91%77%91%
+88 Don't Know0%0%0%1%0%0%0%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+----------------Page (2) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 4 of 115
+Attended a meeting of the local school board or Parent Teacher Association
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Yes29%12%12%6%13%21%16%
+02 No70%87%87%94%87%79%83%
+88 Don't Know0%0%0%1%0%0%0%
+99 Refused0%0%1%0%0%0%0%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Donated money to a religious organization
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Yes56%42%58%50%72%66%55%
+02 No44%57%40%50%28%34%44%
+88 Don't Know0%0%0%0%0%0%0%
+99 Refused0%0%3%0%0%0%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Donated money to any other charitable cause
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Yes70%49%62%74%52%63%60%
+02 No30%50%38%25%48%37%40%
+88 Don't Know0%1%1%1%0%0%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Do you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable impression of... The Republican Party?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Very favorable6%6%8%6%2%20%8%
+02 Somewhat favorable12%32%23%18%24%26%23%
+03 Somewhat unfavorable20%14%27%29%37%11%21%
+04 Very unfavorable38%16%21%35%25%23%24%
+05 No opinion23%31%21%12%12%21%23%
+06 Never heard1%1%0%0%0%0%0%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Do you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable impression of... The Democratic Party?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Very favorable31%22%29%33%15%33%27%
+02 Somewhat favorable33%39%35%35%51%36%38%
+03 Somewhat unfavorable6%8%9%12%20%7%9%
+04 Very unfavorable11%8%12%12%4%12%10%
+05 No opinion18%22%14%8%10%13%16%
+06 Never heard1%1%0%0%0%0%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+----------------Page (3) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 5 of 115
+Barack Obama
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Very favorable56%18%34%40%30%51%36%
+02 Somewhat favorable27%36%34%34%36%24%32%
+03 Somewhat unfavorable3%18%9%15%29%9%13%
+04 Very unfavorable6%12%13%10%4%10%10%
+05 No opinion8%15%10%1%1%7%9%
+06 Never heard0%2%0%0%0%0%0%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Donald Trump
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Very favorable10%4%14%5%0%10%8%
+02 Somewhat favorable12%13%9%11%9%12%11%
+03 Somewhat unfavorable10%20%11%16%19%8%14%
+04 Very unfavorable53%29%52%59%62%49%47%
+05 No opinion15%22%15%9%7%18%16%
+06 Never heard0%11%0%0%3%4%4%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Ted Cruz
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Very favorable2%2%4%1%2%5%3%
+02 Somewhat favorable11%18%23%25%20%24%19%
+03 Somewhat unfavorable14%6%20%16%22%12%14%
+04 Very unfavorable45%17%21%33%20%28%26%
+05 No opinion22%34%26%22%24%22%26%
+06 Never heard6%24%5%3%12%10%12%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Marco Rubio
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Very favorable3%1%4%2%2%3%2%
+02 Somewhat favorable14%20%23%18%17%11%18%
+03 Somewhat unfavorable23%9%15%18%34%22%18%
+04 Very unfavorable27%10%19%21%6%19%17%
+05 No opinion29%34%34%34%24%29%31%
+06 Never heard5%27%4%7%17%16%14%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+----------------Page (4) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 6 of 115
+John Kasich
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Very favorable6%3%8%5%1%5%5%
+02 Somewhat favorable22%5%21%29%21%13%16%
+03 Somewhat unfavorable20%18%11%17%20%16%17%
+04 Very unfavorable15%8%13%11%1%14%11%
+05 No opinion28%36%35%25%30%25%31%
+06 Never heard9%30%13%13%28%26%20%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Hillary Clinton
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Very favorable30%22%25%30%15%40%26%
+02 Somewhat favorable33%39%34%36%45%27%36%
+03 Somewhat unfavorable7%11%9%12%25%7%11%
+04 Very unfavorable18%11%19%18%12%12%15%
+05 No opinion12%12%12%2%3%14%11%
+06 Never heard0%5%1%3%0%0%2%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Bernie Sanders
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Very favorable29%11%24%20%12%32%21%
+02 Somewhat favorable35%15%30%36%35%20%26%
+03 Somewhat unfavorable7%17%10%13%20%7%12%
+04 Very unfavorable8%8%13%11%8%12%10%
+05 No opinion18%30%21%16%16%21%22%
+06 Never heard4%18%3%4%9%9%9%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+South Carolina governor Nikki Haley
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Very favorable6%0%5%2%1%2%3%
+02 Somewhat favorable19%4%9%10%10%7%10%
+03 Somewhat unfavorable11%12%9%10%6%7%10%
+04 Very unfavorable8%3%7%11%3%5%6%
+05 No opinion32%37%41%28%30%48%37%
+06 Never heard25%43%29%39%50%31%35%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+----------------Page (5) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 7 of 115
+Supreme Court nominee Merrick Garland
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Very favorable17%2%12%14%4%13%10%
+02 Somewhat favorable23%8%14%17%18%15%15%
+03 Somewhat unfavorable5%11%6%7%4%3%7%
+04 Very unfavorable1%5%1%3%0%6%3%
+05 No opinion30%42%39%28%32%42%37%
+06 Never heard23%33%27%31%41%21%29%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Q5. Overall, do you approve or disapprove of the way Barack Obama is handling his job as President? 
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Approve84%56%68%70%63%66%67%
+Disapprove11%31%23%20%24%22%23%
+Don't Know4%13%7%10%12%11%9%
+Refused2%0%2%0%1%1%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Q6A. Thinking about the upcoming November election for  the U.S. Senate in California...
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Harris39%22%27%25%6%2%20.01%
+Sanchez0%3%3%13%7%37%9.48%
+Someone else8%6%9%0%0%2%55.50%
+Don't Know50%69%61%63%86%58%64.72%
+Refused3%0%0%0%0%0%0.25%
+Total100%100%100%100%100%100%100%
+N252735142533159
+Q6B. Would you say you support that candidate strongly or not so strongly?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Support strongly55%90%40%33%63%60%58%
+Not so strongly36%11%35%67%37%40%32%
+Don't know10%0%25%0%0%0%10%
+Total100%100%100%100%100%100%100%
+N11813651659
+Q6C. Well, who do you lean towards at this time?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Republican6%34%11%30%35%12%22%
+Democrat72%30%67%70%58%70%56%
+Some other party0%2%0%0%0%2%1%
+Don't Know23%31%18%0%8%16%19%
+Refused0%3%4%0%0%0%2%
+Total100%100%100%100%100%100%100%
+N14192282017100
+Q6D. Thinking about the upcoming November election for  the U.S. Senate in California...
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Harris39%22%28%41%45%30%31%
+Sanches0%0%7%7%9%32%9%
+Someone else17%17%8%13%9%9%12%
+Don't Know42%61%53%39%37%26%47%
+Refused2%0%3%0%0%3%2%
+Total100%100%100%100%100%100%100%
+N363839223436205
+----------------Page (6) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 8 of 115
+Q6E. Would you say you support that candidate strongly or not so strongly?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Support strongly45%86%59%73%36%82%66%
+Not so strongly53%6%20%16%35%8%21%
+Don't know2%8%20%11%29%10%13%
+Total100%100%100%100%100%100%100%
+N211617142230120
+Q6F. Well, who do you lean towards at this time?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Republican4%31%17%0%32%0%18%
+Democrat69%41%57%33%56%11%48%
+Some other party4%7%0%8%0%7%4%
+Don't Know23%20%13%58%12%82%26%
+Refused0%0%13%0%0%0%5%
+Total100%100%100%100%100%100%100%
+N152222812685
+Q6G. Thinking about the upcoming November election for the U.S. Senate in your state... If the election were being held today...
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Republican27%29%24%12%17%43%26%
+Democrat59%40%41%69%63%33%49%
+Some other party0%3%1%2%0%5%2%
+Don't Know14%26%28%17%18%19%21%
+Refused1%2%6%1%2%0%2%
+Total100%100%100%100%100%100%100%
+N901388712311059607
+Q6H. Would you say you support that candidate strongly or not so strongly?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Support strongly61%47%69%65%27%84%57%
+Not so strongly24%50%26%19%55%13%34%
+Don't know15%3%5%16%18%4%10%
+Total100%100%100%100%100%100%100%
+N729968969243470
+----------------Page (7) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 9 of 115
+Q6I. Well, which party's candidate do you lean towards at this time?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Republican4%2%3%8%40%7%8%
+Democrat33%38%11%25%37%38%30%
+Some other party15%0%29%8%0%7%10%
+Don't Know44%60%39%58%23%48%47%
+Refused5%0%17%1%0%0%5%
+Total100%100%100%100%100%100%100%
+N183919271816137
+Q7A. Thinking about the upcoming November election for the U.S. House of Representatives in your state... If the election were being held today...
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Republican16%20%19%16%23%30%21%
+Democrat62%46%58%69%53%46%54%
+Some other party1%7%1%0%0%4%3%
+Don't Know20%27%20%14%23%20%22%
+Refused1%0%2%0%1%0%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Q7B. Would you say you support that candidate strongly or not so strongly?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Support strongly65%57%70%62%38%77%63%
+Not so strongly23%39%23%20%51%21%29%
+Don't know12%5%7%18%11%2%8%
+Total100%100%100%100%100%100%100%
+N154161134127185161922
+Q7C. Well, which party's candidate do you lean towards at this time?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Republican10%1%2%8%17%17%7%
+Democrat31%35%31%27%44%16%32%
+Some other party7%0%0%4%1%8%3%
+Don't Know49%64%53%61%35%55%54%
+Refused3%1%14%0%4%4%5%
+Total100%100%100%100%100%100%100%
+N487041344156290
+Q7D. Compared to previous elections, are you more enthusiastic than usual about voting this year or less enthusiastic? 
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+More enthusiastic61%51%51%38%49%48%51%
+Less enthusiastic25%20%33%37%23%23%26%
+(DO NOT READ)  About the same12%28%12%20%26%28%20%
+DON'T KNOW2%2%5%4%1%1%3%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+----------------Page (8) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 10 of 115
+Q8. Generally speaking, do you usually think of yourself as a  (READ CATEGORIES)
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Democrat55%40%54%62%54%28%48%
+Republican8%8%17%15%24%27%15%
+Independent31%50%12%19%16%34%30%
+Other party  (please specify)1%0%3%1%0%0%1%
+(DO NOT READ)  Do not think in terms of political parties2%0%5%3%5%10%4%
+DON'T KNOW3%2%5%0%2%1%2%
+Refused1%0%5%0%0%1%2%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Q8B. Would you call yourself a strong Republican or a not very strong Republican
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Strong Republican24%37%58%44%16%61%44%
+Not very strong Republican76%54%42%48%84%38%54%
+Don't Know0%9%0%8%0%1%2%
+Total100%100%100%100%100%100%100%
+N121736214664196
+Q8C. Would you call yourself a strong Democrat or a not very strong Democrat?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Strong Democrat66%48%51%44%8%60%49%
+Not very strong Democrat30%51%47%48%92%37%49%
+Don't Know4%1%3%8%0%3%3%
+Refused0%0%0%0%0%0%0%
+Total100%100%100%100%100%100%100%
+N10491878512443534
+Q8D1. Do you think of yourself as closer to the Republican Party or to the Democratic Party?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Closer to the Republican Party20%14%8%19%31%29%18%
+Closer to the Democratic party48%37%39%38%28%47%41%
+Closer to neither party26%34%49%41%42%24%33%
+Don't Know5%14%5%3%0%0%7%
+Refused1%0%0%0%0%0%0%
+Total100%100%100%100%100%100%100%
+N395923322955237
+Q8D2. Based on where the two parties stand on the issues, do you think your views are closer to the Republican Party or to the Democratic Party? 
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Closer to the Republican Party23%20%18%27%28%20%21%
+Closer to the Democratic party44%29%48%38%62%44%40%
+Closer to neither party25%47%29%8%10%30%33%
+Don't Know8%5%6%26%1%6%6%
+Total100%100%100%100%100%100%100%
+N456425222654236
+----------------Page (9) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 11 of 115
+Q9. Thinking about past elections, did you get a chance to vote in the 2012 presidential election? If so, did you vote for...
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Obama80%56%60%77%56%60%63%
+Romney5%23%21%19%22%28%20%
+Someone else1%5%1%0%0%1%2%
+Didn't vote12%10%14%2%18%8%11%
+Don't remember0%6%1%3%4%1%3%
+Don't know1%0%1%0%0%1%1%
+Refused1%0%1%0%0%0%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Now I'd like to ask you about some issues that might be important in the elections in November... Jobs and the economy
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Extremely important35%55%44%20%54%46%45%
+02 Very important60%32%52%58%36%50%46%
+03 Somewhat important5%10%2%20%9%2%7%
+04 or Not important0%3%1%2%0%0%1%
+88 Don't Know1%1%1%0%1%2%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Health care
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Extremely important37%58%46%26%55%46%47%
+02 Very important53%34%44%60%26%48%43%
+03 Somewhat important9%6%7%10%18%5%8%
+04 or Not important1%2%1%2%0%1%1%
+88 Don't Know0%0%1%3%1%0%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Passing immigration reform
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Extremely important21%14%20%16%32%15%19%
+02 Very important33%38%43%32%40%51%40%
+03 Somewhat important33%31%20%39%18%24%27%
+04 or Not important8%12%9%7%3%4%8%
+88 Don't Know4%5%8%7%7%7%6%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+----------------Page (10) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 12 of 115
+Growing hostility towards immigrants
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Extremely important27%12%23%17%36%12%20%
+02 Very important38%35%43%38%47%55%42%
+03 Somewhat important23%28%15%30%9%15%20%
+04 or Not important5%16%10%7%5%10%10%
+88 Don't Know7%9%9%7%4%8%8%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Gun control
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Extremely important36%48%31%28%56%37%40%
+02 Very important40%21%40%37%25%43%34%
+03 Somewhat important16%18%19%20%5%11%15%
+04 or Not important6%11%9%13%13%6%9%
+88 Don't Know2%2%2%3%1%3%2%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+The environment
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Extremely important27%42%28%26%57%20%33%
+02 Very important47%43%47%44%34%70%47%
+03 Somewhat important18%11%20%21%7%6%14%
+04 or Not important4%3%5%5%1%2%4%
+88 Don't Know3%1%1%5%0%2%2%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Threat of terrorist attacks
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Extremely important41%51%40%26%67%51%47%
+02 Very important29%34%43%44%16%23%32%
+03 Somewhat important18%12%6%19%14%16%13%
+04 or Not important4%3%9%7%1%9%5%
+88 Don't Know8%1%2%4%2%1%3%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Racial profiling
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Extremely important25%13%26%14%34%11%20%
+02 Very important39%29%37%38%31%45%36%
+03 Somewhat important16%30%23%38%21%23%24%
+04 or Not important9%19%8%8%10%15%12%
+88 Don't Know11%9%8%2%4%6%8%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+----------------Page (11) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 13 of 115
+Taxes
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Extremely important27%25%20%21%40%25%26%
+02 Very important42%37%55%43%40%46%44%
+03 Somewhat important27%31%15%29%19%15%23%
+04 or Not important3%6%5%5%1%11%5%
+88 Don't Know1%2%4%2%1%3%2%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Growing gap between the rich and poor
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Extremely important26%24%28%21%42%15%26%
+02 Very important35%36%43%41%32%50%39%
+03 Somewhat important32%30%18%30%20%22%25%
+04 or Not important6%8%5%5%3%9%6%
+88 Don't Know2%3%6%2%3%5%4%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Education
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Extremely important43%56%37%33%61%56%48%
+02 Very important49%34%55%51%28%40%43%
+03 Somewhat important7%5%4%14%10%2%6%
+04 or Not important1%4%4%2%0%1%2%
+88 Don't Know0%2%1%0%1%1%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Social security
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Extremely important41%41%35%32%46%37%39%
+02 Very important30%38%51%49%38%48%41%
+03 Somewhat important26%18%12%14%13%14%17%
+04 or Not important3%1%1%3%1%1%2%
+88 Don't Know1%1%1%2%2%1%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Retirement security or the security of your retirement
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Extremely important33%45%42%25%54%30%40%
+02 Very important46%31%46%56%34%49%42%
+03 Somewhat important17%20%8%16%11%17%15%
+04 or Not important3%3%2%1%1%2%2%
+88 Don't Know1%1%1%1%1%2%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+----------------Page (12) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 14 of 115
+For each of the following issues, please tell me whether the Democratic Party or Republican Party is doing a better job .... Jobs and the economy
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Democrat48%26%47%39%39%35%39%
+02 Republican13%21%19%13%17%27%19%
+03 No Difference31%35%24%31%30%28%30%
+88 Don't Know8%18%10%16%14%11%13%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Health care
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Democrat61%42%54%50%48%55%51%
+02 Republican7%18%15%10%17%11%14%
+03 No Difference24%24%23%27%21%26%24%
+88 Don't Know8%16%9%12%15%9%11%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Passing immigration reform
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Democrat46%37%32%36%53%40%40%
+02 Republican11%11%14%12%13%24%14%
+03 No Difference23%33%39%31%20%22%29%
+88 Don't Know20%19%14%21%14%14%17%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Reducing hostility towards immigrants
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Democrat55%35%42%57%60%52%47%
+02 Republican5%6%12%6%15%12%9%
+03 No Difference25%36%34%24%10%25%28%
+88 Don't Know15%23%13%13%15%11%16%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Gun control
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Democrat54%36%38%44%47%33%41%
+02 Republican6%17%19%13%21%21%16%
+03 No Difference25%25%28%30%19%32%27%
+88 Don't Know15%22%15%13%13%14%16%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+----------------Page (13) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 15 of 115
+The environment
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Democrat58%37%42%49%51%45%46%
+02 Republican2%5%10%4%9%8%6%
+03 No Difference31%29%36%29%19%30%30%
+88 Don't Know10%29%12%18%21%17%18%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Threat of terrorist attacks
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Democrat37%18%24%14%27%19%24%
+02 Republican15%25%25%21%35%39%26%
+03 No Difference39%36%35%48%23%31%35%
+88 Don't Know9%21%16%18%16%11%15%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Racial profiling
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Democrat45%33%36%40%62%37%40%
+02 Republican7%4%12%8%13%12%9%
+03 No Difference34%32%36%34%13%37%32%
+88 Don't Know14%31%16%18%12%15%19%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Taxes
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Democrat33%31%27%35%37%30%31%
+02 Republican20%13%21%20%20%21%19%
+03 No Difference35%34%35%25%23%36%33%
+88 Don't Know13%22%18%19%20%13%17%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Growing gap between the rich and poor
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Democrat47%30%34%46%46%54%40%
+02 Republican10%20%18%7%10%10%14%
+03 No Difference34%31%34%30%27%23%31%
+88 Don't Know9%18%14%17%17%14%15%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+----------------Page (14) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 16 of 115
+Education
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Democrat49%36%38%42%34%43%40%
+02 Republican5%8%11%8%15%13%10%
+03 No Difference39%33%34%40%32%32%34%
+88 Don't Know7%23%17%10%19%13%16%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Social security
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Democrat38%43%37%51%46%42%41%
+02 Republican6%10%16%10%13%12%11%
+03 No Difference43%30%33%30%32%36%34%
+88 Don't Know13%18%15%8%10%10%14%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Retirement security or the security of your retirement
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Democrat32%38%37%47%36%42%38%
+02 Republican7%7%13%13%25%13%12%
+03 No Difference42%34%32%27%19%30%33%
+88 Don't Know19%20%18%14%20%15%18%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Do you support or oppose the health care law passed by Barack Obama and Congress in 2010?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Support74%52%49%62%39%68%57%
+02 Oppose18%36%33%25%38%18%29%
+88 No Difference8%12%13%13%23%10%12%
+99 Refused1%0%5%0%1%4%2%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+... Support or oppose major new spending by the federal govt that would help undergraduates pay tuition at public colleges without needing loans?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Support69%41%67%57%69%78%61.7%
+02 Oppose21%45%22%28%19%9%26.1%
+88 No Difference8%14%9%14%11%10%10.5%
+99 Refused2%1%2%2%1%4%1.8%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+----------------Page (15) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 17 of 115
+Do you support or oppose accepting Syrian refugees into the United States?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Support42%19%29%40%45%39%33%
+02 Oppose37%56%45%35%45%33%44%
+88 No Difference16%24%22%25%9%25%21%
+99 Refused6%1%3%0%1%3%3%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Do you support or oppose legalizing the possession of small amounts of marijuana for personal use?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Support32%22%34%35%11%26%27%
+02 Oppose61%67%55%56%83%60%63%
+88 No Difference7%11%10%9%6%14%10%
+99 Refused1%0%1%0%0%0%0%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Do you support or oppose banning people who are Muslim from entering the United States?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Support16%18%16%21%36%29%21%
+02 Oppose70%53%63%64%50%47%58%
+88 No Difference11%28%17%14%13%17%18%
+99 Refused3%2%4%2%1%7%3%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Do you support or oppose setting stricter emission limits on power plants in order to address climate change?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Support73%74%68%69%71%83%72.9%
+02 Oppose12%11%19%14%11%9%12.9%
+88 No Difference12%14%11%17%18%6%12.5%
+99 Refused4%1%2%0%0%2%1.7%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Do you support or oppose providing a federal income tax credit to family caregivers for the care and support of a loved one?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Support78%70%77%82%69%85%76%
+02 Oppose10%16%12%9%10%7%11%
+88 No Difference9%13%9%9%20%5%11%
+99 Refused3%1%2%0%1%3%2%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+----------------Page (16) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 18 of 115
+Q13B1. In general, do you think aff action programs designed to increase the number of black and minority students on college campuses are... 
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Good thing52%23%67%60%55%78%52%
+Bad thing29%63%18%10%34%10%32%
+Don't Know17%14%11%31%11%11%14%
+Refused3%0%4%0%0%0%2%
+Total100%100%100%100%100%100%100%
+N1001149181112109607
+Q13B2. Do you favor or oppose aff action programs designed to help blacks, women, and other minorities get better access to higher education?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Favor68%41%64%72%87%82%64%
+Oppose21%45%24%18%9%13%25%
+Don't Know10%14%9%8%4%5%9%
+Refused1%0%4%2%0%0%1%
+Total100%100%100%100%100%100%100%
+N1021178480114108605
+Blacks and other minorities receive equal treatment as whites in the criminal justice system
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Strongly disagree33%17%24%24%20%22%23%
+02 Somewhat Disagree15%12%13%22%45%1%16%
+03 Neither Agree nor Disagree8%9%10%10%4%2%8%
+04 Somewhat Agree13%17%15%20%15%9%15%
+05 Strongly Agree27%42%28%14%9%64%34%
+88 Don't Know5%2%8%9%7%2%5%
+99 Refused0%0%2%2%0%0%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Congress should increase the federal minimum wage from its current level of $7.25 an hour
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Strongly disagree10%12%13%9%4%9%10.3%
+02 Somewhat Disagree3%8%11%9%6%5%7.0%
+03 Neither Agree nor Disagree4%9%2%4%4%2%4.6%
+04 Somewhat Agree19%26%21%29%37%6%22.2%
+05 Strongly Agree60%42%50%43%39%72%51.0%
+88 Don't Know4%3%3%6%11%3%4.1%
+99 Refused0%0%1%0%0%2%0.7%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+We should have stricter gun laws in the United States
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Strongly disagree8%6%15%9%2%2%7.6%
+02 Somewhat Disagree2%16%11%5%11%5%9.4%
+03 Neither Agree nor Disagree4%4%2%5%9%3%4.0%
+04 Somewhat Agree15%11%15%13%10%2%11.3%
+05 Strongly Agree71%61%53%65%66%87%65.4%
+88 Don't Know1%1%4%2%2%1%1.8%
+99 Refused0%0%1%1%0%1%0.5%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+----------------Page (17) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 19 of 115
+The government should expand access to health insurance for all immigrants, regardless of their legal status
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Strongly disagree32%28%25%30%5%16%24%
+02 Somewhat Disagree14%17%16%21%19%14%16%
+03 Neither Agree nor Disagree8%15%9%7%6%7%10%
+04 Somewhat Agree20%19%17%26%36%32%23%
+05 Strongly Agree22%18%27%10%30%19%22%
+88 Don't Know3%3%5%6%3%8%5%
+99 Refused2%0%1%0%0%3%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Undocumented immigrants should have the opportunity to eventually become U.S. citizens
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Strongly disagree27%15%13%9%5%18%16%
+02 Somewhat Disagree7%18%7%5%13%10%11%
+03 Neither Agree nor Disagree3%16%9%5%5%6%9%
+04 Somewhat Agree28%32%31%50%45%23%32%
+05 Strongly Agree31%13%36%27%24%30%26%
+88 Don't Know2%4%3%2%3%10%4%
+99 Refused2%1%1%2%5%3%2%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+The Senate should give President Obama's Supreme Court nominee a quick and fair hearing
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Strongly disagree12%7%9%9%3%10%9%
+02 Somewhat Disagree2%5%5%2%12%2%5%
+03 Neither Agree nor Disagree3%16%11%9%2%8%9%
+04 Somewhat Agree18%27%30%22%33%12%24%
+05 Strongly Agree55%28%32%46%34%56%40%
+88 Don't Know10%17%13%12%16%10%13%
+99 Refused1%1%1%0%0%2%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Laws on hate crimes against religious minorities should be made stronger
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Strongly disagree14%12%12%6%1%1%9%
+02 Somewhat Disagree2%2%7%5%8%5%4%
+03 Neither Agree nor Disagree6%13%5%4%2%8%8%
+04 Somewhat Agree15%23%23%19%20%19%20%
+05 Strongly Agree58%41%43%46%55%56%49%
+88 Don't Know4%9%8%18%14%9%9%
+99 Refused1%0%2%2%1%1%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+----------------Page (18) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 20 of 115
+Undocumented immigrants should be allowed to get driver's licenses
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Strongly disagree33%19%31%28%7%26%24%
+02 Somewhat Disagree11%16%22%14%16%13%16%
+03 Neither Agree nor Disagree10%13%3%10%2%9%8%
+04 Somewhat Agree15%24%20%23%47%17%23%
+05 Strongly Agree26%21%19%18%24%30%23%
+88 Don't Know5%6%4%6%3%5%5%
+99 Refused1%1%2%1%0%1%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Undocumented immigrants should be allowed to pay in-state tuition at public universities
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Strongly disagree18%29%14%16%9%14%18%
+02 Somewhat Disagree11%8%14%16%23%7%12%
+03 Neither Agree nor Disagree6%14%6%7%2%9%8%
+04 Somewhat Agree27%20%25%25%32%30%26%
+05 Strongly Agree35%20%33%32%31%30%29%
+88 Don't Know4%8%6%4%3%9%6%
+99 Refused0%2%1%0%1%1%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Asian Americans are unfairly treated by police
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Strongly disagree23%22%16%13%5%19%18%
+02 Somewhat Disagree18%10%30%36%21%20%20%
+03 Neither Agree nor Disagree10%25%10%19%11%15%15%
+04 Somewhat Agree25%17%14%17%34%19%20%
+05 Strongly Agree11%15%16%4%15%16%14%
+88 Don't Know11%10%11%11%15%9%11%
+99 Refused2%1%4%1%1%3%2%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Sometimes politics and government seem so complicated that a person like me can't understand what's going on
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Strongly disagree16%7%11%7%4%15%11%
+02 Somewhat Disagree16%7%18%15%9%11%12%
+03 Neither Agree nor Disagree3%14%10%5%11%3%8%
+04 Somewhat Agree27%32%32%36%44%19%31%
+05 Strongly Agree33%35%25%37%21%42%32%
+88 Don't Know6%5%2%0%11%9%5%
+99 Refused0%1%2%0%0%0%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+----------------Page (19) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 21 of 115
+Public officials don't care much what people like me think.
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Strongly disagree8%6%5%6%2%10%6%
+02 Somewhat Disagree12%8%29%17%26%22%18%
+03 Neither Agree nor Disagree9%22%6%12%5%5%11%
+04 Somewhat Agree24%31%26%39%30%15%27%
+05 Strongly Agree38%23%22%23%19%37%27%
+88 Don't Know8%9%9%3%18%9%10%
+99 Refused1%1%2%0%0%2%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Q16C. How would you describe your political views? Very conservative...
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Very conservative2%1%5%3%5%1%3%
+Conservative16%16%21%24%39%11%20%
+Moderate52%59%40%41%35%47%48%
+Liberal24%21%28%23%16%26%23%
+Very liberal6%3%6%10%6%15%7%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Q17. ... If a political candidate expressed strongly anti-immigrant views, but you agreed with him or her on other issues, would you ... 
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Still vote for candidate29%43%38%26%32%30%35%
+Someone else43%32%42%40%49%43%40%
+Don't Know27%25%18%33%18%26%24%
+Refused2%1%2%1%1%1%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Q17B. Next, if a political candidate expressed strong anti-Muslim views, and you agreed with him or her on other issues, would you ...
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Still vote for candidate24%47%31%27%34%34%35%
+Someone else59%24%45%46%52%49%44%
+Don't Know15%29%20%26%13%17%21%
+Refused2%0%4%1%1%1%2%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Thinking about the 2016 elections, have you been contacted any of the following groups ... Democrats
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 A great deal8%4%5%11%6%9%6%
+02 Some14%6%9%24%6%11%10%
+03 A little17%19%13%18%18%21%17%
+04 Not at all57%70%67%45%62%57%62%
+88 Don't Know5%2%3%2%8%2%3%
+99 Refused1%0%3%0%0%0%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+----------------Page (20) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 22 of 115
+Thinking about the 2016 elections, have you been contacted any of the following groups ... Republicans
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 A great deal3%3%2%7%5%6%4%
+02 Some14%5%10%10%5%7%9%
+03 A little7%14%5%15%17%10%10%
+04 Not at all72%75%78%66%64%75%73%
+88 Don't Know4%3%3%2%8%2%4%
+99 Refused0%0%3%0%0%0%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Thinking about the 2016 elections, have you been contacted any of the following groups ... Community Organizations
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 A great deal7%1%5%4%3%2%4%
+02 Some15%8%10%21%6%12%11%
+03 A little7%6%9%14%16%17%10%
+04 Not at all69%83%71%59%66%68%72%
+88 Don't Know2%2%2%2%9%1%3%
+99 Refused0%0%3%0%0%0%1%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+We need more EthnicGroup/Asian Americans in Congress
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Extremely important13%28%14%7%43%44%25%
+02 Very important16%29%36%14%29%26%27%
+03 Somewhat important37%26%31%53%18%23%30%
+04 or Not important29%11%14%25%8%6%15%
+88 Don't Know4%7%5%2%2%1%4%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+We need more women in Congress
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Extremely important29%22%20%11%20%34%24%
+02 Very important22%26%39%25%24%37%30%
+03 Somewhat important29%24%24%41%29%12%25%
+04 or Not important19%21%11%21%19%15%17%
+88 Don't Know2%7%5%2%8%2%5%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+We need more Democrats/Republicans in Congress
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Extremely important17%16%8%10%18%11%13%
+02 Very important16%15%21%14%19%18%17%
+03 Somewhat important20%30%26%19%17%27%25%
+04 or Not important43%26%35%52%41%32%35%
+88 Don't Know5%13%11%6%6%11%10%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+----------------Page (21) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Ethnicity, Page 23 of 115
+We need more people in Congress who represent the issues I care about most
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+01 Extremely important32%47%30%30%43%39%37%
+02 Very important39%28%41%38%33%28%34%
+03 Somewhat important19%19%15%24%15%17%18%
+04 or Not important7%1%6%4%1%10%5%
+88 Don't Know3%4%8%4%8%6%6%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Q19E. Finally... how important is it that the presidential candidates lay out their plans to update Social Security for future generations?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Extremely important50%45%46%42%55%34%46%
+Very important32%32%38%42%27%47%36%
+Somewhat important13%15%10%14%10%12%12%
+or Not important3%2%4%1%2%4%3%
+Don't Know2%6%2%1%6%3%4%
+Total100%100%100%100%100%100%100%
+N2022311751612262171,212
+Q21A. You said you get your news from television. Is that [Asian/Ethnic] show?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Yes20%48%14%5%27%63%32%
+No69%45%69%89%48%18%54%
+(DO NOT READ)  Both/Both Asian and non-Asian11%8%17%5%26%19%14%
+Refused0%0%0%0%0%0%0%
+Total100%100%100%100%100%100%100%
+N150175137130176188956
+Q21B. You said you get your news from the Internet. Is that [Asian/Ethnic] web site?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Yes9%28%12%3%20%48%21%
+No63%60%80%93%61%37%63%
+(DO NOT READ)  Both/Both Asian and non-Asian28%12%7%4%19%15%15%
+Total100%100%100%100%100%100%100%
+N13891778196124607
+Q21C. You said you get your news from newspapers. Is that [Asian/Ethnic] newspaper?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Yes3%60%13%12%58%72%43%
+No71%35%66%85%27%18%45%
+(DO NOT READ)  Both/Both Asian and non-Asian27%5%20%3%16%9%12%
+Don't Know0%0%0%0%0%0%0%
+Refused0%0%1%0%0%0%0%
+Total100%100%100%100%100%100%100%
+N671516797120133635
+Q21D. You said you get your news from radio. Is that [Asian/Ethnic] show?
+Asian IndianChineseFilipinoJapaneseKoreanVietnameseTotal
+Yes11%56%7%9%31%53%33%
+No88%41%84%85%68%41%62%
+(DO NOT READ)  Both/Both Asian and non-Asian1%4%9%7%1%7%5%
+Refused0%0%1%0%0%0%0%
+Total100%100%100%100%100%100%100%
+N5910354426185404
+----------------Page (22) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 24 of 115
+Q1A. There will be a general election for President and Congress this November. Are you planning to vote or not planning to vote in that election?
+MaleFemaleTotal
+Planning to vote96%93%94%
+Not planning to vote2%2%2%
+Don't Know3%6%4%
+Refused0%0%0%
+Total100%100%100%
+N6335791,212
+How certain are you that you will vote in the upcoming presidential election? Are you...
+MaleFemaleTotal
+Absolutely certain82%88%85%
+Fairly certain13%10%11%
+Not too certain5%2%3%
+Not at all certain0%0%0%
+Don't Know1%0%0%
+Total100%100%100%
+N6055411146
+Q1C. If you do vote... will you vote early or by mail using an absentee ballot or will you vote at your precinct polling place on Election Day? 
+MaleFemaleTotal
+Early Voter16%18%17%
+Absentee21%21%21%
+Vote on Election Day59%55%57%
+Don't Know4%6%5%
+Total100%100%100%
+N5965371133
+Q2A. Generally speaking, fewer people vote in primaries and caucuses before the November general election. How about you? Did you vote ...
+MaleFemaleTotal
+Yes36%53%44%
+No61%47%54%
+Don't Know3%1%2%
+Total100%100%100%
+N352295647
+Q2B. Generally speaking, fewer people vote in primaries and caucuses before the Nov general election. How about you? Do you plan to vote... 
+MaleFemaleTotal
+Yes53%61%58%
+No36%27%31%
+Don't Know10%11%11%
+Refused0%0%0%
+Total100%100%100%
+N281284565
+----------------Page (23) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 25 of 115
+Q2C. Which presidential candidate did you vote for?
+MaleFemaleTotal
+Hillary Clinton27%31%29%
+Bernie Sanders26%39%34%
+Donald Trump15%8%11%
+Ted Cruz2%5%4%
+Marco Rubio1%2%2%
+John Kasich0%1%1%
+Bobby Jindal0%0%0%
+Someone else29%15%20%
+Total100%100%100%
+N107114221
+Q2D. Which presidential candidate do you plan to vote for?
+MaleFemaleTotal
+Hillary Clinton32%37%35%
+Bernie Sanders22%23%23%
+Donald Trump14%8%10%
+Ted Cruz4%4%4%
+Marco Rubio0%1%0%
+John Kasich1%1%1%
+Someone else26%27%27%
+Total100%100%100%
+N155154309
+Discussed politics with family and friends
+MaleFemaleTotal
+01 Yes72%67%69%
+02 No28%33%31%
+Total100%100%100%
+N6335791,212
+Worked for a candidate, political party, or some other campaign organization
+MaleFemaleTotal
+01 Yes6%9%8%
+02 No94%91%92%
+88 Don't Know0%0%0%
+99 Refused0%0%0%
+Total100%100%100%
+N6335791,212
+----------------Page (24) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 26 of 115
+Contributed money to a candidate, political party, or some other campaign organization
+MaleFemaleTotal
+01 Yes15%19%17%
+02 No84%81%82%
+88 Don't Know0%0%0%
+99 Refused1%0%0%
+Total100%100%100%
+N6335791,212
+Contacted your representative or a government official in the U.S.
+MaleFemaleTotal
+01 Yes17%13%15%
+02 No82%87%85%
+88 Don't Know1%1%1%
+Total100%100%100%
+N6335791,212
+Worked with others in your community to solve a problem
+MaleFemaleTotal
+01 Yes27%23%25%
+02 No73%76%75%
+88 Don't Know0%1%1%
+99 Refused0%0%0%
+Total100%100%100%
+N6335791,212
+Posted about politics on social media, like Facebook, Twitter, or WeChat
+MaleFemaleTotal
+01 Yes17%23%20%
+02 No83%76%79%
+88 Don't Know1%1%1%
+Total100%100%100%
+N6335791,212
+Attended a protest march, demonstration, or rally
+MaleFemaleTotal
+01 Yes10%8%9%
+02 No90%92%91%
+88 Don't Know0%0%0%
+Total100%100%100%
+N6335791,212
+----------------Page (25) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 27 of 115
+Attended a meeting of the local school board or Parent Teacher Association
+MaleFemaleTotal
+01 Yes20%13%16%
+02 No79%87%83%
+88 Don't Know0%0%0%
+99 Refused1%0%0%
+Total100%100%100%
+N6335791,212
+Donated money to a religious organization
+MaleFemaleTotal
+01 Yes53%57%55%
+02 No47%41%44%
+88 Don't Know0%0%0%
+99 Refused0%1%1%
+Total100%100%100%
+N6335791,212
+Donated money to any other charitable cause
+MaleFemaleTotal
+01 Yes60%60%60%
+02 No40%39%40%
+88 Don't Know0%1%1%
+Total100%100%100%
+N6335791,212
+Do you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable impression of... The Republican Party?
+MaleFemaleTotal
+01 Very favorable12%5%8%
+02 Somewhat favorable25%22%23%
+03 Somewhat unfavorable19%23%21%
+04 Very unfavorable21%27%24%
+05 No opinion23%22%23%
+06 Never heard0%1%0%
+Total100%100%100%
+N6335791,212
+Do you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable impression of... The Democratic Party?
+MaleFemaleTotal
+01 Very favorable25%29%27%
+02 Somewhat favorable35%40%38%
+03 Somewhat unfavorable11%8%9%
+04 Very unfavorable13%7%10%
+05 No opinion16%16%16%
+06 Never heard0%1%1%
+Total100%100%100%
+N6335791,212
+----------------Page (26) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 28 of 115
+Barack Obama
+MaleFemaleTotal
+01 Very favorable33%39%36%
+02 Somewhat favorable37%28%32%
+03 Somewhat unfavorable10%15%13%
+04 Very unfavorable10%9%10%
+05 No opinion9%9%9%
+06 Never heard0%1%0%
+Total100%100%100%
+N6335791,212
+Donald Trump
+MaleFemaleTotal
+01 Very favorable12%4%8%
+02 Somewhat favorable14%9%11%
+03 Somewhat unfavorable19%10%14%
+04 Very unfavorable33%59%47%
+05 No opinion18%15%16%
+06 Never heard4%4%4%
+Total100%100%100%
+N6335791,212
+Ted Cruz
+MaleFemaleTotal
+01 Very favorable5%1%3%
+02 Somewhat favorable18%20%19%
+03 Somewhat unfavorable14%14%14%
+04 Very unfavorable28%24%26%
+05 No opinion23%29%26%
+06 Never heard12%11%12%
+Total100%100%100%
+N6335791,212
+Marco Rubio
+MaleFemaleTotal
+01 Very favorable3%2%2%
+02 Somewhat favorable16%19%18%
+03 Somewhat unfavorable21%16%18%
+04 Very unfavorable18%16%17%
+05 No opinion30%33%31%
+06 Never heard13%14%14%
+Total100%100%100%
+N6335791,212
+----------------Page (27) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 29 of 115
+John Kasich
+MaleFemaleTotal
+01 Very favorable7%3%5%
+02 Somewhat favorable18%15%16%
+03 Somewhat unfavorable15%19%17%
+04 Very unfavorable11%10%11%
+05 No opinion28%34%31%
+06 Never heard21%19%20%
+Total100%100%100%
+N6335791,212
+Hillary Clinton
+MaleFemaleTotal
+01 Very favorable26%27%26%
+02 Somewhat favorable32%39%36%
+03 Somewhat unfavorable11%10%11%
+04 Very unfavorable18%12%15%
+05 No opinion12%10%11%
+06 Never heard2%2%2%
+Total100%100%100%
+N6335791,212
+Bernie Sanders
+MaleFemaleTotal
+01 Very favorable21%22%21%
+02 Somewhat favorable27%26%26%
+03 Somewhat unfavorable10%14%12%
+04 Very unfavorable12%8%10%
+05 No opinion21%22%22%
+06 Never heard9%9%9%
+Total100%100%100%
+N6335791,212
+South Carolina governor Nikki Haley
+MaleFemaleTotal
+01 Very favorable4%2%3%
+02 Somewhat favorable11%8%10%
+03 Somewhat unfavorable8%11%10%
+04 Very unfavorable6%6%6%
+05 No opinion39%35%37%
+06 Never heard32%38%35%
+Total100%100%100%
+N6335791,212
+----------------Page (28) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 30 of 115
+Supreme Court nominee Merrick Garland
+MaleFemaleTotal
+01 Very favorable12%8%10%
+02 Somewhat favorable18%12%15%
+03 Somewhat unfavorable5%8%7%
+04 Very unfavorable3%3%3%
+05 No opinion36%38%37%
+06 Never heard26%31%29%
+Total100%100%100%
+N6335791,212
+Q5. Overall, do you approve or disapprove of the way Barack Obama is handling his job as President? 
+MaleFemaleTotal
+Approve69%66%67%
+Disapprove22%23%23%
+Don't Know8%10%9%
+Refused1%1%1%
+Total100%100%100%
+N6335791,212
+Q6A. Thinking about the upcoming November election for  the U.S. Senate in California...
+MaleFemaleTotal
+Harris29%13%20%
+Sanchez13%6%10%
+Someone else6%5%6%
+Don't Know51%77%65%
+Refused1%0%0%
+Total100%100%100%
+N8178159
+Q6B. Would you say you support that candidate strongly or not so strongly?
+MaleFemaleTotal
+Support strongly56%63%58%
+Not so strongly31%34%32%
+Don't know14%3%10%
+Total100%100%100%
+N352459
+Q6C. Well, who do you lean towards at this time?
+MaleFemaleTotal
+Republican23%22%22%
+Democrat51%59%56%
+Some other party1%1%1%
+Don't Know26%16%19%
+Refused0%3%2%
+Total100%100%100%
+N4654100
+Q6D. Thinking about the upcoming November election for  the U.S. Senate in California...
+MaleFemaleTotal
+Harris26%34%31%
+Sanches11%7%9%
+Someone else15%10%12%
+Don't Know48%47%47%
+Refused1%2%2%
+Total100%100%100%
+N95110205
+Q6E. Would you say you support that candidate strongly or not so strongly?
+----------------Page (29) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 31 of 115
+MaleFemaleTotal
+Support strongly67%66%66%
+Not so strongly20%21%21%
+Don't know13%13%13%
+Total100%100%100%
+N5367120
+Q6F. Well, who do you lean towards at this time?
+MaleFemaleTotal
+Republican19%17%18%
+Democrat52%44%48%
+Some other party7%2%4%
+Don't Know19%31%26%
+Refused4%6%5%
+Total100%100%100%
+N424385
+Q6G. Thinking about the upcoming November election for the U.S. Senate in your state... If the election were being held today...
+MaleFemaleTotal
+Republican24%28%26%
+Democrat48%51%49%
+Some other party2%2%2%
+Don't Know23%19%21%
+Refused3%1%2%
+Total100%100%100%
+N324283607
+Q6H. Would you say you support that candidate strongly or not so strongly?
+MaleFemaleTotal
+Support strongly60%54%57%
+Not so strongly29%38%34%
+Don't know12%8%10%
+Total100%100%100%
+N249221470
+Q6I. Well, which party's candidate do you lean towards at this time?
+MaleFemaleTotal
+Republican11%3%8%
+Democrat30%30%30%
+Some other party17%1%10%
+Don't Know33%65%47%
+Refused9%0%5%
+Total100%100%100%
+N7562137
+Q7A. Thinking about the upcoming November election for the U.S. House of Representatives in your state... If the election were being held today...
+MaleFemaleTotal
+Republican26%16%21%
+Democrat47%60%54%
+Some other party4%2%3%
+Don't Know23%21%22%
+Refused1%1%1%
+Total100%100%100%
+N6335791,212
+Q7B. Would you say you support that candidate strongly or not so strongly?
+MaleFemaleTotal
+Support strongly68%58%63%
+Not so strongly25%33%29%
+----------------Page (30) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 32 of 115
+Don't know7%8%8%
+Total100%100%100%
+N492430922
+Q7C. Well, which party's candidate do you lean towards at this time?
+MaleFemaleTotal
+Republican9%5%7%
+Democrat32%32%32%
+Some other party3%2%3%
+Don't Know53%55%54%
+Refused4%6%5%
+Total100%100%100%
+N141149290
+Q7D. Compared to previous elections, are you more enthusiastic than usual about voting this year or less enthusiastic? 
+MaleFemaleTotal
+More enthusiastic56%47%51%
+Less enthusiastic20%30%26%
+(DO NOT READ)  About the same21%20%20%
+DON'T KNOW3%3%3%
+Total100%100%100%
+N6335791,212
+----------------Page (31) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 33 of 115
+Q8. Generally speaking, do you usually think of yourself as a  (READ CATEGORIES)
+MaleFemaleTotal
+Democrat38%55%48%
+Republican19%11%15%
+Independent36%24%30%
+Other party  (please specify)1%0%1%
+(DO NOT READ)  Do not think in terms of political parties3%4%4%
+DON'T KNOW2%3%2%
+Refused1%2%2%
+Total100%100%100%
+N6335791,212
+Q8B. Would you call yourself a strong Republican or a not very strong Republican
+MaleFemaleTotal
+Strong Republican41%48%44%
+Not very strong Republican59%47%54%
+Don't Know0%5%2%
+Total100%100%100%
+N11383196
+Q8C. Would you call yourself a strong Democrat or a not very strong Democrat?
+MaleFemaleTotal
+Strong Democrat48%49%49%
+Not very strong Democrat48%50%49%
+Don't Know5%2%3%
+Refused0%0%0%
+Total100%100%100%
+N243291534
+Q8D1. Do you think of yourself as closer to the Republican Party or to the Democratic Party?
+MaleFemaleTotal
+Closer to the Republican Party25%11%18%
+Closer to the Democratic party39%43%41%
+Closer to neither party31%36%33%
+Don't Know4%11%7%
+Refused1%0%0%
+Total100%100%100%
+N137100237
+Q8D2. Based on where the two parties stand on the issues, do you think your views are closer to the Republican Party or to the Democratic Party? 
+MaleFemaleTotal
+Closer to the Republican Party20%22%21%
+Closer to the Democratic party39%41%40%
+Closer to neither party37%28%33%
+Don't Know4%9%6%
+Total100%100%100%
+N136100236
+----------------Page (32) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 34 of 115
+Q9. Thinking about past elections, did you get a chance to vote in the 2012 presidential election? If so, did you vote for...
+MaleFemaleTotal
+Obama65%62%63%
+Romney19%20%20%
+Someone else2%2%2%
+Didn't vote11%11%11%
+Don't remember3%3%3%
+Don't know0%1%1%
+Refused1%1%1%
+Total100%100%100%
+N6335791,212
+Now I'd like to ask you about some issues that might be important in the elections in November... Jobs and the economy
+MaleFemaleTotal
+01 Extremely important43%47%45%
+02 Very important49%44%46%
+03 Somewhat important7%6%7%
+04 or Not important1%2%1%
+88 Don't Know1%1%1%
+Total100%100%100%
+N6335791,212
+Health care
+MaleFemaleTotal
+01 Extremely important41%52%47%
+02 Very important45%41%43%
+03 Somewhat important12%5%8%
+04 or Not important1%1%1%
+88 Don't Know0%1%1%
+Total100%100%100%
+N6335791,212
+Passing immigration reform
+MaleFemaleTotal
+01 Extremely important16%22%19%
+02 Very important40%40%40%
+03 Somewhat important26%28%27%
+04 or Not important13%4%8%
+88 Don't Know5%7%6%
+Total100%100%100%
+N6335791,212
+----------------Page (33) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 35 of 115
+Growing hostility towards immigrants
+MaleFemaleTotal
+01 Extremely important17%23%20%
+02 Very important37%45%42%
+03 Somewhat important23%18%20%
+04 or Not important14%6%10%
+88 Don't Know8%8%8%
+Total100%100%100%
+N6335791,212
+Gun control
+MaleFemaleTotal
+01 Extremely important37%42%40%
+02 Very important34%33%34%
+03 Somewhat important12%18%15%
+04 or Not important15%4%9%
+88 Don't Know2%3%2%
+Total100%100%100%
+N6335791,212
+The environment
+MaleFemaleTotal
+01 Extremely important29%37%33%
+02 Very important44%51%47%
+03 Somewhat important20%9%14%
+04 or Not important5%2%4%
+88 Don't Know2%1%2%
+Total100%100%100%
+N6335791,212
+Threat of terrorist attacks
+MaleFemaleTotal
+01 Extremely important44%49%47%
+02 Very important34%30%32%
+03 Somewhat important15%12%13%
+04 or Not important5%5%5%
+88 Don't Know2%4%3%
+Total100%100%100%
+N6335791,212
+Racial profiling
+MaleFemaleTotal
+01 Extremely important19%22%20%
+02 Very important33%38%36%
+03 Somewhat important26%23%24%
+04 or Not important14%10%12%
+88 Don't Know8%8%8%
+Total100%100%100%
+N6335791,212
+----------------Page (34) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 36 of 115
+Taxes
+MaleFemaleTotal
+01 Extremely important23%28%26%
+02 Very important42%46%44%
+03 Somewhat important28%18%23%
+04 or Not important5%6%5%
+88 Don't Know2%3%2%
+Total100%100%100%
+N6335791,212
+Growing gap between the rich and poor
+MaleFemaleTotal
+01 Extremely important21%30%26%
+02 Very important41%37%39%
+03 Somewhat important27%24%25%
+04 or Not important8%5%6%
+88 Don't Know3%4%4%
+Total100%100%100%
+N6335791,212
+Education
+MaleFemaleTotal
+01 Extremely important42%54%48%
+02 Very important44%42%43%
+03 Somewhat important10%3%6%
+04 or Not important4%1%2%
+88 Don't Know1%1%1%
+Total100%100%100%
+N6335791,212
+Social security
+MaleFemaleTotal
+01 Extremely important35%42%39%
+02 Very important46%37%41%
+03 Somewhat important16%18%17%
+04 or Not important2%1%2%
+88 Don't Know1%2%1%
+Total100%100%100%
+N6335791,212
+Retirement security or the security of your retirement
+MaleFemaleTotal
+01 Extremely important38%42%40%
+02 Very important44%40%42%
+03 Somewhat important15%15%15%
+04 or Not important3%2%2%
+88 Don't Know1%2%1%
+Total100%100%100%
+N6335791,212
+----------------Page (35) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 37 of 115
+For each of the following issues, please tell me whether the Democratic Party or Republican Party is doing a better job .... Jobs and the economy
+MaleFemaleTotal
+01 Democrat38%40%39%
+02 Republican19%19%19%
+03 No Difference35%26%30%
+88 Don't Know9%15%13%
+Total100%100%100%
+N6335791,212
+Health care
+MaleFemaleTotal
+01 Democrat53%50%51%
+02 Republican11%16%14%
+03 No Difference28%21%24%
+88 Don't Know8%14%11%
+Total100%100%100%
+N6335791,212
+Passing immigration reform
+MaleFemaleTotal
+01 Democrat37%43%40%
+02 Republican16%12%14%
+03 No Difference34%25%29%
+88 Don't Know14%20%17%
+Total100%100%100%
+N6335791,212
+Reducing hostility towards immigrants
+MaleFemaleTotal
+01 Democrat44%50%47%
+02 Republican9%9%9%
+03 No Difference32%25%28%
+88 Don't Know16%16%16%
+Total100%100%100%
+N6335791,212
+Gun control
+MaleFemaleTotal
+01 Democrat46%37%41%
+02 Republican15%17%16%
+03 No Difference26%27%27%
+88 Don't Know13%19%16%
+Total100%100%100%
+N6335791,212
+----------------Page (36) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 38 of 115
+The environment
+MaleFemaleTotal
+01 Democrat47%44%46%
+02 Republican7%6%6%
+03 No Difference32%28%30%
+88 Don't Know14%22%18%
+Total100%100%100%
+N6335791,212
+Threat of terrorist attacks
+MaleFemaleTotal
+01 Democrat26%23%24%
+02 Republican30%23%26%
+03 No Difference35%35%35%
+88 Don't Know10%20%15%
+Total100%100%100%
+N6335791,212
+Racial profiling
+MaleFemaleTotal
+01 Democrat40%41%40%
+02 Republican8%9%9%
+03 No Difference36%29%32%
+88 Don't Know16%21%19%
+Total100%100%100%
+N6335791,212
+Taxes
+MaleFemaleTotal
+01 Democrat30%33%31%
+02 Republican24%14%19%
+03 No Difference34%32%33%
+88 Don't Know13%21%17%
+Total100%100%100%
+N6335791,212
+Growing gap between the rich and poor
+MaleFemaleTotal
+01 Democrat42%39%40%
+02 Republican11%17%14%
+03 No Difference35%27%31%
+88 Don't Know12%17%15%
+Total100%100%100%
+N6335791,212
+----------------Page (37) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 39 of 115
+Education
+MaleFemaleTotal
+01 Democrat37%43%40%
+02 Republican9%10%10%
+03 No Difference40%30%34%
+88 Don't Know14%18%16%
+Total100%100%100%
+N6335791,212
+Social security
+MaleFemaleTotal
+01 Democrat40%43%41%
+02 Republican12%10%11%
+03 No Difference38%31%34%
+88 Don't Know11%16%14%
+Total100%100%100%
+N6335791,212
+Retirement security or the security of your retirement
+MaleFemaleTotal
+01 Democrat35%40%38%
+02 Republican12%11%12%
+03 No Difference39%28%33%
+88 Don't Know15%22%18%
+Total100%100%100%
+N6335791,212
+Do you support or oppose the health care law passed by Barack Obama and Congress in 2010?
+MaleFemaleTotal
+01 Support58%56%57%
+02 Oppose27%30%29%
+88 No Difference13%12%12%
+99 Refused2%2%2%
+Total100%100%100%
+N6335791,212
+... Support or oppose major new spending by the federal govt that would help undergraduates pay tuition at public colleges without needing loans?
+MaleFemaleTotal
+01 Support60%63%62%
+02 Oppose28%25%26%
+88 No Difference9%12%11%
+99 Refused3%1%2%
+Total100%100%100%
+N6335791,212
+----------------Page (38) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 40 of 115
+Do you support or oppose accepting Syrian refugees into the United States?
+MaleFemaleTotal
+01 Support32%33%33%
+02 Oppose45%43%44%
+88 No Difference19%22%21%
+99 Refused3%2%3%
+Total100%100%100%
+N6335791,212
+Do you support or oppose legalizing the possession of small amounts of marijuana for personal use?
+MaleFemaleTotal
+01 Support32%23%27%
+02 Oppose59%67%63%
+88 No Difference9%10%10%
+99 Refused0%1%0%
+Total100%100%100%
+N6335791,212
+Do you support or oppose banning people who are Muslim from entering the United States?
+MaleFemaleTotal
+01 Support24%18%21%
+02 Oppose52%64%58%
+88 No Difference20%16%18%
+99 Refused4%2%3%
+Total100%100%100%
+N6335791,212
+Do you support or oppose setting stricter emission limits on power plants in order to address climate change?
+MaleFemaleTotal
+01 Support73%73%73%
+02 Oppose16%10%13%
+88 No Difference9%16%13%
+99 Refused2%1%2%
+Total100%100%100%
+N6335791,212
+Do you support or oppose providing a federal income tax credit to family caregivers for the care and support of a loved one?
+MaleFemaleTotal
+01 Support73%79%76%
+02 Oppose15%8%11%
+88 No Difference10%12%11%
+99 Refused3%1%2%
+Total100%100%100%
+N6335791,212
+----------------Page (39) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 41 of 115
+Q13B1. In general, do you think aff action programs designed to increase the number of black and minority students on college campuses are... 
+MaleFemaleTotal
+Good thing57%49%52%
+Bad thing31%33%32%
+Don't Know11%17%14%
+Refused1%2%2%
+Total100%100%100%
+N313294607
+Q13B2. Do you favor or oppose aff action programs designed to help blacks, women, and other minorities get better access to higher education?
+MaleFemaleTotal
+Favor60%69%64%
+Oppose31%20%25%
+Don't Know9%10%9%
+Refused1%2%1%
+Total100%100%100%
+N320285605
+Blacks and other minorities receive equal treatment as whites in the criminal justice system
+MaleFemaleTotal
+01 Strongly disagree14%31%23%
+02 Somewhat Disagree17%14%16%
+03 Neither Agree nor Disagree8%7%8%
+04 Somewhat Agree18%12%15%
+05 Strongly Agree39%29%34%
+88 Don't Know4%6%5%
+99 Refused1%0%1%
+Total100%100%100%
+N6335791,212
+Congress should increase the federal minimum wage from its current level of $7.25 an hour
+MaleFemaleTotal
+01 Strongly disagree12%9%10%
+02 Somewhat Disagree8%7%7%
+03 Neither Agree nor Disagree6%3%5%
+04 Somewhat Agree23%21%22%
+05 Strongly Agree48%54%51%
+88 Don't Know2%6%4%
+99 Refused1%1%1%
+Total100%100%100%
+N6335791,212
+We should have stricter gun laws in the United States
+MaleFemaleTotal
+01 Strongly disagree9%6%8%
+02 Somewhat Disagree9%10%9%
+03 Neither Agree nor Disagree4%4%4%
+04 Somewhat Agree12%10%11%
+05 Strongly Agree62%68%65%
+88 Don't Know2%2%2%
+99 Refused1%1%1%
+Total100%100%100%
+N6335791,212
+----------------Page (40) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 42 of 115
+The government should expand access to health insurance for all immigrants, regardless of their legal status
+MaleFemaleTotal
+01 Strongly disagree24%24%24%
+02 Somewhat Disagree18%15%16%
+03 Neither Agree nor Disagree8%11%10%
+04 Somewhat Agree25%21%23%
+05 Strongly Agree21%22%22%
+88 Don't Know3%5%5%
+99 Refused1%2%1%
+Total100%100%100%
+N6335791,212
+Undocumented immigrants should have the opportunity to eventually become U.S. citizens
+MaleFemaleTotal
+01 Strongly disagree18%15%16%
+02 Somewhat Disagree13%10%11%
+03 Neither Agree nor Disagree11%7%9%
+04 Somewhat Agree32%32%32%
+05 Strongly Agree23%29%26%
+88 Don't Know3%5%4%
+99 Refused1%3%2%
+Total100%100%100%
+N6335791,212
+The Senate should give President Obama's Supreme Court nominee a quick and fair hearing
+MaleFemaleTotal
+01 Strongly disagree9%8%9%
+02 Somewhat Disagree5%4%5%
+03 Neither Agree nor Disagree11%8%9%
+04 Somewhat Agree25%23%24%
+05 Strongly Agree43%37%40%
+88 Don't Know7%18%13%
+99 Refused0%2%1%
+Total100%100%100%
+N6335791,212
+Laws on hate crimes against religious minorities should be made stronger
+MaleFemaleTotal
+01 Strongly disagree7%12%9%
+02 Somewhat Disagree6%3%4%
+03 Neither Agree nor Disagree9%6%8%
+04 Somewhat Agree23%19%20%
+05 Strongly Agree49%48%49%
+88 Don't Know7%11%9%
+99 Refused1%2%1%
+Total100%100%100%
+N6335791,212
+----------------Page (41) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 43 of 115
+Undocumented immigrants should be allowed to get driver's licenses
+MaleFemaleTotal
+01 Strongly disagree28%21%24%
+02 Somewhat Disagree17%15%16%
+03 Neither Agree nor Disagree8%8%8%
+04 Somewhat Agree25%21%23%
+05 Strongly Agree19%27%23%
+88 Don't Know3%6%5%
+99 Refused0%2%1%
+Total100%100%100%
+N6335791,212
+Undocumented immigrants should be allowed to pay in-state tuition at public universities
+MaleFemaleTotal
+01 Strongly disagree21%16%18%
+02 Somewhat Disagree16%9%12%
+03 Neither Agree nor Disagree8%8%8%
+04 Somewhat Agree26%25%26%
+05 Strongly Agree25%33%29%
+88 Don't Know4%7%6%
+99 Refused1%1%1%
+Total100%100%100%
+N6335791,212
+Asian Americans are unfairly treated by police
+MaleFemaleTotal
+01 Strongly disagree23%14%18%
+02 Somewhat Disagree20%21%20%
+03 Neither Agree nor Disagree14%16%15%
+04 Somewhat Agree20%20%20%
+05 Strongly Agree15%13%14%
+88 Don't Know6%15%11%
+99 Refused3%1%2%
+Total100%100%100%
+N6335791,212
+Sometimes politics and government seem so complicated that a person like me can't understand what's going on
+MaleFemaleTotal
+01 Strongly disagree12%10%11%
+02 Somewhat Disagree13%12%12%
+03 Neither Agree nor Disagree8%9%8%
+04 Somewhat Agree33%29%31%
+05 Strongly Agree30%34%32%
+88 Don't Know4%7%5%
+99 Refused1%1%1%
+Total100%100%100%
+N6335791,212
+----------------Page (42) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 44 of 115
+Public officials don't care much what people like me think.
+MaleFemaleTotal
+01 Strongly disagree10%3%6%
+02 Somewhat Disagree17%19%18%
+03 Neither Agree nor Disagree13%9%11%
+04 Somewhat Agree27%26%27%
+05 Strongly Agree25%29%27%
+88 Don't Know6%12%10%
+99 Refused1%1%1%
+Total100%100%100%
+N6335791,212
+Q16C. How would you describe your political views? Very conservative...
+MaleFemaleTotal
+Very conservative2%4%3%
+Conservative24%16%20%
+Moderate42%53%48%
+Liberal25%23%23%
+Very liberal9%5%7%
+Total100%100%100%
+N6335791,212
+Q17. ... If a political candidate expressed strongly anti-immigrant views, but you agreed with him or her on other issues, would you ... 
+MaleFemaleTotal
+Still vote for candidate35%35%35%
+Someone else40%40%40%
+Don't Know24%23%24%
+Refused1%2%1%
+Total100%100%100%
+N6335791,212
+Q17B. Next, if a political candidate expressed strong anti-Muslim views, and you agreed with him or her on other issues, would you ...
+MaleFemaleTotal
+Still vote for candidate38%31%35%
+Someone else37%49%44%
+Don't Know24%18%21%
+Refused1%2%2%
+Total100%100%100%
+N6335791,212
+Thinking about the 2016 elections, have you been contacted any of the following groups ... Democrats
+MaleFemaleTotal
+01 A great deal7%6%6%
+02 Some11%9%10%
+03 A little16%19%17%
+04 Not at all63%62%62%
+88 Don't Know3%4%3%
+99 Refused1%0%1%
+Total100%100%100%
+N6335791,212
+----------------Page (43) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 45 of 115
+Thinking about the 2016 elections, have you been contacted any of the following groups ... Republicans
+MaleFemaleTotal
+01 A great deal6%2%4%
+02 Some9%8%9%
+03 A little11%10%10%
+04 Not at all69%76%73%
+88 Don't Know4%3%4%
+99 Refused1%0%1%
+Total100%100%100%
+N6335791,212
+Thinking about the 2016 elections, have you been contacted any of the following groups ... Community Organizations
+MaleFemaleTotal
+01 A great deal5%3%4%
+02 Some9%12%11%
+03 A little11%9%10%
+04 Not at all72%72%72%
+88 Don't Know2%3%3%
+99 Refused1%1%1%
+Total100%100%100%
+N6335791,212
+We need more EthnicGroup/Asian Americans in Congress
+MaleFemaleTotal
+01 Extremely important26%23%25%
+02 Very important26%27%27%
+03 Somewhat important27%32%30%
+04 or Not important18%13%15%
+88 Don't Know4%5%4%
+Total100%100%100%
+N6335791,212
+We need more women in Congress
+MaleFemaleTotal
+01 Extremely important19%27%24%
+02 Very important28%31%30%
+03 Somewhat important27%24%25%
+04 or Not important22%14%17%
+88 Don't Know4%5%5%
+Total100%100%100%
+N6335791,212
+We need more Democrats/Republicans in Congress
+MaleFemaleTotal
+01 Extremely important13%13%13%
+02 Very important13%21%17%
+03 Somewhat important23%27%25%
+04 or Not important44%28%35%
+88 Don't Know8%11%10%
+Total100%100%100%
+N6335791,212
+We need more people in Congress who represent the issues I care about most
+MaleFemaleTotal
+01 Extremely important41%35%37%
+02 Very important34%35%34%
+03 Somewhat important15%20%18%
+04 or Not important8%3%5%
+88 Don't Know3%8%6%
+Total100%100%100%
+----------------Page (44) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Gender, Page 46 of 115
+N6335791,212
+Q19E. Finally... how important is it that the presidential candidates lay out their plans to update Social Security for future generations?
+MaleFemaleTotal
+Extremely important46%45%46%
+Very important33%38%36%
+Somewhat important13%12%12%
+or Not important5%2%3%
+Don't Know4%4%4%
+Total100%100%100%
+N6335791,212
+Q21A. You said you get your news from television. Is that [Asian/Ethnic] show?
+MaleFemaleTotal
+Yes35%30%32%
+No50%58%54%
+(DO NOT READ)  Both/Both Asian and non-Asian15%13%14%
+Refused0%0%0%
+Total100%100%100%
+N483473956
+Q21B. You said you get your news from the Internet. Is that [Asian/Ethnic] web site?
+MaleFemaleTotal
+Yes25%18%21%
+No59%68%63%
+(DO NOT READ)  Both/Both Asian and non-Asian16%15%15%
+Total100%100%100%
+N343264607
+Q21C. You said you get your news from newspapers. Is that [Asian/Ethnic] newspaper?
+MaleFemaleTotal
+Yes44%41%43%
+No41%49%45%
+(DO NOT READ)  Both/Both Asian and non-Asian14%10%12%
+Don't Know0%0%0%
+Refused0%0%0%
+Total100%100%100%
+N342293635
+Q21D. You said you get your news from radio. Is that [Asian/Ethnic] show?
+MaleFemaleTotal
+Yes34%33%33%
+No58%64%62%
+(DO NOT READ)  Both/Both Asian and non-Asian7%3%5%
+Refused0%0%0%
+Total100%100%100%
+N207197404
+----------------Page (45) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 47 of 115
+Q1A. There will be a general election for President and Congress this November. Are you planning to vote or not planning to vote in that election?
+18 to 3435 to 6465 plusTotal
+Planning to vote95%93%95%94%
+Not planning to vote2%1%2%2%
+Don't Know4%5%4%4%
+Refused0%0%0%0%
+Total100%100%100%100%
+N1184825891,189
+How certain are you that you will vote in the upcoming presidential election? Are you...
+18 to 3435 to 6465 plusTotal
+Absolutely certain78%85%89%85%
+Fairly certain17%11%9%11%
+Not too certain5%4%1%3%
+Not at all certain0%0%0%0%
+Don't Know0%0%1%0%
+Total100%100%100%100%
+N1114555591125
+Q1C. If you do vote... will you vote early or by mail using an absentee ballot or will you vote at your precinct polling place on Election Day? 
+18 to 3435 to 6465 plusTotal
+Early Voter18%16%18%17%
+Absentee17%18%26%21%
+Vote on Election Day60%62%52%57%
+Don't Know6%5%4%5%
+Total100%100%100%100%
+N1104525501112
+Q2A. Generally speaking, fewer people vote in primaries and caucuses before the November general election. How about you? Did you vote ...
+18 to 3435 to 6465 plusTotal
+Yes63%54%28%44%
+No37%46%68%54%
+Don't Know0%0%4%2%
+Total100%100%100%100%
+N40262332634
+Q2B. Generally speaking, fewer people vote in primaries and caucuses before the Nov general election. How about you? Do you plan to vote... 
+18 to 3435 to 6465 plusTotal
+Yes71%50%57%57%
+No17%39%32%31%
+Don't Know11%11%12%11%
+Refused0%0%0%0%
+Total100%100%100%100%
+N78220257555
+----------------Page (46) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 48 of 115
+Q2C. Which presidential candidate did you vote for?
+18 to 3435 to 6465 plusTotal
+Hillary Clinton5%30%42%29%
+Bernie Sanders47%45%4%35%
+Donald Trump3%10%17%11%
+Ted Cruz0%0%8%3%
+Marco Rubio0%1%5%2%
+John Kasich0%2%0%1%
+Bobby Jindal0%0%0%0%
+Someone else45%12%24%21%
+Total100%100%100%100%
+N179999215
+Q2D. Which presidential candidate do you plan to vote for?
+18 to 3435 to 6465 plusTotal
+Hillary Clinton18%38%45%35%
+Bernie Sanders65%12%1%23%
+Donald Trump3%17%10%10%
+Ted Cruz7%3%2%4%
+Marco Rubio0%0%1%0%
+John Kasich0%1%2%1%
+Someone else7%30%39%27%
+Total100%100%100%100%
+N50110141301
+Discussed politics with family and friends
+18 to 3435 to 6465 plusTotal
+01 Yes82%75%57%69%
+02 No19%25%43%31%
+Total100%100%100%100%
+N1184825891,189
+Worked for a candidate, political party, or some other campaign organization
+18 to 3435 to 6465 plusTotal
+01 Yes6%11%4%7%
+02 No94%89%96%92%
+88 Don't Know0%0%0%0%
+99 Refused0%0%0%0%
+Total100%100%100%100%
+N1184825891,189
+----------------Page (47) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 49 of 115
+Contributed money to a candidate, political party, or some other campaign organization
+18 to 3435 to 6465 plusTotal
+01 Yes12%24%12%17%
+02 No88%76%86%83%
+88 Don't Know0%0%1%0%
+99 Refused0%0%1%0%
+Total100%100%100%100%
+N1184825891,189
+Contacted your representative or a government official in the U.S.
+18 to 3435 to 6465 plusTotal
+01 Yes15%19%11%15%
+02 No85%81%89%85%
+88 Don't Know0%0%1%1%
+Total100%100%100%100%
+N1184825891,189
+Worked with others in your community to solve a problem
+18 to 3435 to 6465 plusTotal
+01 Yes27%28%20%25%
+02 No72%71%80%75%
+88 Don't Know1%1%1%1%
+99 Refused0%0%0%0%
+Total100%100%100%100%
+N1184825891,189
+Posted about politics on social media, like Facebook, Twitter, or WeChat
+18 to 3435 to 6465 plusTotal
+01 Yes41%24%6%20%
+02 No59%76%92%79%
+88 Don't Know0%0%2%1%
+Total100%100%100%100%
+N1184825891,189
+Attended a protest march, demonstration, or rally
+18 to 3435 to 6465 plusTotal
+01 Yes10%9%10%9%
+02 No90%91%90%91%
+88 Don't Know0%0%0%0%
+Total100%100%100%100%
+N1184825891,189
+----------------Page (48) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 50 of 115
+Attended a meeting of the local school board or Parent Teacher Association
+18 to 3435 to 6465 plusTotal
+01 Yes7%25%12%16%
+02 No92%75%88%83%
+88 Don't Know0%0%0%0%
+99 Refused1%0%0%0%
+Total100%100%100%100%
+N1184825891,189
+Donated money to a religious organization
+18 to 3435 to 6465 plusTotal
+01 Yes50%60%54%55%
+02 No47%40%46%44%
+88 Don't Know0%0%0%0%
+99 Refused4%0%0%1%
+Total100%100%100%100%
+N1184825891,189
+Donated money to any other charitable cause
+18 to 3435 to 6465 plusTotal
+01 Yes47%69%56%60%
+02 No52%31%43%40%
+88 Don't Know1%0%1%1%
+Total100%100%100%100%
+N1184825891,189
+Do you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable impression of... The Republican Party?
+18 to 3435 to 6465 plusTotal
+01 Very favorable4%10%8%8%
+02 Somewhat favorable7%25%29%23%
+03 Somewhat unfavorable36%16%21%22%
+04 Very unfavorable37%25%19%25%
+05 No opinion16%24%24%22%
+06 Never heard0%0%0%0%
+Total100%100%100%100%
+N1184825891,189
+Do you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable impression of... The Democratic Party?
+18 to 3435 to 6465 plusTotal
+01 Very favorable26%25%29%27%
+02 Somewhat favorable51%38%32%38%
+03 Somewhat unfavorable9%10%10%10%
+04 Very unfavorable3%11%12%10%
+05 No opinion11%17%17%16%
+06 Never heard0%1%1%1%
+Total100%100%100%100%
+N1184825891,189
+----------------Page (49) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 51 of 115
+Barack Obama
+18 to 3435 to 6465 plusTotal
+01 Very favorable54%33%32%37%
+02 Somewhat favorable31%30%34%32%
+03 Somewhat unfavorable8%15%13%13%
+04 Very unfavorable3%14%9%10%
+05 No opinion4%8%12%9%
+06 Never heard0%0%1%0%
+Total100%100%100%100%
+N1184825891,189
+Donald Trump
+18 to 3435 to 6465 plusTotal
+01 Very favorable4%10%8%8%
+02 Somewhat favorable5%12%14%11%
+03 Somewhat unfavorable10%14%15%14%
+04 Very unfavorable77%49%32%47%
+05 No opinion5%13%23%16%
+06 Never heard0%3%7%4%
+Total100%100%100%100%
+N1184825891,189
+Ted Cruz
+18 to 3435 to 6465 plusTotal
+01 Very favorable1%2%4%3%
+02 Somewhat favorable14%20%20%19%
+03 Somewhat unfavorable13%14%15%14%
+04 Very unfavorable49%27%15%26%
+05 No opinion23%27%28%26%
+06 Never heard1%10%18%11%
+Total100%100%100%100%
+N1184825891,189
+Marco Rubio
+18 to 3435 to 6465 plusTotal
+01 Very favorable0%3%3%2%
+02 Somewhat favorable11%23%15%18%
+03 Somewhat unfavorable33%18%13%18%
+04 Very unfavorable24%18%13%17%
+05 No opinion31%27%36%31%
+06 Never heard1%12%21%14%
+Total100%100%100%100%
+N1184825891,189
+----------------Page (50) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 52 of 115
+John Kasich
+18 to 3435 to 6465 plusTotal
+01 Very favorable0%7%5%5%
+02 Somewhat favorable19%15%16%16%
+03 Somewhat unfavorable26%22%9%17%
+04 Very unfavorable15%10%10%11%
+05 No opinion29%30%33%31%
+06 Never heard11%17%27%20%
+Total100%100%100%100%
+N1184825891,189
+Hillary Clinton
+18 to 3435 to 6465 plusTotal
+01 Very favorable11%27%33%27%
+02 Somewhat favorable45%37%30%35%
+03 Somewhat unfavorable18%9%10%11%
+04 Very unfavorable14%16%15%15%
+05 No opinion13%12%9%11%
+06 Never heard0%1%3%2%
+Total100%100%100%100%
+N1184825891,189
+Bernie Sanders
+18 to 3435 to 6465 plusTotal
+01 Very favorable48%18%12%21%
+02 Somewhat favorable27%27%26%27%
+03 Somewhat unfavorable6%16%12%12%
+04 Very unfavorable13%10%8%10%
+05 No opinion5%22%29%22%
+06 Never heard1%7%14%9%
+Total100%100%100%100%
+N1184825891,189
+South Carolina governor Nikki Haley
+18 to 3435 to 6465 plusTotal
+01 Very favorable1%4%3%3%
+02 Somewhat favorable8%10%10%9%
+03 Somewhat unfavorable12%13%6%10%
+04 Very unfavorable13%4%4%6%
+05 No opinion36%37%37%37%
+06 Never heard30%31%42%35%
+Total100%100%100%100%
+N1184825891,189
+----------------Page (51) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 53 of 115
+Supreme Court nominee Merrick Garland
+18 to 3435 to 6465 plusTotal
+01 Very favorable10%12%8%10%
+02 Somewhat favorable17%16%13%15%
+03 Somewhat unfavorable6%9%5%7%
+04 Very unfavorable2%4%3%3%
+05 No opinion38%36%37%37%
+06 Never heard27%24%35%29%
+Total100%100%100%100%
+N1184825891,189
+Q5. Overall, do you approve or disapprove of the way Barack Obama is handling his job as President? 
+18 to 3435 to 6465 plusTotal
+Approve85%62%64%67%
+Disapprove12%29%21%23%
+Don't Know4%8%14%9%
+Refused0%1%1%1%
+Total100%100%100%100%
+N1184825891,189
+Q6A. Thinking about the upcoming November election for  the U.S. Senate in California...
+18 to 3435 to 6465 plusTotal
+Harris10%18%27%20%
+Sanchez8%9%12%10%
+Someone else1%9%4%5%
+Don't Know82%64%58%65%
+Refused0%1%0%0%
+Total100%100%100%100%
+N235677156
+Q6B. Would you say you support that candidate strongly or not so strongly?
+18 to 3435 to 6465 plusTotal
+Support strongly29%54%70%60%
+Not so strongly71%39%17%31%
+Don't know0%7%13%9%
+Total100%100%100%100%
+N5213056
+Q6C. Well, who do you lean towards at this time?
+18 to 3435 to 6465 plusTotal
+Republican18%28%19%22%
+Democrat76%46%52%56%
+Some other party0%0%2%1%
+Don't Know2%27%24%19%
+Refused4%0%3%2%
+Total100%100%100%100%
+N183547100
+Q6D. Thinking about the upcoming November election for  the U.S. Senate in California...
+18 to 3435 to 6465 plusTotal
+Harris15%37%31%30%
+Sanches8%8%10%9%
+Someone else8%15%11%12%
+Don't Know68%38%48%48%
+Refused0%2%0%1%
+Total100%100%100%100%
+N287893199
+Q6E. Would you say you support that candidate strongly or not so strongly?
+----------------Page (52) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 54 of 115
+18 to 3435 to 6465 plusTotal
+Support strongly29%65%74%65%
+Not so strongly53%19%15%22%
+Don't know18%16%11%14%
+Total100%100%100%100%
+N114957117
+Q6F. Well, who do you lean towards at this time?
+18 to 3435 to 6465 plusTotal
+Republican0%29%23%19%
+Democrat62%46%43%49%
+Some other party5%1%6%4%
+Don't Know28%24%23%25%
+Refused6%0%5%3%
+Total100%100%100%100%
+N17293682
+Q6G. Thinking about the upcoming November election for the U.S. Senate in your state... If the election were being held today...
+18 to 3435 to 6465 plusTotal
+Republican9%38%22%26%
+Democrat78%40%46%49%
+Some other party0%2%2%2%
+Don't Know7%20%29%21%
+Refused7%1%1%2%
+Total100%100%100%100%
+N54247296597
+Q6H. Would you say you support that candidate strongly or not so strongly?
+18 to 3435 to 6465 plusTotal
+Support strongly36%51%74%56%
+Not so strongly46%46%12%34%
+Don't know18%3%14%10%
+Total100%100%100%100%
+N46189227462
+Q6I. Well, which party's candidate do you lean towards at this time?
+18 to 3435 to 6465 plusTotal
+Republican0%4%12%8%
+Democrat32%34%27%30%
+Some other party6%6%14%10%
+Don't Know31%53%47%47%
+Refused31%3%0%5%
+Total100%100%100%100%
+N85869135
+Q7A. Thinking about the upcoming November election for the U.S. House of Representatives in your state... If the election were being held today...
+18 to 3435 to 6465 plusTotal
+Republican10%23%22%21%
+Democrat74%53%46%54%
+Some other party1%2%4%3%
+Don't Know13%20%27%22%
+Refused2%1%0%1%
+Total100%100%100%100%
+N1184825891,189
+Q7B. Would you say you support that candidate strongly or not so strongly?
+18 to 3435 to 6465 plusTotal
+Support strongly54%61%69%62%
+Not so strongly39%35%19%30%
+----------------Page (53) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 55 of 115
+Don't know7%5%12%8%
+Total100%100%100%100%
+N97368442907
+Q7C. Well, which party's candidate do you lean towards at this time?
+18 to 3435 to 6465 plusTotal
+Republican2%7%9%7%
+Democrat52%24%32%31%
+Some other party5%2%2%3%
+Don't Know29%65%54%55%
+Refused11%3%4%4%
+Total100%100%100%100%
+N21114147282
+Q7D. Compared to previous elections, are you more enthusiastic than usual about voting this year or less enthusiastic? 
+18 to 3435 to 6465 plusTotal
+More enthusiastic53%53%50%52%
+Less enthusiastic26%30%21%26%
+(DO NOT READ)  About the same20%15%25%20%
+DON'T KNOW1%2%4%3%
+Total100%100%100%100%
+N1184825891,189
+----------------Page (54) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 56 of 115
+Q8. Generally speaking, do you usually think of yourself as a  (READ CATEGORIES)
+18 to 3435 to 6465 plusTotal
+Democrat49%49%45%47%
+Republican7%15%18%15%
+Independent34%30%28%30%
+Other party  (please specify)4%0%0%1%
+(DO NOT READ)  Do not think in terms of political parties2%3%5%4%
+DON'T KNOW0%3%3%3%
+Refused5%1%1%1%
+Total100%100%100%100%
+N1184825891,189
+Q8B. Would you call yourself a strong Republican or a not very strong Republican
+18 to 3435 to 6465 plusTotal
+Strong Republican22%49%42%43%
+Not very strong Republican78%51%54%55%
+Don't Know0%0%4%2%
+Total100%100%100%100%
+N1081101192
+Q8C. Would you call yourself a strong Democrat or a not very strong Democrat?
+18 to 3435 to 6465 plusTotal
+Strong Democrat40%49%52%48%
+Not very strong Democrat54%51%45%49%
+Don't Know6%0%4%3%
+Refused0%0%0%0%
+Total100%100%100%100%
+N54205268527
+Q8D1. Do you think of yourself as closer to the Republican Party or to the Democratic Party?
+18 to 3435 to 6465 plusTotal
+Closer to the Republican Party12%27%11%18%
+Closer to the Democratic party62%25%44%41%
+Closer to neither party26%38%35%34%
+Don't Know1%10%10%7%
+Refused0%0%1%0%
+Total100%100%100%100%
+N2894109231
+Q8D2. Based on where the two parties stand on the issues, do you think your views are closer to the Republican Party or to the Democratic Party? 
+18 to 3435 to 6465 plusTotal
+Closer to the Republican Party4%19%29%21%
+Closer to the Democratic party69%41%29%40%
+Closer to neither party26%34%34%33%
+Don't Know1%7%8%6%
+Total100%100%100%100%
+N2499110233
+----------------Page (55) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 57 of 115
+Q9. Thinking about past elections, did you get a chance to vote in the 2012 presidential election? If so, did you vote for...
+18 to 3435 to 6465 plusTotal
+Obama63%62%65%63%
+Romney11%24%19%19%
+Someone else0%1%3%2%
+Didn't vote25%10%8%12%
+Don't remember0%2%5%3%
+Don't know1%1%1%1%
+Refused1%1%0%1%
+Total100%100%100%100%
+N1184825891,189
+Now I'd like to ask you about some issues that might be important in the elections in November... Jobs and the economy
+18 to 3435 to 6465 plusTotal
+01 Extremely important42%49%43%45%
+02 Very important50%44%47%46%
+03 Somewhat important8%7%6%7%
+04 or Not important1%0%3%1%
+88 Don't Know0%0%2%1%
+Total100%100%100%100%
+N1184825891,189
+Health care
+18 to 3435 to 6465 plusTotal
+01 Extremely important38%52%48%47%
+02 Very important45%39%46%43%
+03 Somewhat important17%8%5%8%
+04 or Not important0%1%2%1%
+88 Don't Know0%0%1%0%
+Total100%100%100%100%
+N1184825891,189
+Passing immigration reform
+18 to 3435 to 6465 plusTotal
+01 Extremely important19%17%22%19%
+02 Very important37%39%41%40%
+03 Somewhat important35%34%18%27%
+04 or Not important8%7%9%8%
+88 Don't Know1%4%10%6%
+Total100%100%100%100%
+N1184825891,189
+----------------Page (56) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 58 of 115
+Growing hostility towards immigrants
+18 to 3435 to 6465 plusTotal
+01 Extremely important25%22%17%21%
+02 Very important50%38%41%41%
+03 Somewhat important17%24%18%21%
+04 or Not important7%10%11%10%
+88 Don't Know1%6%12%8%
+Total100%100%100%100%
+N1184825891,189
+Gun control
+18 to 3435 to 6465 plusTotal
+01 Extremely important25%37%50%40%
+02 Very important31%35%33%34%
+03 Somewhat important28%17%9%16%
+04 or Not important17%9%6%9%
+88 Don't Know1%2%3%2%
+Total100%100%100%100%
+N1184825891,189
+The environment
+18 to 3435 to 6465 plusTotal
+01 Extremely important33%32%37%34%
+02 Very important50%49%45%48%
+03 Somewhat important13%14%13%13%
+04 or Not important4%4%3%4%
+88 Don't Know0%1%3%2%
+Total100%100%100%100%
+N1184825891,189
+Threat of terrorist attacks
+18 to 3435 to 6465 plusTotal
+01 Extremely important28%46%55%46%
+02 Very important29%35%31%32%
+03 Somewhat important32%13%6%13%
+04 or Not important11%5%3%5%
+88 Don't Know0%2%5%3%
+Total100%100%100%100%
+N1184825891,189
+Racial profiling
+18 to 3435 to 6465 plusTotal
+01 Extremely important24%20%20%21%
+02 Very important37%35%36%36%
+03 Somewhat important26%28%19%24%
+04 or Not important13%13%11%12%
+88 Don't Know0%4%14%7%
+Total100%100%100%100%
+N1184825891,189
+----------------Page (57) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 59 of 115
+Taxes
+18 to 3435 to 6465 plusTotal
+01 Extremely important19%24%31%26%
+02 Very important44%45%42%44%
+03 Somewhat important32%23%19%23%
+04 or Not important4%6%5%6%
+88 Don't Know0%1%4%2%
+Total100%100%100%100%
+N1184825891,189
+Growing gap between the rich and poor
+18 to 3435 to 6465 plusTotal
+01 Extremely important36%23%24%26%
+02 Very important35%38%42%39%
+03 Somewhat important26%31%21%26%
+04 or Not important4%6%8%6%
+88 Don't Know1%2%6%3%
+Total100%100%100%100%
+N1184825891,189
+Education
+18 to 3435 to 6465 plusTotal
+01 Extremely important43%49%51%49%
+02 Very important51%42%40%43%
+03 Somewhat important6%7%4%6%
+04 or Not important1%2%3%2%
+88 Don't Know0%0%2%1%
+Total100%100%100%100%
+N1184825891,189
+Social security
+18 to 3435 to 6465 plusTotal
+01 Extremely important20%39%49%40%
+02 Very important44%38%43%41%
+03 Somewhat important34%22%5%17%
+04 or Not important3%1%2%2%
+88 Don't Know0%1%2%1%
+Total100%100%100%100%
+N1184825891,189
+Retirement security or the security of your retirement
+18 to 3435 to 6465 plusTotal
+01 Extremely important26%37%49%40%
+02 Very important41%41%43%42%
+03 Somewhat important27%21%4%15%
+04 or Not important6%1%2%2%
+88 Don't Know0%0%2%1%
+Total100%100%100%100%
+N1184825891,189
+----------------Page (58) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 60 of 115
+For each of the following issues, please tell me whether the Democratic Party or Republican Party is doing a better job .... Jobs and the economy
+18 to 3435 to 6465 plusTotal
+01 Democrat54%38%32%39%
+02 Republican19%22%15%19%
+03 No Difference24%29%34%30%
+88 Don't Know3%11%19%13%
+Total100%100%100%100%
+N1184825891,189
+Health care
+18 to 3435 to 6465 plusTotal
+01 Democrat77%48%43%51%
+02 Republican10%18%10%13%
+03 No Difference8%24%30%24%
+88 Don't Know5%10%16%12%
+Total100%100%100%100%
+N1184825891,189
+Passing immigration reform
+18 to 3435 to 6465 plusTotal
+01 Democrat59%41%29%40%
+02 Republican11%12%17%14%
+03 No Difference22%31%31%30%
+88 Don't Know8%16%23%17%
+Total100%100%100%100%
+N1184825891,189
+Reducing hostility towards immigrants
+18 to 3435 to 6465 plusTotal
+01 Democrat69%49%36%47%
+02 Republican9%8%9%9%
+03 No Difference14%29%34%28%
+88 Don't Know8%14%21%16%
+Total100%100%100%100%
+N1184825891,189
+Gun control
+18 to 3435 to 6465 plusTotal
+01 Democrat44%41%40%41%
+02 Republican20%19%11%16%
+03 No Difference32%24%27%26%
+88 Don't Know5%16%22%16%
+Total100%100%100%100%
+N1184825891,189
+----------------Page (59) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 61 of 115
+The environment
+18 to 3435 to 6465 plusTotal
+01 Democrat69%50%31%46%
+02 Republican6%6%6%6%
+03 No Difference19%25%40%30%
+88 Don't Know6%19%23%18%
+Total100%100%100%100%
+N1184825891,189
+Threat of terrorist attacks
+18 to 3435 to 6465 plusTotal
+01 Democrat25%26%21%24%
+02 Republican26%30%22%26%
+03 No Difference42%32%34%35%
+88 Don't Know7%12%23%15%
+Total100%100%100%100%
+N1184825891,189
+Racial profiling
+18 to 3435 to 6465 plusTotal
+01 Democrat63%40%31%40%
+02 Republican9%10%8%9%
+03 No Difference20%33%37%32%
+88 Don't Know8%18%25%19%
+Total100%100%100%100%
+N1184825891,189
+Taxes
+18 to 3435 to 6465 plusTotal
+01 Democrat34%34%26%31%
+02 Republican20%21%15%18%
+03 No Difference34%30%36%33%
+88 Don't Know12%15%23%18%
+Total100%100%100%100%
+N1184825891,189
+Growing gap between the rich and poor
+18 to 3435 to 6465 plusTotal
+01 Democrat58%38%35%40%
+02 Republican11%20%10%14%
+03 No Difference25%30%34%31%
+88 Don't Know6%12%21%15%
+Total100%100%100%100%
+N1184825891,189
+----------------Page (60) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 62 of 115
+Education
+18 to 3435 to 6465 plusTotal
+01 Democrat62%43%28%40%
+02 Republican8%10%9%10%
+03 No Difference23%34%41%34%
+88 Don't Know7%13%22%16%
+Total100%100%100%100%
+N1184825891,189
+Social security
+18 to 3435 to 6465 plusTotal
+01 Democrat41%43%40%41%
+02 Republican12%12%9%11%
+03 No Difference38%33%34%34%
+88 Don't Know9%12%17%14%
+Total100%100%100%100%
+N1184825891,189
+Retirement security or the security of your retirement
+18 to 3435 to 6465 plusTotal
+01 Democrat43%38%35%38%
+02 Republican17%11%9%11%
+03 No Difference26%34%34%33%
+88 Don't Know13%17%22%19%
+Total100%100%100%100%
+N1184825891,189
+Do you support or oppose the health care law passed by Barack Obama and Congress in 2010?
+18 to 3435 to 6465 plusTotal
+01 Support65%56%54%57%
+02 Oppose21%34%28%29%
+88 No Difference12%9%16%12%
+99 Refused2%1%2%2%
+Total100%100%100%100%
+N1184825891,189
+... Support or oppose major new spending by the federal govt that would help undergraduates pay tuition at public colleges without needing loans?
+18 to 3435 to 6465 plusTotal
+01 Support90%54%58%62%
+02 Oppose8%35%26%26%
+88 No Difference2%9%15%10%
+99 Refused0%2%2%2%
+Total100%100%100%100%
+N1184825891,189
+----------------Page (61) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 63 of 115
+Do you support or oppose accepting Syrian refugees into the United States?
+18 to 3435 to 6465 plusTotal
+01 Support66%29%23%33%
+02 Oppose16%51%50%44%
+88 No Difference16%17%25%20%
+99 Refused2%3%2%2%
+Total100%100%100%100%
+N1184825891,189
+Do you support or oppose legalizing the possession of small amounts of marijuana for personal use?
+18 to 3435 to 6465 plusTotal
+01 Support57%27%13%27%
+02 Oppose31%65%76%63%
+88 No Difference12%8%11%10%
+99 Refused0%0%0%0%
+Total100%100%100%100%
+N1184825891,189
+Do you support or oppose banning people who are Muslim from entering the United States?
+18 to 3435 to 6465 plusTotal
+01 Support13%17%29%21%
+02 Oppose82%65%41%58%
+88 No Difference5%16%25%18%
+99 Refused0%2%5%3%
+Total100%100%100%100%
+N1184825891,189
+Do you support or oppose setting stricter emission limits on power plants in order to address climate change?
+18 to 3435 to 6465 plusTotal
+01 Support77%78%68%74%
+02 Oppose16%11%13%13%
+88 No Difference8%8%18%12%
+99 Refused0%2%1%2%
+Total100%100%100%100%
+N1184825891,189
+Do you support or oppose providing a federal income tax credit to family caregivers for the care and support of a loved one?
+18 to 3435 to 6465 plusTotal
+01 Support82%82%68%77%
+02 Oppose11%9%15%12%
+88 No Difference7%6%16%10%
+99 Refused0%3%2%2%
+Total100%100%100%100%
+N1184825891,189
+----------------Page (62) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 64 of 115
+Q13B1. In general, do you think aff action programs designed to increase the number of black and minority students on college campuses are... 
+18 to 3435 to 6465 plusTotal
+Good thing81%51%46%53%
+Bad thing10%39%33%32%
+Don't Know9%10%20%14%
+Refused0%1%2%1%
+Total100%100%100%100%
+N54246295595
+Q13B2. Do you favor or oppose aff action programs designed to help blacks, women, and other minorities get better access to higher education?
+18 to 3435 to 6465 plusTotal
+Favor83%58%61%65%
+Oppose15%31%26%25%
+Don't Know3%9%12%9%
+Refused0%3%1%1%
+Total100%100%100%100%
+N64236294594
+Blacks and other minorities receive equal treatment as whites in the criminal justice system
+18 to 3435 to 6465 plusTotal
+01 Strongly disagree54%26%8%24%
+02 Somewhat Disagree14%18%15%16%
+03 Neither Agree nor Disagree7%9%6%7%
+04 Somewhat Agree8%15%18%14%
+05 Strongly Agree17%31%44%34%
+88 Don't Know1%3%9%5%
+99 Refused0%0%0%0%
+Total100%100%100%100%
+N1184825891,189
+Congress should increase the federal minimum wage from its current level of $7.25 an hour
+18 to 3435 to 6465 plusTotal
+01 Strongly disagree10%12%9%10%
+02 Somewhat Disagree7%8%7%7%
+03 Neither Agree nor Disagree2%4%6%5%
+04 Somewhat Agree20%25%21%22%
+05 Strongly Agree61%48%50%51%
+88 Don't Know1%3%7%4%
+99 Refused0%0%1%1%
+Total100%100%100%100%
+N1184825891,189
+We should have stricter gun laws in the United States
+18 to 3435 to 6465 plusTotal
+01 Strongly disagree10%10%4%8%
+02 Somewhat Disagree15%10%7%10%
+03 Neither Agree nor Disagree8%3%3%4%
+04 Somewhat Agree17%11%9%11%
+05 Strongly Agree50%64%74%66%
+88 Don't Know1%2%3%2%
+99 Refused0%0%0%0%
+Total100%100%100%100%
+N1184825891,189
+----------------Page (63) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 65 of 115
+The government should expand access to health insurance for all immigrants, regardless of their legal status
+18 to 3435 to 6465 plusTotal
+01 Strongly disagree8%29%26%24%
+02 Somewhat Disagree29%14%13%16%
+03 Neither Agree nor Disagree9%12%7%9%
+04 Somewhat Agree23%23%23%23%
+05 Strongly Agree32%20%20%22%
+88 Don't Know0%2%9%5%
+99 Refused0%1%2%1%
+Total100%100%100%100%
+N1184825891,189
+Undocumented immigrants should have the opportunity to eventually become U.S. citizens
+18 to 3435 to 6465 plusTotal
+01 Strongly disagree6%16%21%16%
+02 Somewhat Disagree2%9%18%11%
+03 Neither Agree nor Disagree3%10%10%9%
+04 Somewhat Agree36%37%26%32%
+05 Strongly Agree50%24%17%26%
+88 Don't Know0%3%7%4%
+99 Refused3%1%1%1%
+Total100%100%100%100%
+N1184825891,189
+The Senate should give President Obama's Supreme Court nominee a quick and fair hearing
+18 to 3435 to 6465 plusTotal
+01 Strongly disagree6%9%9%8%
+02 Somewhat Disagree5%3%5%4%
+03 Neither Agree nor Disagree8%8%11%9%
+04 Somewhat Agree28%28%18%24%
+05 Strongly Agree46%42%36%40%
+88 Don't Know7%9%20%13%
+99 Refused0%1%1%1%
+Total100%100%100%100%
+N1184825891,189
+Laws on hate crimes against religious minorities should be made stronger
+18 to 3435 to 6465 plusTotal
+01 Strongly disagree8%10%10%9%
+02 Somewhat Disagree5%4%5%4%
+03 Neither Agree nor Disagree9%7%7%7%
+04 Somewhat Agree26%19%19%20%
+05 Strongly Agree48%54%45%49%
+88 Don't Know5%6%14%9%
+99 Refused0%1%2%1%
+Total100%100%100%100%
+N1184825891,189
+----------------Page (64) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 66 of 115
+Undocumented immigrants should be allowed to get driver's licenses
+18 to 3435 to 6465 plusTotal
+01 Strongly disagree10%27%29%24%
+02 Somewhat Disagree15%17%16%16%
+03 Neither Agree nor Disagree8%9%8%8%
+04 Somewhat Agree33%18%23%23%
+05 Strongly Agree33%27%14%23%
+88 Don't Know2%2%9%5%
+99 Refused0%0%1%1%
+Total100%100%100%100%
+N1184825891,189
+Undocumented immigrants should be allowed to pay in-state tuition at public universities
+18 to 3435 to 6465 plusTotal
+01 Strongly disagree9%22%18%18%
+02 Somewhat Disagree8%13%13%12%
+03 Neither Agree nor Disagree12%6%8%8%
+04 Somewhat Agree29%29%20%26%
+05 Strongly Agree40%26%29%30%
+88 Don't Know1%3%11%6%
+99 Refused0%1%1%1%
+Total100%100%100%100%
+N1184825891,189
+Asian Americans are unfairly treated by police
+18 to 3435 to 6465 plusTotal
+01 Strongly disagree14%17%22%19%
+02 Somewhat Disagree20%23%19%21%
+03 Neither Agree nor Disagree23%15%12%15%
+04 Somewhat Agree26%22%16%20%
+05 Strongly Agree9%15%16%14%
+88 Don't Know8%9%14%11%
+99 Refused2%1%2%1%
+Total100%100%100%100%
+N1184825891,189
+Sometimes politics and government seem so complicated that a person like me can't understand what's going on
+18 to 3435 to 6465 plusTotal
+01 Strongly disagree15%15%5%11%
+02 Somewhat Disagree12%13%12%12%
+03 Neither Agree nor Disagree9%7%10%9%
+04 Somewhat Agree38%34%24%31%
+05 Strongly Agree23%27%41%32%
+88 Don't Know3%5%8%6%
+99 Refused0%1%0%0%
+Total100%100%100%100%
+N1184825891,189
+----------------Page (65) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 67 of 115
+Public officials don't care much what people like me think.
+18 to 3435 to 6465 plusTotal
+01 Strongly disagree5%5%8%6%
+02 Somewhat Disagree20%19%17%18%
+03 Neither Agree nor Disagree10%9%14%11%
+04 Somewhat Agree31%30%22%27%
+05 Strongly Agree31%27%26%28%
+88 Don't Know3%10%12%10%
+99 Refused0%0%1%1%
+Total100%100%100%100%
+N1184825891,189
+Q16C. How would you describe your political views? Very conservative...
+18 to 3435 to 6465 plusTotal
+Very conservative0%2%4%3%
+Conservative8%20%24%19%
+Moderate44%51%45%48%
+Liberal35%21%21%24%
+Very liberal13%6%5%7%
+Total100%100%100%100%
+N1184825891,189
+Q17. ... If a political candidate expressed strongly anti-immigrant views, but you agreed with him or her on other issues, would you ... 
+18 to 3435 to 6465 plusTotal
+Still vote for candidate25%47%28%35%
+Someone else51%30%45%40%
+Don't Know21%23%26%24%
+Refused3%0%1%1%
+Total100%100%100%100%
+N1184825891,189
+Q17B. Next, if a political candidate expressed strong anti-Muslim views, and you agreed with him or her on other issues, would you ...
+18 to 3435 to 6465 plusTotal
+Still vote for candidate15%40%38%35%
+Someone else73%39%35%44%
+Don't Know10%21%25%21%
+Refused2%0%2%1%
+Total100%100%100%100%
+N1184825891,189
+Thinking about the 2016 elections, have you been contacted any of the following groups ... Democrats
+18 to 3435 to 6465 plusTotal
+01 A great deal6%8%5%6%
+02 Some8%8%11%9%
+03 A little17%17%18%18%
+04 Not at all63%64%61%63%
+88 Don't Know6%3%3%4%
+99 Refused0%0%2%1%
+Total100%100%100%100%
+N1184825891,189
+----------------Page (66) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 68 of 115
+Thinking about the 2016 elections, have you been contacted any of the following groups ... Republicans
+18 to 3435 to 6465 plusTotal
+01 A great deal3%4%4%4%
+02 Some3%8%11%9%
+03 A little4%12%12%10%
+04 Not at all84%74%69%74%
+88 Don't Know6%2%4%4%
+99 Refused0%0%1%1%
+Total100%100%100%100%
+N1184825891,189
+Thinking about the 2016 elections, have you been contacted any of the following groups ... Community Organizations
+18 to 3435 to 6465 plusTotal
+01 A great deal2%4%5%4%
+02 Some14%10%9%10%
+03 A little12%8%12%10%
+04 Not at all66%77%70%72%
+88 Don't Know6%1%3%3%
+99 Refused0%0%2%1%
+Total100%100%100%100%
+N1184825891,189
+We need more EthnicGroup/Asian Americans in Congress
+18 to 3435 to 6465 plusTotal
+01 Extremely important31%20%27%25%
+02 Very important21%25%31%27%
+03 Somewhat important37%35%20%29%
+04 or Not important10%17%15%15%
+88 Don't Know2%2%6%4%
+Total100%100%100%100%
+N1184825891,189
+We need more women in Congress
+18 to 3435 to 6465 plusTotal
+01 Extremely important44%19%20%24%
+02 Very important22%29%34%30%
+03 Somewhat important24%29%22%25%
+04 or Not important5%21%19%17%
+88 Don't Know5%2%6%4%
+Total100%100%100%100%
+N1184825891,189
+We need more Democrats/Republicans in Congress
+18 to 3435 to 6465 plusTotal
+01 Extremely important12%13%15%13%
+02 Very important14%17%18%17%
+03 Somewhat important38%25%20%25%
+04 or Not important35%39%33%36%
+88 Don't Know1%7%15%9%
+Total100%100%100%100%
+N1184825891,189
+----------------Page (67) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter Survey Appendix: Age, Page 69 of 115
+We need more people in Congress who represent the issues I care about most
+18 to 3435 to 6465 plusTotal
+01 Extremely important38%35%41%38%
+02 Very important40%36%30%34%
+03 Somewhat important19%22%14%18%
+04 or Not important0%4%9%5%
+88 Don't Know4%3%8%5%
+Total100%100%100%100%
+N1184825891,189
+Q19E. Finally... how important is it that the presidential candidates lay out their plans to update Social Security for future generations?
+18 to 3435 to 6465 plusTotal
+Extremely important33%44%53%46%
+Very important36%39%33%36%
+Somewhat important21%13%8%13%
+or Not important6%3%2%3%
+Don't Know3%1%5%3%
+Total100%100%100%100%
+N1184825891,189
+Q21A. You said you get your news from television. Is that [Asian/Ethnic] show?
+18 to 3435 to 6465 plusTotal
+Yes18%25%42%32%
+No62%65%42%54%
+(DO NOT READ)  Both/Both Asian and non-Asian20%10%16%14%
+Refused0%0%0%0%
+Total100%100%100%100%
+N56371516943
+Q21B. You said you get your news from the Internet. Is that [Asian/Ethnic] web site?
+18 to 3435 to 6465 plusTotal
+Yes8%20%39%22%
+No76%64%46%63%
+(DO NOT READ)  Both/Both Asian and non-Asian16%16%15%16%
+Total100%100%100%100%
+N108300191599
+Q21C. You said you get your news from newspapers. Is that [Asian/Ethnic] newspaper?
+18 to 3435 to 6465 plusTotal
+Yes10%30%58%43%
+No76%60%29%45%
+(DO NOT READ)  Both/Both Asian and non-Asian14%9%13%12%
+Don't Know0%0%0%0%
+Refused0%0%0%0%
+Total100%100%100%100%
+N31222376629
+Q21D. You said you get your news from radio. Is that [Asian/Ethnic] show?
+18 to 3435 to 6465 plusTotal
+Yes1%25%56%33%
+No92%73%36%62%
+(DO NOT READ)  Both/Both Asian and non-Asian7%2%7%5%
+Refused0%0%0%0%
+Total100%100%100%100%
+N32168198398
+----------------Page (68) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 70 of 115
+Q1A. There will be a general election for President and Congress this November. Are you planning to vote or not planning to vote in that election?
+Native BornForeign BornTotal
+Planning to vote97%93%94%
+Not planning to vote1%2%2%
+Don't Know2%5%4%
+Refused0%0%0%
+Total100%100%100%
+N2869261,212
+How certain are you that you will vote in the upcoming presidential election? Are you...
+Native BornForeign BornTotal
+Absolutely certain81%87%85%
+Fairly certain15%9%11%
+Not too certain4%3%3%
+Not at all certain0%0%0%
+Don't Know0%1%0%
+Total100%100%100%
+N2728741146
+Q1C. If you do vote... will you vote early or by mail using an absentee ballot or will you vote at your precinct polling place on Election Day? 
+Native BornForeign BornTotal
+Early Voter15%18%17%
+Absentee23%20%21%
+Vote on Election Day56%57%57%
+Don't Know6%5%5%
+Total100%100%100%
+N2688651133
+Q2A. Generally speaking, fewer people vote in primaries and caucuses before the November general election. How about you? Did you vote ...
+Native BornForeign BornTotal
+Yes53%40%44%
+No46%57%54%
+Don't Know1%3%2%
+Total100%100%100%
+N197450647
+Q2B. Generally speaking, fewer people vote in primaries and caucuses before the Nov general election. How about you? Do you plan to vote... 
+Native BornForeign BornTotal
+Yes68%53%58%
+No25%34%31%
+Don't Know7%13%11%
+Refused0%0%0%
+Total100%100%100%
+N89476565
+----------------Page (69) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 71 of 115
+Q2C. Which presidential candidate did you vote for?
+Native BornForeign BornTotal
+Hillary Clinton11%41%29%
+Bernie Sanders60%17%34%
+Donald Trump7%13%11%
+Ted Cruz2%5%4%
+Marco Rubio0%3%2%
+John Kasich0%1%1%
+Bobby Jindal0%0%0%
+Someone else21%20%20%
+Total100%100%100%
+N58163221
+Q2D. Which presidential candidate do you plan to vote for?
+Native BornForeign BornTotal
+Hillary Clinton19%44%35%
+Bernie Sanders51%7%23%
+Donald Trump7%12%10%
+Ted Cruz5%3%4%
+Marco Rubio0%1%0%
+John Kasich1%1%1%
+Someone else18%32%27%
+Total100%100%100%
+N62247309
+Discussed politics with family and friends
+Native BornForeign BornTotal
+01 Yes81%64%69%
+02 No20%36%31%
+Total100%100%100%
+N2869261,212
+Worked for a candidate, political party, or some other campaign organization
+Native BornForeign BornTotal
+01 Yes14%5%8%
+02 No86%95%92%
+88 Don't Know0%0%0%
+99 Refused0%0%0%
+Total100%100%100%
+N2869261,212
+----------------Page (70) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 72 of 115
+Contributed money to a candidate, political party, or some other campaign organization
+Native BornForeign BornTotal
+01 Yes27%13%17%
+02 No72%87%82%
+88 Don't Know1%0%0%
+99 Refused0%0%0%
+Total100%100%100%
+N2869261,212
+Contacted your representative or a government official in the U.S.
+Native BornForeign BornTotal
+01 Yes20%13%15%
+02 No80%87%85%
+88 Don't Know1%1%1%
+Total100%100%100%
+N2869261,212
+Worked with others in your community to solve a problem
+Native BornForeign BornTotal
+01 Yes30%22%25%
+02 No69%77%75%
+88 Don't Know1%1%1%
+99 Refused0%0%0%
+Total100%100%100%
+N2869261,212
+Posted about politics on social media, like Facebook, Twitter, or WeChat
+Native BornForeign BornTotal
+01 Yes35%13%20%
+02 No64%86%79%
+88 Don't Know1%1%1%
+Total100%100%100%
+N2869261,212
+Attended a protest march, demonstration, or rally
+Native BornForeign BornTotal
+01 Yes8%10%9%
+02 No92%90%91%
+88 Don't Know0%0%0%
+Total100%100%100%
+N2869261,212
+----------------Page (71) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 73 of 115
+Attended a meeting of the local school board or Parent Teacher Association
+Native BornForeign BornTotal
+01 Yes6%21%16%
+02 No93%79%83%
+88 Don't Know0%0%0%
+99 Refused1%0%0%
+Total100%100%100%
+N2869261,212
+Donated money to a religious organization
+Native BornForeign BornTotal
+01 Yes55%56%55%
+02 No43%44%44%
+88 Don't Know0%0%0%
+99 Refused2%0%1%
+Total100%100%100%
+N2869261,212
+Donated money to any other charitable cause
+Native BornForeign BornTotal
+01 Yes63%58%60%
+02 No36%41%40%
+88 Don't Know0%1%1%
+Total100%100%100%
+N2869261,212
+Do you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable impression of... The Republican Party?
+Native BornForeign BornTotal
+01 Very favorable4%10%8%
+02 Somewhat favorable19%25%23%
+03 Somewhat unfavorable30%18%21%
+04 Very unfavorable34%20%24%
+05 No opinion14%27%23%
+06 Never heard0%0%0%
+Total100%100%100%
+N2869261,212
+Do you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable impression of... The Democratic Party?
+Native BornForeign BornTotal
+01 Very favorable28%26%27%
+02 Somewhat favorable43%35%38%
+03 Somewhat unfavorable11%9%9%
+04 Very unfavorable7%11%10%
+05 No opinion10%18%16%
+06 Never heard1%1%1%
+Total100%100%100%
+N2869261,212
+----------------Page (72) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 74 of 115
+Barack Obama
+Native BornForeign BornTotal
+01 Very favorable43%33%36%
+02 Somewhat favorable29%34%32%
+03 Somewhat unfavorable16%11%13%
+04 Very unfavorable8%11%10%
+05 No opinion4%11%9%
+06 Never heard0%1%0%
+Total100%100%100%
+N2869261,212
+Donald Trump
+Native BornForeign BornTotal
+01 Very favorable4%10%8%
+02 Somewhat favorable10%12%11%
+03 Somewhat unfavorable15%14%14%
+04 Very unfavorable66%39%47%
+05 No opinion6%20%16%
+06 Never heard0%6%4%
+Total100%100%100%
+N2869261,212
+Ted Cruz
+Native BornForeign BornTotal
+01 Very favorable2%4%3%
+02 Somewhat favorable21%18%19%
+03 Somewhat unfavorable12%15%14%
+04 Very unfavorable42%19%26%
+05 No opinion21%29%26%
+06 Never heard1%16%12%
+Total100%100%100%
+N2869261,212
+Marco Rubio
+Native BornForeign BornTotal
+01 Very favorable1%3%2%
+02 Somewhat favorable23%15%18%
+03 Somewhat unfavorable26%14%18%
+04 Very unfavorable22%15%17%
+05 No opinion25%34%31%
+06 Never heard3%19%14%
+Total100%100%100%
+N2869261,212
+----------------Page (73) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 75 of 115
+John Kasich
+Native BornForeign BornTotal
+01 Very favorable3%6%5%
+02 Somewhat favorable18%16%16%
+03 Somewhat unfavorable29%11%17%
+04 Very unfavorable14%9%11%
+05 No opinion27%33%31%
+06 Never heard9%25%20%
+Total100%100%100%
+N2869261,212
+Hillary Clinton
+Native BornForeign BornTotal
+01 Very favorable21%29%26%
+02 Somewhat favorable45%32%36%
+03 Somewhat unfavorable12%10%11%
+04 Very unfavorable16%15%15%
+05 No opinion6%13%11%
+06 Never heard1%2%2%
+Total100%100%100%
+N2869261,212
+Bernie Sanders
+Native BornForeign BornTotal
+01 Very favorable39%13%21%
+02 Somewhat favorable24%28%26%
+03 Somewhat unfavorable17%10%12%
+04 Very unfavorable9%10%10%
+05 No opinion11%27%22%
+06 Never heard1%12%9%
+Total100%100%100%
+N2869261,212
+South Carolina governor Nikki Haley
+Native BornForeign BornTotal
+01 Very favorable1%4%3%
+02 Somewhat favorable7%11%10%
+03 Somewhat unfavorable21%4%10%
+04 Very unfavorable4%6%6%
+05 No opinion38%37%37%
+06 Never heard28%38%35%
+Total100%100%100%
+N2869261,212
+----------------Page (74) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 76 of 115
+Supreme Court nominee Merrick Garland
+Native BornForeign BornTotal
+01 Very favorable10%10%10%
+02 Somewhat favorable20%12%15%
+03 Somewhat unfavorable12%4%7%
+04 Very unfavorable4%3%3%
+05 No opinion33%39%37%
+06 Never heard21%32%29%
+Total100%100%100%
+N2869261,212
+Q5. Overall, do you approve or disapprove of the way Barack Obama is handling his job as President? 
+Native BornForeign BornTotal
+Approve70%66%67%
+Disapprove28%20%23%
+Don't Know3%12%9%
+Refused0%2%1%
+Total100%100%100%
+N2869261,212
+Q6A. Thinking about the upcoming November election for  the U.S. Senate in California...
+Native BornForeign BornTotal
+Harris22%19%20%
+Sanchez6%11%10%
+Someone else2%8%6%
+Don't Know70%62%65%
+Refused0%0%0%
+Total100%100%100%
+N33126159
+Q6B. Would you say you support that candidate strongly or not so strongly?
+Native BornForeign BornTotal
+Support strongly58%58%58%
+Not so strongly42%28%32%
+Don't know0%14%10%
+Total100%100%100%
+N124759
+Q6C. Well, who do you lean towards at this time?
+Native BornForeign BornTotal
+Republican29%18%22%
+Democrat55%57%56%
+Some other party0%1%1%
+Don't Know14%23%19%
+Refused3%2%2%
+Total100%100%100%
+N2179100
+Q6D. Thinking about the upcoming November election for  the U.S. Senate in California...
+Native BornForeign BornTotal
+Harris31%31%31%
+Sanches7%9%9%
+Someone else11%13%12%
+Don't Know51%45%47%
+Refused0%2%2%
+Total100%100%100%
+N40165205
+Q6E. Would you say you support that candidate strongly or not so strongly?
+----------------Page (75) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 77 of 115
+Native BornForeign BornTotal
+Support strongly50%73%66%
+Not so strongly32%16%21%
+Don't know17%12%13%
+Total100%100%100%
+N2397120
+Q6F. Well, who do you lean towards at this time?
+Native BornForeign BornTotal
+Republican24%15%18%
+Democrat42%50%48%
+Some other party2%5%4%
+Don't Know32%23%26%
+Refused0%7%5%
+Total100%100%100%
+N176885
+Q6G. Thinking about the upcoming November election for the U.S. Senate in your state... If the election were being held today...
+Native BornForeign BornTotal
+Republican26%26%26%
+Democrat61%43%49%
+Some other party1%2%2%
+Don't Know12%26%21%
+Refused2%2%2%
+Total100%100%100%
+N199408607
+Q6H. Would you say you support that candidate strongly or not so strongly?
+Native BornForeign BornTotal
+Support strongly41%68%57%
+Not so strongly46%25%34%
+Don't know13%7%10%
+Total100%100%100%
+N160310470
+Q6I. Well, which party's candidate do you lean towards at this time?
+Native BornForeign BornTotal
+Republican6%8%8%
+Democrat42%27%30%
+Some other party2%12%10%
+Don't Know49%47%47%
+Refused0%6%5%
+Total100%100%100%
+N3998137
+Q7A. Thinking about the upcoming November election for the U.S. House of Representatives in your state... If the election were being held today...
+Native BornForeign BornTotal
+Republican15%23%21%
+Democrat71%46%54%
+Some other party0%4%3%
+Don't Know14%25%22%
+Refused0%1%1%
+Total100%100%100%
+N2869261,212
+Q7B. Would you say you support that candidate strongly or not so strongly?
+Native BornForeign BornTotal
+Support strongly56%66%63%
+Not so strongly34%27%29%
+----------------Page (76) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 78 of 115
+Don't know10%7%8%
+Total100%100%100%
+N233689922
+Q7C. Well, which party's candidate do you lean towards at this time?
+Native BornForeign BornTotal
+Republican5%7%7%
+Democrat36%31%32%
+Some other party4%2%3%
+Don't Know54%54%54%
+Refused0%6%5%
+Total100%100%100%
+N53237290
+Q7D. Compared to previous elections, are you more enthusiastic than usual about voting this year or less enthusiastic? 
+Native BornForeign BornTotal
+More enthusiastic49%53%51%
+Less enthusiastic36%21%26%
+(DO NOT READ)  About the same14%24%20%
+DON'T KNOW2%3%3%
+Total100%100%100%
+N2869261,212
+----------------Page (77) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 79 of 115
+Q8. Generally speaking, do you usually think of yourself as a  (READ CATEGORIES)
+Native BornForeign BornTotal
+Democrat56%43%48%
+Republican9%17%15%
+Independent30%29%30%
+Other party  (please specify)0%1%1%
+(DO NOT READ)  Do not think in terms of political parties2%5%4%
+DON'T KNOW1%3%2%
+Refused2%1%2%
+Total100%100%100%
+N2869261,212
+Q8B. Would you call yourself a strong Republican or a not very strong Republican
+Native BornForeign BornTotal
+Strong Republican40%45%44%
+Not very strong Republican58%53%54%
+Don't Know3%2%2%
+Total100%100%100%
+N32164196
+Q8C. Would you call yourself a strong Democrat or a not very strong Democrat?
+Native BornForeign BornTotal
+Strong Democrat34%57%49%
+Not very strong Democrat63%40%49%
+Don't Know3%3%3%
+Refused0%0%0%
+Total100%100%100%
+N151383534
+Q8D1. Do you think of yourself as closer to the Republican Party or to the Democratic Party?
+Native BornForeign BornTotal
+Closer to the Republican Party16%19%18%
+Closer to the Democratic party54%36%41%
+Closer to neither party28%36%33%
+Don't Know3%9%7%
+Refused0%0%0%
+Total100%100%100%
+N54183237
+Q8D2. Based on where the two parties stand on the issues, do you think your views are closer to the Republican Party or to the Democratic Party? 
+Native BornForeign BornTotal
+Closer to the Republican Party22%21%21%
+Closer to the Democratic party49%37%40%
+Closer to neither party25%36%33%
+Don't Know4%7%6%
+Total100%100%100%
+N47189236
+----------------Page (78) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 80 of 115
+Q9. Thinking about past elections, did you get a chance to vote in the 2012 presidential election? If so, did you vote for...
+Native BornForeign BornTotal
+Obama60%65%63%
+Romney23%18%20%
+Someone else3%1%2%
+Didn't vote13%11%11%
+Don't remember1%4%3%
+Don't know0%1%1%
+Refused0%1%1%
+Total100%100%100%
+N2869261,212
+Now I'd like to ask you about some issues that might be important in the elections in November... Jobs and the economy
+Native BornForeign BornTotal
+01 Extremely important46%44%45%
+02 Very important45%47%46%
+03 Somewhat important9%6%7%
+04 or Not important1%1%1%
+88 Don't Know0%1%1%
+Total100%100%100%
+N2869261,212
+Health care
+Native BornForeign BornTotal
+01 Extremely important48%47%47%
+02 Very important40%44%43%
+03 Somewhat important11%7%8%
+04 or Not important1%2%1%
+88 Don't Know1%1%1%
+Total100%100%100%
+N2869261,212
+Passing immigration reform
+Native BornForeign BornTotal
+01 Extremely important15%21%19%
+02 Very important34%43%40%
+03 Somewhat important40%21%27%
+04 or Not important9%8%8%
+88 Don't Know3%8%6%
+Total100%100%100%
+N2869261,212
+----------------Page (79) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 81 of 115
+Growing hostility towards immigrants
+Native BornForeign BornTotal
+01 Extremely important21%20%20%
+02 Very important40%42%42%
+03 Somewhat important26%18%20%
+04 or Not important11%9%10%
+88 Don't Know3%10%8%
+Total100%100%100%
+N2869261,212
+Gun control
+Native BornForeign BornTotal
+01 Extremely important22%48%40%
+02 Very important35%33%34%
+03 Somewhat important28%10%15%
+04 or Not important15%7%9%
+88 Don't Know1%2%2%
+Total100%100%100%
+N2869261,212
+The environment
+Native BornForeign BornTotal
+01 Extremely important32%34%33%
+02 Very important47%47%47%
+03 Somewhat important16%13%14%
+04 or Not important5%3%4%
+88 Don't Know1%2%2%
+Total100%100%100%
+N2869261,212
+Threat of terrorist attacks
+Native BornForeign BornTotal
+01 Extremely important36%52%47%
+02 Very important30%33%32%
+03 Somewhat important24%8%13%
+04 or Not important10%3%5%
+88 Don't Know1%4%3%
+Total100%100%100%
+N2869261,212
+Racial profiling
+Native BornForeign BornTotal
+01 Extremely important19%21%20%
+02 Very important29%39%36%
+03 Somewhat important37%19%24%
+04 or Not important14%11%12%
+88 Don't Know1%11%8%
+Total100%100%100%
+N2869261,212
+----------------Page (80) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 82 of 115
+Taxes
+Native BornForeign BornTotal
+01 Extremely important22%27%26%
+02 Very important39%46%44%
+03 Somewhat important33%18%23%
+04 or Not important5%6%5%
+88 Don't Know1%3%2%
+Total100%100%100%
+N2869261,212
+Growing gap between the rich and poor
+Native BornForeign BornTotal
+01 Extremely important34%22%26%
+02 Very important30%43%39%
+03 Somewhat important30%23%25%
+04 or Not important5%7%6%
+88 Don't Know1%5%4%
+Total100%100%100%
+N2869261,212
+Education
+Native BornForeign BornTotal
+01 Extremely important45%50%48%
+02 Very important43%43%43%
+03 Somewhat important7%5%6%
+04 or Not important5%1%2%
+88 Don't Know0%1%1%
+Total100%100%100%
+N2869261,212
+Social security
+Native BornForeign BornTotal
+01 Extremely important29%44%39%
+02 Very important40%42%41%
+03 Somewhat important29%11%17%
+04 or Not important2%1%2%
+88 Don't Know0%1%1%
+Total100%100%100%
+N2869261,212
+Retirement security or the security of your retirement
+Native BornForeign BornTotal
+01 Extremely important34%43%40%
+02 Very important37%44%42%
+03 Somewhat important28%9%15%
+04 or Not important2%2%2%
+88 Don't Know0%2%1%
+Total100%100%100%
+N2869261,212
+----------------Page (81) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 83 of 115
+For each of the following issues, please tell me whether the Democratic Party or Republican Party is doing a better job .... Jobs and the economy
+Native BornForeign BornTotal
+01 Democrat47%35%39%
+02 Republican21%18%19%
+03 No Difference26%32%30%
+88 Don't Know6%15%13%
+Total100%100%100%
+N2869261,212
+Health care
+Native BornForeign BornTotal
+01 Democrat59%48%51%
+02 Republican17%12%14%
+03 No Difference18%26%24%
+88 Don't Know7%13%11%
+Total100%100%100%
+N2869261,212
+Passing immigration reform
+Native BornForeign BornTotal
+01 Democrat49%36%40%
+02 Republican9%16%14%
+03 No Difference32%28%29%
+88 Don't Know11%20%17%
+Total100%100%100%
+N2869261,212
+Reducing hostility towards immigrants
+Native BornForeign BornTotal
+01 Democrat62%40%47%
+02 Republican6%10%9%
+03 No Difference23%31%28%
+88 Don't Know10%19%16%
+Total100%100%100%
+N2869261,212
+Gun control
+Native BornForeign BornTotal
+01 Democrat39%42%41%
+02 Republican22%13%16%
+03 No Difference29%26%27%
+88 Don't Know10%19%16%
+Total100%100%100%
+N2869261,212
+----------------Page (82) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 84 of 115
+The environment
+Native BornForeign BornTotal
+01 Democrat64%37%46%
+02 Republican4%7%6%
+03 No Difference18%35%30%
+88 Don't Know14%20%18%
+Total100%100%100%
+N2869261,212
+Threat of terrorist attacks
+Native BornForeign BornTotal
+01 Democrat23%24%24%
+02 Republican25%26%26%
+03 No Difference41%32%35%
+88 Don't Know11%17%15%
+Total100%100%100%
+N2869261,212
+Racial profiling
+Native BornForeign BornTotal
+01 Democrat53%35%40%
+02 Republican7%10%9%
+03 No Difference28%34%32%
+88 Don't Know12%22%19%
+Total100%100%100%
+N2869261,212
+Taxes
+Native BornForeign BornTotal
+01 Democrat38%28%31%
+02 Republican17%19%19%
+03 No Difference34%33%33%
+88 Don't Know12%20%17%
+Total100%100%100%
+N2869261,212
+Growing gap between the rich and poor
+Native BornForeign BornTotal
+01 Democrat45%38%40%
+02 Republican15%14%14%
+03 No Difference30%31%31%
+88 Don't Know10%17%15%
+Total100%100%100%
+N2869261,212
+----------------Page (83) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 85 of 115
+Education
+Native BornForeign BornTotal
+01 Democrat59%32%40%
+02 Republican6%11%10%
+03 No Difference27%38%34%
+88 Don't Know8%20%16%
+Total100%100%100%
+N2869261,212
+Social security
+Native BornForeign BornTotal
+01 Democrat47%39%41%
+02 Republican8%12%11%
+03 No Difference35%34%34%
+88 Don't Know10%15%14%
+Total100%100%100%
+N2869261,212
+Retirement security or the security of your retirement
+Native BornForeign BornTotal
+01 Democrat49%33%38%
+02 Republican13%11%12%
+03 No Difference25%36%33%
+88 Don't Know13%21%18%
+Total100%100%100%
+N2869261,212
+Do you support or oppose the health care law passed by Barack Obama and Congress in 2010?
+Native BornForeign BornTotal
+01 Support56%58%57%
+02 Oppose34%26%29%
+88 No Difference10%13%12%
+99 Refused0%3%2%
+Total100%100%100%
+N2869261,212
+... Support or oppose major new spending by the federal govt that would help undergraduates pay tuition at public colleges without needing loans?
+Native BornForeign BornTotal
+01 Support65%60%62%
+02 Oppose30%24%26%
+88 No Difference5%13%11%
+99 Refused0%2%2%
+Total100%100%100%
+N2869261,212
+----------------Page (84) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 86 of 115
+Do you support or oppose accepting Syrian refugees into the United States?
+Native BornForeign BornTotal
+01 Support47%27%33%
+02 Oppose34%49%44%
+88 No Difference18%22%21%
+99 Refused2%3%3%
+Total100%100%100%
+N2869261,212
+Do you support or oppose legalizing the possession of small amounts of marijuana for personal use?
+Native BornForeign BornTotal
+01 Support46%18%27%
+02 Oppose44%72%63%
+88 No Difference11%9%10%
+99 Refused0%1%0%
+Total100%100%100%
+N2869261,212
+Do you support or oppose banning people who are Muslim from entering the United States?
+Native BornForeign BornTotal
+01 Support15%24%21%
+02 Oppose73%51%58%
+88 No Difference12%21%18%
+99 Refused0%4%3%
+Total100%100%100%
+N2869261,212
+Do you support or oppose setting stricter emission limits on power plants in order to address climate change?
+Native BornForeign BornTotal
+01 Support78%71%73%
+02 Oppose13%13%13%
+88 No Difference9%14%13%
+99 Refused0%2%2%
+Total100%100%100%
+N2869261,212
+Do you support or oppose providing a federal income tax credit to family caregivers for the care and support of a loved one?
+Native BornForeign BornTotal
+01 Support86%72%76%
+02 Oppose7%13%11%
+88 No Difference7%13%11%
+99 Refused0%3%2%
+Total100%100%100%
+N2869261,212
+----------------Page (85) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 87 of 115
+Q13B1. In general, do you think aff action programs designed to increase the number of black and minority students on college campuses are... 
+Native BornForeign BornTotal
+Good thing56%50%52%
+Bad thing30%33%32%
+Don't Know14%14%14%
+Refused0%2%2%
+Total100%100%100%
+N143464607
+Q13B2. Do you favor or oppose aff action programs designed to help blacks, women, and other minorities get better access to higher education?
+Native BornForeign BornTotal
+Favor72%61%64%
+Oppose24%26%25%
+Don't Know4%11%9%
+Refused1%2%1%
+Total100%100%100%
+N143462605
+Blacks and other minorities receive equal treatment as whites in the criminal justice system
+Native BornForeign BornTotal
+01 Strongly disagree46%13%23%
+02 Somewhat Disagree19%14%16%
+03 Neither Agree nor Disagree8%8%8%
+04 Somewhat Agree13%15%15%
+05 Strongly Agree12%44%34%
+88 Don't Know2%6%5%
+99 Refused1%1%1%
+Total100%100%100%
+N2869261,212
+Congress should increase the federal minimum wage from its current level of $7.25 an hour
+Native BornForeign BornTotal
+01 Strongly disagree15%8%10%
+02 Somewhat Disagree10%6%7%
+03 Neither Agree nor Disagree1%6%5%
+04 Somewhat Agree29%19%22%
+05 Strongly Agree44%54%51%
+88 Don't Know2%5%4%
+99 Refused0%1%1%
+Total100%100%100%
+N2869261,212
+We should have stricter gun laws in the United States
+Native BornForeign BornTotal
+01 Strongly disagree11%6%8%
+02 Somewhat Disagree18%6%9%
+03 Neither Agree nor Disagree4%4%4%
+04 Somewhat Agree16%9%11%
+05 Strongly Agree48%73%65%
+88 Don't Know2%2%2%
+99 Refused0%1%1%
+Total100%100%100%
+N2869261,212
+----------------Page (86) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 88 of 115
+The government should expand access to health insurance for all immigrants, regardless of their legal status
+Native BornForeign BornTotal
+01 Strongly disagree25%24%24%
+02 Somewhat Disagree24%13%16%
+03 Neither Agree nor Disagree10%10%10%
+04 Somewhat Agree24%22%23%
+05 Strongly Agree15%25%22%
+88 Don't Know2%6%5%
+99 Refused0%2%1%
+Total100%100%100%
+N2869261,212
+Undocumented immigrants should have the opportunity to eventually become U.S. citizens
+Native BornForeign BornTotal
+01 Strongly disagree6%21%16%
+02 Somewhat Disagree8%13%11%
+03 Neither Agree nor Disagree2%12%9%
+04 Somewhat Agree48%25%32%
+05 Strongly Agree33%23%26%
+88 Don't Know1%5%4%
+99 Refused2%2%2%
+Total100%100%100%
+N2869261,212
+The Senate should give President Obama's Supreme Court nominee a quick and fair hearing
+Native BornForeign BornTotal
+01 Strongly disagree9%8%9%
+02 Somewhat Disagree3%5%5%
+03 Neither Agree nor Disagree5%11%9%
+04 Somewhat Agree33%20%24%
+05 Strongly Agree41%40%40%
+88 Don't Know10%15%13%
+99 Refused0%1%1%
+Total100%100%100%
+N2869261,212
+Laws on hate crimes against religious minorities should be made stronger
+Native BornForeign BornTotal
+01 Strongly disagree14%7%9%
+02 Somewhat Disagree5%4%4%
+03 Neither Agree nor Disagree6%8%8%
+04 Somewhat Agree28%17%20%
+05 Strongly Agree42%52%49%
+88 Don't Know6%10%9%
+99 Refused0%2%1%
+Total100%100%100%
+N2869261,212
+----------------Page (87) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 89 of 115
+Undocumented immigrants should be allowed to get driver's licenses
+Native BornForeign BornTotal
+01 Strongly disagree14%29%24%
+02 Somewhat Disagree17%16%16%
+03 Neither Agree nor Disagree7%9%8%
+04 Somewhat Agree28%21%23%
+05 Strongly Agree33%18%23%
+88 Don't Know2%6%5%
+99 Refused0%1%1%
+Total100%100%100%
+N2869261,212
+Undocumented immigrants should be allowed to pay in-state tuition at public universities
+Native BornForeign BornTotal
+01 Strongly disagree16%19%18%
+02 Somewhat Disagree11%12%12%
+03 Neither Agree nor Disagree11%7%8%
+04 Somewhat Agree28%24%26%
+05 Strongly Agree32%28%29%
+88 Don't Know2%8%6%
+99 Refused0%1%1%
+Total100%100%100%
+N2869261,212
+Asian Americans are unfairly treated by police
+Native BornForeign BornTotal
+01 Strongly disagree10%22%18%
+02 Somewhat Disagree25%18%20%
+03 Neither Agree nor Disagree28%9%15%
+04 Somewhat Agree16%21%20%
+05 Strongly Agree6%17%14%
+88 Don't Know12%10%11%
+99 Refused2%2%2%
+Total100%100%100%
+N2869261,212
+Sometimes politics and government seem so complicated that a person like me can't understand what's going on
+Native BornForeign BornTotal
+01 Strongly disagree13%10%11%
+02 Somewhat Disagree16%11%12%
+03 Neither Agree nor Disagree5%10%8%
+04 Somewhat Agree44%24%31%
+05 Strongly Agree20%38%32%
+88 Don't Know2%7%5%
+99 Refused0%1%1%
+Total100%100%100%
+N2869261,212
+----------------Page (88) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 90 of 115
+Public officials don't care much what people like me think.
+Native BornForeign BornTotal
+01 Strongly disagree5%7%6%
+02 Somewhat Disagree22%17%18%
+03 Neither Agree nor Disagree8%12%11%
+04 Somewhat Agree38%21%27%
+05 Strongly Agree23%29%27%
+88 Don't Know4%12%10%
+99 Refused0%2%1%
+Total100%100%100%
+N2869261,212
+Q16C. How would you describe your political views? Very conservative...
+Native BornForeign BornTotal
+Very conservative2%3%3%
+Conservative12%23%20%
+Moderate50%47%48%
+Liberal27%22%23%
+Very liberal9%6%7%
+Total100%100%100%
+N2869261,212
+Q17. ... If a political candidate expressed strongly anti-immigrant views, but you agreed with him or her on other issues, would you ... 
+Native BornForeign BornTotal
+Still vote for candidate40%33%35%
+Someone else36%42%40%
+Don't Know22%25%24%
+Refused2%1%1%
+Total100%100%100%
+N2869261,212
+Q17B. Next, if a political candidate expressed strong anti-Muslim views, and you agreed with him or her on other issues, would you ...
+Native BornForeign BornTotal
+Still vote for candidate34%35%35%
+Someone else50%41%44%
+Don't Know15%23%21%
+Refused1%2%2%
+Total100%100%100%
+N2869261,212
+Thinking about the 2016 elections, have you been contacted any of the following groups ... Democrats
+Native BornForeign BornTotal
+01 A great deal9%5%6%
+02 Some12%9%10%
+03 A little23%15%17%
+04 Not at all51%68%62%
+88 Don't Know5%3%3%
+99 Refused0%1%1%
+Total100%100%100%
+N2869261,212
+----------------Page (89) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 91 of 115
+Thinking about the 2016 elections, have you been contacted any of the following groups ... Republicans
+Native BornForeign BornTotal
+01 A great deal4%4%4%
+02 Some6%10%9%
+03 A little14%9%10%
+04 Not at all72%74%73%
+88 Don't Know5%3%4%
+99 Refused0%1%1%
+Total100%100%100%
+N2869261,212
+Thinking about the 2016 elections, have you been contacted any of the following groups ... Community Organizations
+Native BornForeign BornTotal
+01 A great deal3%4%4%
+02 Some13%10%11%
+03 A little10%10%10%
+04 Not at all69%73%72%
+88 Don't Know5%2%3%
+99 Refused0%1%1%
+Total100%100%100%
+N2869261,212
+We need more EthnicGroup/Asian Americans in Congress
+Native BornForeign BornTotal
+01 Extremely important18%28%25%
+02 Very important19%30%27%
+03 Somewhat important47%22%30%
+04 or Not important14%16%15%
+88 Don't Know3%5%4%
+Total100%100%100%
+N2869261,212
+We need more women in Congress
+Native BornForeign BornTotal
+01 Extremely important28%22%24%
+02 Very important23%33%30%
+03 Somewhat important33%22%25%
+04 or Not important13%19%17%
+88 Don't Know4%5%5%
+Total100%100%100%
+N2869261,212
+We need more Democrats/Republicans in Congress
+Native BornForeign BornTotal
+01 Extremely important13%13%13%
+02 Very important14%19%17%
+03 Somewhat important34%21%25%
+04 or Not important36%35%35%
+88 Don't Know3%13%10%
+Total100%100%100%
+N2869261,212
+----------------Page (90) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: Nativity, Page 92 of 115
+We need more people in Congress who represent the issues I care about most
+Native BornForeign BornTotal
+01 Extremely important35%39%37%
+02 Very important33%35%34%
+03 Somewhat important27%13%18%
+04 or Not important2%6%5%
+88 Don't Know3%7%6%
+Total100%100%100%
+N2869261,212
+Q19E. Finally... how important is it that the presidential candidates lay out their plans to update Social Security for future generations?
+Native BornForeign BornTotal
+Extremely important33%51%46%
+Very important45%31%36%
+Somewhat important17%10%12%
+or Not important3%3%3%
+Don't Know3%4%4%
+Total100%100%100%
+N2869261,212
+Q21A. You said you get your news from television. Is that [Asian/Ethnic] show?
+Native BornForeign BornTotal
+Yes9%41%32%
+No82%44%54%
+(DO NOT READ)  Both/Both Asian and non-Asian9%16%14%
+Refused0%0%0%
+Total100%100%100%
+N215741956
+Q21B. You said you get your news from the Internet. Is that [Asian/Ethnic] web site?
+Native BornForeign BornTotal
+Yes5%32%21%
+No86%49%63%
+(DO NOT READ)  Both/Both Asian and non-Asian9%20%15%
+Total100%100%100%
+N159448607
+Q21C. You said you get your news from newspapers. Is that [Asian/Ethnic] newspaper?
+Native BornForeign BornTotal
+Yes5%56%43%
+No90%29%45%
+(DO NOT READ)  Both/Both Asian and non-Asian6%14%12%
+Don't Know0%0%0%
+Refused0%0%0%
+Total100%100%100%
+N144491635
+Q21D. You said you get your news from radio. Is that [Asian/Ethnic] show?
+Native BornForeign BornTotal
+Yes1%49%33%
+No97%44%62%
+(DO NOT READ)  Both/Both Asian and non-Asian2%6%5%
+Refused0%0%0%
+Total100%100%100%
+N85319404
+----------------Page (91) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 93 of 115
+Q1A. There will be a general election for President and Congress this November. Are you planning to vote or not planning to vote in that election?
+CANYNVVARestTotal
+Planning to vote95%95%95%93%93%94%
+Not planning to vote1%2%0%3%2%2%
+Don't Know4%3%5%4%5%4%
+Refused0%0%0%0%0%0%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+How certain are you that you will vote in the upcoming presidential election? Are you...
+CANYNVVARestTotal
+Absolutely certain85%88%90%79%85%85%
+Fairly certain12%9%3%7%12%11%
+Not too certain3%3%4%8%3%3%
+Not at all certain0%0%1%4%0%0%
+Don't Know0%0%2%1%0%0%
+Total100%100%100%100%100%100%
+N34815796994461146
+Q1C. If you do vote... will you vote early or by mail using an absentee ballot or will you vote at your precinct polling place on Election Day? 
+CANYNVVARestTotal
+Early Voter17%10%23%20%17%17%
+Absentee31%2%6%0%15%21%
+Vote on Election Day47%85%70%78%61%57%
+Don't Know5%3%2%2%6%5%
+Total100%100%100%100%100%100%
+N34515794974401133
+Q2A. Generally speaking, fewer people vote in primaries and caucuses before the November general election. How about you? Did you vote ...
+NYNVVARestTotal
+Yes42%41%37%45%44%
+No58%58%59%53%54%
+Don't Know0%1%4%2%2%
+Total100%100%100%100%100%
+N57102105383647
+Q2B. Generally speaking, fewer people vote in primaries and caucuses before the Nov general election. How about you? Do you plan to vote... 
+CANYRestTotal
+Yes58%58%56%58%
+No30%34%33%31%
+Don't Know11%8%11%11%
+Refused0%0%0%0%
+Total100%100%100%100%
+N36411190565
+----------------Page (92) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 94 of 115
+Q2C. Which presidential candidate did you vote for?
+NYNVVARestTotal
+Hillary Clinton27%38%12%30%29%
+Bernie Sanders6%24%1%40%34%
+Donald Trump0%19%29%9%11%
+Ted Cruz1%11%15%3%4%
+Marco Rubio0%0%10%1%2%
+John Kasich0%1%11%0%1%
+Bobby Jindal0%0%0%0%0%
+Someone else67%8%22%17%20%
+Total100%100%100%100%100%
+N193639127221
+Q2D. Which presidential candidate do you plan to vote for?
+CANYRestTotal
+Hillary Clinton33%47%40%35%
+Bernie Sanders21%18%31%23%
+Donald Trump12%11%4%10%
+Ted Cruz5%3%0%4%
+Marco Rubio0%0%0%0%
+John Kasich1%0%1%1%
+Someone else28%22%24%27%
+Total100%100%100%100%
+N2076339309
+Discussed politics with family and friends
+CANYNVVARestTotal
+01 Yes65%73%71%79%73%69%
+02 No35%27%29%21%27%31%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Worked for a candidate, political party, or some other campaign organization
+CANYNVVARestTotal
+01 Yes3%9%6%8%12%8%
+02 No97%91%95%92%88%92%
+88 Don't Know0%0%0%0%0%0%
+99 Refused0%0%0%0%0%0%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+----------------Page (93) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 95 of 115
+Contributed money to a candidate, political party, or some other campaign organization
+CANYNVVARestTotal
+01 Yes15%16%19%18%19%17%
+02 No85%83%81%82%80%82%
+88 Don't Know0%1%0%0%0%0%
+99 Refused0%0%0%0%1%0%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Contacted your representative or a government official in the U.S.
+CANYNVVARestTotal
+01 Yes14%15%20%6%17%15%
+02 No86%85%80%94%82%85%
+88 Don't Know0%0%0%0%1%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Worked with others in your community to solve a problem
+CANYNVVARestTotal
+01 Yes23%27%17%28%26%25%
+02 No77%73%81%69%73%75%
+88 Don't Know0%1%2%2%1%1%
+99 Refused0%0%0%1%0%0%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Posted about politics on social media, like Facebook, Twitter, or WeChat
+CANYNVVARestTotal
+01 Yes21%15%21%12%21%20%
+02 No79%82%79%88%78%79%
+88 Don't Know0%2%0%0%2%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Attended a protest march, demonstration, or rally
+CANYNVVARestTotal
+01 Yes8%18%7%6%10%9%
+02 No93%81%93%94%90%91%
+88 Don't Know0%1%0%0%0%0%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+----------------Page (94) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 96 of 115
+Attended a meeting of the local school board or Parent Teacher Association
+CANYNVVARestTotal
+01 Yes13%20%8%24%19%16%
+02 No86%79%92%76%81%83%
+88 Don't Know0%2%0%0%0%0%
+99 Refused1%0%0%0%0%0%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Donated money to a religious organization
+CANYNVVARestTotal
+01 Yes53%39%56%44%62%55%
+02 No47%61%44%56%36%44%
+88 Don't Know0%0%0%0%0%0%
+99 Refused0%0%0%0%2%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Donated money to any other charitable cause
+CANYNVVARestTotal
+01 Yes58%48%67%70%63%60%
+02 No41%52%31%30%37%40%
+88 Don't Know0%0%2%0%1%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Do you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable impression of... The Republican Party?
+CANYNVVARestTotal
+01 Very favorable8%5%24%6%9%8%
+02 Somewhat favorable21%31%12%32%24%23%
+03 Somewhat unfavorable24%17%27%8%20%21%
+04 Very unfavorable23%24%20%29%26%24%
+05 No opinion24%21%18%25%21%23%
+06 Never heard0%2%0%0%0%0%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Do you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable impression of... The Democratic Party?
+CANYNVVARestTotal
+01 Very favorable31%33%24%15%22%27%
+02 Somewhat favorable35%40%29%37%40%38%
+03 Somewhat unfavorable9%15%12%8%8%9%
+04 Very unfavorable9%0%22%16%12%10%
+05 No opinion15%11%11%24%18%16%
+06 Never heard0%1%3%0%0%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+----------------Page (95) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 97 of 115
+Barack Obama
+CANYNVVARestTotal
+01 Very favorable38%34%33%36%35%36%
+02 Somewhat favorable34%35%30%21%30%32%
+03 Somewhat unfavorable10%14%4%11%16%13%
+04 Very unfavorable8%5%26%13%11%10%
+05 No opinion9%10%7%19%8%9%
+06 Never heard1%2%0%0%0%0%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Donald Trump
+CANYNVVARestTotal
+01 Very favorable8%9%18%9%7%8%
+02 Somewhat favorable9%16%13%17%12%11%
+03 Somewhat unfavorable14%12%11%9%15%14%
+04 Very unfavorable48%36%45%49%48%47%
+05 No opinion16%21%10%15%16%16%
+06 Never heard5%6%3%2%2%4%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Ted Cruz
+CANYNVVARestTotal
+01 Very favorable3%3%6%6%3%3%
+02 Somewhat favorable16%19%16%20%22%19%
+03 Somewhat unfavorable14%11%24%16%14%14%
+04 Very unfavorable26%22%26%30%27%26%
+05 No opinion29%28%23%21%23%26%
+06 Never heard12%17%5%7%10%12%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Marco Rubio
+CANYNVVARestTotal
+01 Very favorable2%1%9%7%2%2%
+02 Somewhat favorable15%20%27%38%18%18%
+03 Somewhat unfavorable18%14%19%13%20%18%
+04 Very unfavorable16%13%15%11%19%17%
+05 No opinion36%33%22%23%28%31%
+06 Never heard14%18%8%10%13%14%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+----------------Page (96) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 98 of 115
+John Kasich
+CANYNVVARestTotal
+01 Very favorable3%1%14%2%7%5%
+02 Somewhat favorable16%22%12%24%15%16%
+03 Somewhat unfavorable14%9%17%13%22%17%
+04 Very unfavorable11%13%13%10%9%11%
+05 No opinion35%33%24%36%26%31%
+06 Never heard20%22%21%15%20%20%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Hillary Clinton
+CANYNVVARestTotal
+01 Very favorable30%30%27%18%22%26%
+02 Somewhat favorable35%37%19%33%37%36%
+03 Somewhat unfavorable11%16%13%14%9%11%
+04 Very unfavorable12%9%30%21%18%15%
+05 No opinion11%7%8%12%12%11%
+06 Never heard2%2%2%2%1%2%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Bernie Sanders
+CANYNVVARestTotal
+01 Very favorable23%18%23%17%20%21%
+02 Somewhat favorable25%34%26%22%27%26%
+03 Somewhat unfavorable11%10%12%14%14%12%
+04 Very unfavorable8%12%23%20%10%10%
+05 No opinion23%16%10%22%22%22%
+06 Never heard11%11%7%5%7%9%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+South Carolina governor Nikki Haley
+CANYNVVARestTotal
+01 Very favorable2%2%4%10%4%3%
+02 Somewhat favorable6%16%14%18%12%10%
+03 Somewhat unfavorable7%6%5%5%14%10%
+04 Very unfavorable5%11%7%1%5%6%
+05 No opinion43%37%37%33%31%37%
+06 Never heard37%28%33%33%35%35%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+----------------Page (97) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 99 of 115
+Supreme Court nominee Merrick Garland
+CANYNVVARestTotal
+01 Very favorable9%20%7%4%9%10%
+02 Somewhat favorable15%16%11%16%14%15%
+03 Somewhat unfavorable4%2%1%5%12%7%
+04 Very unfavorable3%1%4%0%4%3%
+05 No opinion42%34%42%38%31%37%
+06 Never heard27%28%36%38%30%29%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Q5. Overall, do you approve or disapprove of the way Barack Obama is handling his job as President? 
+CANYNVVARestTotal
+Approve72%77%52%63%61%67%
+Disapprove20%14%36%29%26%23%
+Don't Know7%9%11%8%12%9%
+Refused1%1%2%0%1%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Q6A. Thinking about the upcoming November election for  the U.S. Senate in California...
+CATotal
+Harris20%20%
+Sanchez10%10%
+Someone else6%6%
+Don't Know65%65%
+Refused0%0%
+Total100%100%
+N159159
+Q6B. Would you say you support that candidate strongly or not so strongly?
+CATotal
+Support strongly58%58%
+Not so strongly32%32%
+Don't know10%10%
+Total100%100%
+N5959
+Q6C. Well, who do you lean towards at this time?
+CATotal
+Republican22%22%
+Democrat56%56%
+Some other party1%1%
+Don't Know19%19%
+Refused2%2%
+Total100%100%
+N100100
+Q6D. Thinking about the upcoming November election for  the U.S. Senate in California...
+CATotal
+Harris31%31%
+Sanches9%9%
+Someone else12%12%
+Don't Know47%47%
+Refused2%2%
+Total100%100%
+N205205
+Q6E. Would you say you support that candidate strongly or not so strongly?
+----------------Page (98) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 100 of 115
+CATotal
+Support strongly66%66%
+Not so strongly21%21%
+Don't know13%13%
+Total100%100%
+N120120
+Q6F. Well, who do you lean towards at this time?
+CATotal
+Republican18%18%
+Democrat48%48%
+Some other party4%4%
+Don't Know26%26%
+Refused5%5%
+Total100%100%
+N8585
+Q6G. Thinking about the upcoming November election for the U.S. Senate in your state... If the election were being held today...
+NYNVRestTotal
+Republican8%30%31%26%
+Democrat51%54%49%49%
+Some other party2%1%2%2%
+Don't Know35%14%18%21%
+Refused4%1%1%2%
+Total100%100%100%100%
+N168102337607
+Q6H. Would you say you support that candidate strongly or not so strongly?
+NYNVRestTotal
+Support strongly74%79%51%57%
+Not so strongly24%18%37%34%
+Don't know2%4%12%10%
+Total100%100%100%100%
+N12378269470
+Q6I. Well, which party's candidate do you lean towards at this time?
+NYNVRestTotal
+Republican3%12%10%8%
+Democrat22%13%36%30%
+Some other party19%0%6%10%
+Don't Know43%74%48%47%
+Refused12%2%1%5%
+Total100%100%100%100%
+N452468137
+Q7A. Thinking about the upcoming November election for the U.S. House of Representatives in your state... If the election were being held today...
+CANYNVVARestTotal
+Republican20%8%29%34%22%21%
+Democrat58%48%39%40%53%54%
+Some other party3%4%1%6%2%3%
+Don't Know19%36%30%20%23%22%
+Refused1%4%0%1%1%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Q7B. Would you say you support that candidate strongly or not so strongly?
+CANYNVVARestTotal
+Support strongly63%71%80%61%61%63%
+Not so strongly27%25%18%20%34%29%
+----------------Page (99) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 101 of 115
+Don't know10%4%2%19%6%8%
+Total100%100%100%100%100%100%
+N2881217281360922
+Q7C. Well, which party's candidate do you lean towards at this time?
+CANYNVVARestTotal
+Republican5%2%35%5%9%7%
+Democrat29%11%7%17%44%32%
+Some other party2%1%0%5%3%3%
+Don't Know58%75%58%70%42%54%
+Refused6%11%0%3%2%5%
+Total100%100%100%100%100%100%
+N76473024113290
+Q7D. Compared to previous elections, are you more enthusiastic than usual about voting this year or less enthusiastic? 
+CANYNVVARestTotal
+More enthusiastic50%64%45%60%50%51%
+Less enthusiastic24%15%32%22%30%26%
+(DO NOT READ)  About the same24%19%17%11%18%20%
+DON'T KNOW3%2%6%7%2%3%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+----------------Page (100) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 102 of 115
+Q8. Generally speaking, do you usually think of yourself as a  (READ CATEGORIES)
+CANYNVVARestTotal
+Democrat49%55%42%40%45%48%
+Republican13%6%26%26%16%15%
+Independent29%28%20%24%31%30%
+Other party  (please specify)1%4%0%0%1%1%
+(DO NOT READ)  Do not think in terms of political parties4%4%8%3%4%4%
+DON'T KNOW3%4%4%7%2%2%
+Refused2%0%0%1%2%2%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Q8B. Would you call yourself a strong Republican or a not very strong Republican
+CANYNVVARestTotal
+Strong Republican35%34%67%58%50%44%
+Not very strong Republican61%66%32%43%50%54%
+Don't Know4%0%1%0%1%2%
+Total100%100%100%100%100%100%
+N5216232976196
+Q8C. Would you call yourself a strong Democrat or a not very strong Democrat?
+CANYNVVARestTotal
+Strong Democrat48%55%48%26%49%49%
+Not very strong Democrat48%43%51%72%49%49%
+Don't Know3%1%1%3%2%3%
+Refused0%1%0%0%0%0%
+Total100%100%100%100%100%100%
+N179943432195534
+Q8D1. Do you think of yourself as closer to the Republican Party or to the Democratic Party?
+CANYNVVARestTotal
+Closer to the Republican Party20%9%11%19%19%18%
+Closer to the Democratic party41%30%16%9%47%41%
+Closer to neither party31%45%35%63%32%33%
+Don't Know9%14%38%10%2%7%
+Refused0%3%0%0%0%0%
+Total100%100%100%100%100%100%
+N6336231996237
+Q8D2. Based on where the two parties stand on the issues, do you think your views are closer to the Republican Party or to the Democratic Party? 
+CANYNVVARestTotal
+Closer to the Republican Party22%0%11%15%24%21%
+Closer to the Democratic party40%56%55%15%39%40%
+Closer to neither party35%36%32%48%29%33%
+Don't Know3%8%2%21%8%6%
+Total100%100%100%100%100%100%
+N66212124104236
+----------------Page (101) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 103 of 115
+Q9. Thinking about past elections, did you get a chance to vote in the 2012 presidential election? If so, did you vote for...
+CANYNVVARestTotal
+Obama67%72%62%54%59%63%
+Romney17%8%21%27%24%20%
+Someone else2%0%0%1%1%2%
+Didn't vote10%13%10%13%13%11%
+Don't remember3%5%3%0%2%3%
+Don't know1%1%2%5%0%1%
+Refused1%0%2%0%1%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Now I'd like to ask you about some issues that might be important in the elections in November... Jobs and the economy
+CANYNVVARestTotal
+01 Extremely important48%50%46%55%39%45%
+02 Very important45%43%41%39%50%46%
+03 Somewhat important5%4%6%6%9%7%
+04 or Not important1%1%5%0%1%1%
+88 Don't Know1%2%2%1%1%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Health care
+CANYNVVARestTotal
+01 Extremely important50%46%45%53%43%47%
+02 Very important40%47%45%28%47%43%
+03 Somewhat important8%4%10%16%9%8%
+04 or Not important1%3%0%3%1%1%
+88 Don't Know1%1%1%1%1%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Passing immigration reform
+CANYNVVARestTotal
+01 Extremely important19%12%26%28%20%19%
+02 Very important43%56%45%39%33%40%
+03 Somewhat important25%19%17%22%32%27%
+04 or Not important8%7%1%9%9%8%
+88 Don't Know6%7%11%2%7%6%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+----------------Page (102) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 104 of 115
+Growing hostility towards immigrants
+CANYNVVARestTotal
+01 Extremely important19%19%27%25%21%20%
+02 Very important45%43%41%34%38%42%
+03 Somewhat important17%19%17%26%24%20%
+04 or Not important11%11%10%7%9%10%
+88 Don't Know8%8%5%8%8%8%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Gun control
+CANYNVVARestTotal
+01 Extremely important39%54%36%39%38%40%
+02 Very important33%33%30%35%35%34%
+03 Somewhat important16%8%21%12%16%15%
+04 or Not important10%4%10%11%10%9%
+88 Don't Know2%2%2%4%2%2%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+The environment
+CANYNVVARestTotal
+01 Extremely important35%37%30%32%31%33%
+02 Very important46%45%38%42%51%47%
+03 Somewhat important14%13%18%23%13%14%
+04 or Not important3%4%12%3%4%4%
+88 Don't Know3%0%2%0%1%2%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Threat of terrorist attacks
+CANYNVVARestTotal
+01 Extremely important45%52%49%49%47%47%
+02 Very important34%41%26%33%29%32%
+03 Somewhat important13%5%13%14%15%13%
+04 or Not important6%1%7%3%6%5%
+88 Don't Know3%2%5%1%4%3%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Racial profiling
+CANYNVVARestTotal
+01 Extremely important21%17%22%31%19%20%
+02 Very important39%45%29%31%31%36%
+03 Somewhat important21%20%30%18%29%24%
+04 or Not important12%12%12%10%13%12%
+88 Don't Know8%7%8%11%8%8%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+----------------Page (103) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 105 of 115
+Taxes
+CANYNVVARestTotal
+01 Extremely important27%21%29%38%24%26%
+02 Very important46%57%39%42%40%44%
+03 Somewhat important19%10%24%14%30%23%
+04 or Not important7%10%5%3%4%5%
+88 Don't Know2%3%2%4%2%2%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Growing gap between the rich and poor
+CANYNVVARestTotal
+01 Extremely important31%23%28%34%19%26%
+02 Very important40%44%41%33%38%39%
+03 Somewhat important19%21%17%23%34%25%
+04 or Not important6%10%9%8%6%6%
+88 Don't Know4%2%5%3%4%4%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Education
+CANYNVVARestTotal
+01 Extremely important51%44%40%52%46%48%
+02 Very important39%50%49%38%46%43%
+03 Somewhat important6%3%5%9%6%6%
+04 or Not important3%1%5%0%2%2%
+88 Don't Know1%1%1%1%0%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Social security
+CANYNVVARestTotal
+01 Extremely important40%35%51%50%38%39%
+02 Very important43%53%39%36%39%41%
+03 Somewhat important15%6%8%14%22%17%
+04 or Not important2%2%2%0%1%2%
+88 Don't Know1%4%0%0%1%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Retirement security or the security of your retirement
+CANYNVVARestTotal
+01 Extremely important41%42%42%45%38%40%
+02 Very important45%47%43%39%37%42%
+03 Somewhat important11%6%9%16%22%15%
+04 or Not important2%2%5%0%3%2%
+88 Don't Know1%4%0%1%1%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+----------------Page (104) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 106 of 115
+For each of the following issues, please tell me whether the Democratic Party or Republican Party is doing a better job .... Jobs and the economy
+CANYNVVARestTotal
+01 Democrat43%48%40%26%34%39%
+02 Republican13%17%22%25%25%19%
+03 No Difference31%24%27%33%30%30%
+88 Don't Know13%12%11%17%12%13%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Health care
+CANYNVVARestTotal
+01 Democrat57%48%50%36%47%51%
+02 Republican9%13%14%18%18%14%
+03 No Difference23%28%23%34%23%24%
+88 Don't Know11%11%13%12%12%11%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Passing immigration reform
+CANYNVVARestTotal
+01 Democrat40%38%25%29%41%40%
+02 Republican10%15%32%24%16%14%
+03 No Difference34%33%32%32%23%29%
+88 Don't Know16%14%11%16%20%17%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Reducing hostility towards immigrants
+CANYNVVARestTotal
+01 Democrat46%48%43%41%49%47%
+02 Republican7%8%19%13%10%9%
+03 No Difference31%27%26%28%26%28%
+88 Don't Know16%17%12%18%16%16%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Gun control
+CANYNVVARestTotal
+01 Democrat41%45%36%30%42%41%
+02 Republican13%14%24%27%19%16%
+03 No Difference27%25%29%23%26%27%
+88 Don't Know19%16%11%19%14%16%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+----------------Page (105) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 107 of 115
+The environment
+CANYNVVARestTotal
+01 Democrat47%44%51%39%45%46%
+02 Republican5%7%13%9%7%6%
+03 No Difference27%33%27%33%32%30%
+88 Don't Know21%16%9%18%16%18%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Threat of terrorist attacks
+CANYNVVARestTotal
+01 Democrat26%32%22%19%21%24%
+02 Republican21%23%41%24%31%26%
+03 No Difference35%28%31%40%36%35%
+88 Don't Know18%17%5%17%12%15%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Racial profiling
+CANYNVVARestTotal
+01 Democrat40%39%40%33%42%40%
+02 Republican8%5%16%5%11%9%
+03 No Difference31%35%27%45%32%32%
+88 Don't Know22%21%17%18%16%19%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Taxes
+CANYNVVARestTotal
+01 Democrat33%29%29%15%32%31%
+02 Republican16%18%19%32%21%19%
+03 No Difference34%37%37%34%31%33%
+88 Don't Know18%16%16%19%17%17%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Growing gap between the rich and poor
+CANYNVVARestTotal
+01 Democrat43%37%37%32%40%40%
+02 Republican9%18%17%10%20%14%
+03 No Difference32%31%33%38%28%31%
+88 Don't Know16%14%13%20%13%15%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+----------------Page (106) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 108 of 115
+Education
+CANYNVVARestTotal
+01 Democrat42%35%39%22%41%40%
+02 Republican7%10%17%10%12%10%
+03 No Difference34%42%29%50%32%34%
+88 Don't Know17%14%15%19%15%16%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Social security
+CANYNVVARestTotal
+01 Democrat41%41%43%29%43%41%
+02 Republican9%12%12%18%12%11%
+03 No Difference35%32%34%39%33%34%
+88 Don't Know15%15%11%14%12%14%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Retirement security or the security of your retirement
+CANYNVVARestTotal
+01 Democrat37%35%35%30%39%38%
+02 Republican10%8%15%14%14%12%
+03 No Difference32%33%36%36%33%33%
+88 Don't Know21%25%15%21%15%18%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Do you support or oppose the health care law passed by Barack Obama and Congress in 2010?
+CANYNVVARestTotal
+01 Support64%57%61%48%50%57%
+02 Oppose24%20%28%39%35%29%
+88 No Difference10%17%11%13%14%12%
+99 Refused2%6%0%0%1%2%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+... Support or oppose major new spending by the federal govt that would help undergraduates pay tuition at public colleges without needing loans?
+CANYNVVARestTotal
+01 Support61%71%62%63%61%62%
+02 Oppose28%17%26%31%26%26%
+88 No Difference10%10%12%6%12%11%
+99 Refused2%3%0%0%1%2%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+----------------Page (107) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 109 of 115
+Do you support or oppose accepting Syrian refugees into the United States?
+CANYNVVARestTotal
+01 Support39%28%40%29%27%33%
+02 Oppose37%45%49%48%52%44%
+88 No Difference21%25%10%23%20%21%
+99 Refused4%2%2%0%2%3%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Do you support or oppose legalizing the possession of small amounts of marijuana for personal use?
+CANYNVVARestTotal
+01 Support34%22%31%32%19%27%
+02 Oppose57%62%60%63%70%63%
+88 No Difference9%16%9%5%10%10%
+99 Refused1%0%0%0%1%0%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Do you support or oppose banning people who are Muslim from entering the United States?
+CANYNVVARestTotal
+01 Support20%17%23%17%23%21%
+02 Oppose59%57%59%70%57%58%
+88 No Difference20%17%13%12%17%18%
+99 Refused2%10%4%1%3%3%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Do you support or oppose setting stricter emission limits on power plants in order to address climate change?
+CANYNVVARestTotal
+01 Support74%74%76%77%71%73%
+02 Oppose11%10%13%16%15%13%
+88 No Difference12%14%10%6%13%13%
+99 Refused2%1%1%1%1%2%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Do you support or oppose providing a federal income tax credit to family caregivers for the care and support of a loved one?
+CANYNVVARestTotal
+01 Support75%68%84%81%78%76%
+02 Oppose13%13%9%9%10%11%
+88 No Difference10%17%7%10%10%11%
+99 Refused2%2%0%0%2%2%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+----------------Page (108) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 110 of 115
+Q13B1. In general, do you think aff action programs designed to increase the number of black and minority students on college campuses are... 
+CANYNVVARestTotal
+Good thing59%49%57%47%44%52%
+Bad thing27%25%21%32%41%32%
+Don't Know12%25%18%21%14%14%
+Refused2%1%4%0%1%2%
+Total100%100%100%100%100%100%
+N184795949236607
+Q13B2. Do you favor or oppose aff action programs designed to help blacks, women, and other minorities get better access to higher education?
+CANYNVVARestTotal
+Favor60%74%68%66%67%64%
+Oppose29%17%23%19%23%25%
+Don't Know10%8%9%15%8%9%
+Refused0%1%0%0%3%1%
+Total100%100%100%100%100%100%
+N180894356237605
+Blacks and other minorities receive equal treatment as whites in the criminal justice system
+CANYNVVARestTotal
+01 Strongly disagree22%12%31%17%26%23%
+02 Somewhat Disagree17%11%11%22%14%16%
+03 Neither Agree nor Disagree8%14%8%9%6%8%
+04 Somewhat Agree15%16%14%19%13%15%
+05 Strongly Agree30%44%28%24%36%34%
+88 Don't Know6%3%9%10%3%5%
+99 Refused1%0%0%0%1%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Congress should increase the federal minimum wage from its current level of $7.25 an hour
+CANYNVVARestTotal
+01 Strongly disagree13%2%6%11%9%10%
+02 Somewhat Disagree9%5%11%8%5%7%
+03 Neither Agree nor Disagree6%3%5%6%3%5%
+04 Somewhat Agree19%24%15%13%27%22%
+05 Strongly Agree48%62%57%55%52%51%
+88 Don't Know5%3%6%7%3%4%
+99 Refused1%1%0%0%1%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+We should have stricter gun laws in the United States
+CANYNVVARestTotal
+01 Strongly disagree9%7%7%13%5%8%
+02 Somewhat Disagree8%2%11%7%13%9%
+03 Neither Agree nor Disagree5%3%3%4%3%4%
+04 Somewhat Agree13%7%13%12%10%11%
+05 Strongly Agree62%79%65%61%67%65%
+88 Don't Know2%1%2%4%1%2%
+99 Refused1%1%0%0%0%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+----------------Page (109) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 111 of 115
+The government should expand access to health insurance for all immigrants, regardless of their legal status
+CANYNVVARestTotal
+01 Strongly disagree20%20%29%39%28%24%
+02 Somewhat Disagree17%12%18%28%15%16%
+03 Neither Agree nor Disagree12%8%2%8%8%10%
+04 Somewhat Agree23%24%18%7%24%23%
+05 Strongly Agree21%35%28%12%20%22%
+88 Don't Know6%2%4%7%4%5%
+99 Refused1%0%2%0%1%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Undocumented immigrants should have the opportunity to eventually become U.S. citizens
+CANYNVVARestTotal
+01 Strongly disagree11%15%16%21%22%16%
+02 Somewhat Disagree13%10%9%7%10%11%
+03 Neither Agree nor Disagree8%16%6%10%7%9%
+04 Somewhat Agree35%22%33%42%31%32%
+05 Strongly Agree27%33%29%12%25%26%
+88 Don't Know4%4%6%8%4%4%
+99 Refused3%0%0%1%1%2%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+The Senate should give President Obama's Supreme Court nominee a quick and fair hearing
+CANYNVVARestTotal
+01 Strongly disagree6%3%17%5%12%9%
+02 Somewhat Disagree5%5%4%7%4%5%
+03 Neither Agree nor Disagree12%8%9%12%7%9%
+04 Somewhat Agree23%12%21%25%28%24%
+05 Strongly Agree39%54%41%42%37%40%
+88 Don't Know14%17%9%7%12%13%
+99 Refused1%1%0%1%1%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Laws on hate crimes against religious minorities should be made stronger
+CANYNVVARestTotal
+01 Strongly disagree5%2%5%3%16%9%
+02 Somewhat Disagree4%4%10%8%4%4%
+03 Neither Agree nor Disagree8%7%20%7%6%8%
+04 Somewhat Agree26%16%18%12%16%20%
+05 Strongly Agree47%52%44%59%49%49%
+88 Don't Know10%18%4%8%7%9%
+99 Refused1%2%0%3%1%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+----------------Page (110) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 112 of 115
+Undocumented immigrants should be allowed to get driver's licenses
+CANYNVVARestTotal
+01 Strongly disagree20%28%39%39%26%24%
+02 Somewhat Disagree16%19%15%21%15%16%
+03 Neither Agree nor Disagree10%10%3%8%6%8%
+04 Somewhat Agree24%19%23%17%23%23%
+05 Strongly Agree24%18%18%9%24%23%
+88 Don't Know5%5%2%5%5%5%
+99 Refused2%0%0%2%1%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Undocumented immigrants should be allowed to pay in-state tuition at public universities
+CANYNVVARestTotal
+01 Strongly disagree14%21%16%27%22%18%
+02 Somewhat Disagree11%9%12%26%13%12%
+03 Neither Agree nor Disagree11%8%5%4%5%8%
+04 Somewhat Agree24%29%26%25%26%26%
+05 Strongly Agree32%27%33%9%28%29%
+88 Don't Know7%4%8%7%5%6%
+99 Refused1%1%0%1%1%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Asian Americans are unfairly treated by police
+CANYNVVARestTotal
+01 Strongly disagree15%22%18%19%21%18%
+02 Somewhat Disagree23%16%34%31%17%20%
+03 Neither Agree nor Disagree14%12%12%10%17%15%
+04 Somewhat Agree19%17%10%20%22%20%
+05 Strongly Agree13%25%14%11%13%14%
+88 Don't Know14%7%11%8%8%11%
+99 Refused2%1%1%1%2%2%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Sometimes politics and government seem so complicated that a person like me can't understand what's going on
+CANYNVVARestTotal
+01 Strongly disagree11%8%9%15%11%11%
+02 Somewhat Disagree14%6%27%17%10%12%
+03 Neither Agree nor Disagree10%13%9%5%7%8%
+04 Somewhat Agree28%32%27%32%33%31%
+05 Strongly Agree30%37%27%26%34%32%
+88 Don't Know6%4%1%4%5%5%
+99 Refused1%0%0%0%0%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+----------------Page (111) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 113 of 115
+Public officials don't care much what people like me think.
+CANYNVVARestTotal
+01 Strongly disagree5%3%8%1%8%6%
+02 Somewhat Disagree22%13%23%25%14%18%
+03 Neither Agree nor Disagree14%13%9%16%7%11%
+04 Somewhat Agree24%34%22%26%29%27%
+05 Strongly Agree24%31%33%23%31%27%
+88 Don't Know10%6%5%7%10%10%
+99 Refused1%0%0%1%1%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Q16C. How would you describe your political views? Very conservative...
+CANYNVVARestTotal
+Very conservative2%4%7%5%3%3%
+Conservative16%20%23%26%22%20%
+Moderate48%48%44%39%49%48%
+Liberal26%23%17%19%21%23%
+Very liberal8%5%9%10%5%7%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Q17. ... If a political candidate expressed strongly anti-immigrant views, but you agreed with him or her on other issues, would you ... 
+CANYNVVARestTotal
+Still vote for candidate34%38%34%40%35%35%
+Someone else39%41%44%43%41%40%
+Don't Know26%21%22%15%23%24%
+Refused1%0%0%1%2%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Q17B. Next, if a political candidate expressed strong anti-Muslim views, and you agreed with him or her on other issues, would you ...
+CANYNVVARestTotal
+Still vote for candidate31%29%40%36%39%35%
+Someone else46%36%42%49%42%44%
+Don't Know21%34%18%14%18%21%
+Refused2%1%0%1%2%2%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Thinking about the 2016 elections, have you been contacted any of the following groups ... Democrats
+CANYNVVARestTotal
+01 A great deal6%6%17%8%6%6%
+02 Some11%8%17%4%9%10%
+03 A little12%17%13%22%23%17%
+04 Not at all67%64%50%62%57%62%
+88 Don't Know2%5%4%4%5%3%
+99 Refused2%0%0%0%0%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+----------------Page (112) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 114 of 115
+Thinking about the 2016 elections, have you been contacted any of the following groups ... Republicans
+CANYNVVARestTotal
+01 A great deal3%1%7%7%4%4%
+02 Some7%7%20%6%10%9%
+03 A little5%6%13%18%16%10%
+04 Not at all81%80%59%66%65%73%
+88 Don't Know2%5%2%3%5%4%
+99 Refused2%0%0%0%0%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Thinking about the 2016 elections, have you been contacted any of the following groups ... Community Organizations
+CANYNVVARestTotal
+01 A great deal2%5%4%5%6%4%
+02 Some11%9%17%8%12%11%
+03 A little12%9%6%11%8%10%
+04 Not at all72%71%72%73%71%72%
+88 Don't Know2%5%1%3%3%3%
+99 Refused2%1%0%0%0%1%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+We need more EthnicGroup/Asian Americans in Congress
+CANYNVVARestTotal
+01 Extremely important23%39%23%42%22%25%
+02 Very important30%26%33%25%22%27%
+03 Somewhat important29%20%25%17%33%30%
+04 or Not important14%13%15%12%18%15%
+88 Don't Know4%2%5%4%5%4%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+We need more women in Congress
+CANYNVVARestTotal
+01 Extremely important25%23%19%38%21%24%
+02 Very important34%46%27%22%22%30%
+03 Somewhat important19%14%33%26%33%25%
+04 or Not important16%13%19%10%20%17%
+88 Don't Know5%4%2%5%4%5%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+We need more Democrats/Republicans in Congress
+CANYNVVARestTotal
+01 Extremely important13%21%11%16%12%13%
+02 Very important16%23%9%22%17%17%
+03 Somewhat important24%21%17%16%28%25%
+04 or Not important39%25%55%29%33%35%
+88 Don't Know8%11%8%17%10%10%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+----------------Page (113) Break----------------
+Note: Many questions appear in abridged form below; for full question wording, please consult the original report.
+APIAVote/AAJC/AAPIData, Spring 2016 Asian American Voter SurveyAppendix: States, Page 115 of 115
+We need more people in Congress who represent the issues I care about most
+CANYNVVARestTotal
+01 Extremely important41%45%51%53%30%37%
+02 Very important32%44%32%29%36%34%
+03 Somewhat important16%8%11%16%23%18%
+04 or Not important4%2%5%0%7%5%
+88 Don't Know7%2%2%3%5%6%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Q19E. Finally... how important is it that the presidential candidates lay out their plans to update Social Security for future generations?
+CANYNVVARestTotal
+Extremely important45%56%69%58%42%46%
+Very important33%37%14%35%39%36%
+Somewhat important16%2%10%2%11%12%
+or Not important1%4%1%3%5%3%
+Don't Know5%1%5%2%3%4%
+Total100%100%100%100%100%100%
+N3641681021054731,212
+Q21A. You said you get your news from television. Is that [Asian/Ethnic] show?
+CANYNVVARestTotal
+Yes36%41%8%31%28%32%
+No48%46%86%58%61%54%
+(DO NOT READ)  Both/Both Asian and non-Asian17%12%6%11%12%14%
+Refused0%1%0%0%0%0%
+Total100%100%100%100%100%100%
+N2761308388379956
+Q21B. You said you get your news from the Internet. Is that [Asian/Ethnic] web site?
+CANYNVVARestTotal
+Yes18%25%16%16%25%21%
+No69%59%66%76%57%63%
+(DO NOT READ)  Both/Both Asian and non-Asian13%16%19%7%18%15%
+Total100%100%100%100%100%100%
+N192695852236607
+Q21C. You said you get your news from newspapers. Is that [Asian/Ethnic] newspaper?
+CANYNVVARestTotal
+Yes49%68%26%41%32%43%
+No41%21%68%45%54%45%
+(DO NOT READ)  Both/Both Asian and non-Asian11%10%6%14%14%12%
+Don't Know0%1%0%0%0%0%
+Refused0%0%0%0%0%0%
+Total100%100%100%100%100%100%
+N179953965257635
+Q21D. You said you get your news from radio. Is that [Asian/Ethnic] show?
+CANYNVVARestTotal
+Yes33%63%24%27%30%33%
+No62%31%66%69%65%62%
+(DO NOT READ)  Both/Both Asian and non-Asian5%6%11%4%4%5%
+Refused0%1%0%0%0%0%
+Total100%100%100%100%100%100%
+N137472340157404
+----------------Page (114) Break----------------
