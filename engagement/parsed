@@ -1,0 +1,63 @@
+[{
+  'topic': 'Posted about politics on social media, like Facebook, Twitter, or WeChat',
+  'responses': {
+    'Yes': {
+      'Chinese': '19%',
+      'Filipino': '30%',
+      'Vietnamese': '13%',
+      'Asian Indian': '22%',
+      'Japanese': '10%',
+      'Korean': '12%',
+      'Total': '20%'
+    },
+    "Don't know": {
+      'Chinese': '1%',
+      'Filipino': '1%',
+      'Vietnamese': '0%',
+      'Asian Indian': '2%',
+      'Japanese': '1%',
+      'Korean': '0%',
+      'Total': '1%'
+    },
+    'No': {
+      'Chinese': '80%',
+      'Filipino': '70%',
+      'Vietnamese': '87%',
+      'Asian Indian': '76%',
+      'Japanese': '89%',
+      'Korean': '88%',
+      'Total': '79%'
+    }
+  }
+}, {
+  'topic': 'Attended a protest march, demonstration, or rally',
+  'responses': {
+    'Yes': {
+      'Chinese': '12%',
+      'Filipino': '4%',
+      'Vietnamese': '23%',
+      'Asian Indian': '4%',
+      'Japanese': '2%',
+      'Korean': '9%',
+      'Total': '9%'
+    },
+    "Don't know": {
+      'Chinese': '0%',
+      'Filipino': '0%',
+      'Vietnamese': '0%',
+      'Asian Indian': '0%',
+      'Japanese': '1%',
+      'Korean': '0%',
+      'Total': '0%'
+    },
+    'No': {
+      'Chinese': '88%',
+      'Filipino': '97%',
+      'Vietnamese': '77%',
+      'Asian Indian': '95%',
+      'Japanese': '98%',
+      'Korean': '91%',
+      'Total': '91%'
+    }
+  }
+}]
