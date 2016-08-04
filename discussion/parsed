@@ -1,0 +1,23 @@
+[{
+  'topic': 'Discussed politics with family and friends',
+  'responses': {
+    'Yes': {
+      'Chinese': '62%',
+      'Filipino': '67%',
+      'Vietnamese': '76%',
+      'Asian Indian': '75%',
+      'Japanese': '74%',
+      'Korean': '72%',
+      'Total': '69%'
+    },
+    'No': {
+      'Chinese': '39%',
+      'Filipino': '33%',
+      'Vietnamese': '24%',
+      'Asian Indian': '25%',
+      'Japanese': '26%',
+      'Korean': '28%',
+      'Total': '31%'
+    }
+  }
+}]
